@@ -107,8 +107,6 @@ Detects Personal Identifiable Information (PII) in Swedish text
 - Comprehensive tests
 - Make it to a npm package (library)
 - Make a documentation page (frontend)
-- Fine-tune NER model:  
-  <https://huggingface.co/FacebookAI/xlm-roberta-base>
 
 ---
 
@@ -283,12 +281,6 @@ rm addresses.osm.pbf addresses.geojson
 
 - All allowed characters in names:
 <https://skatteverket.se/privat/folkbokforing/namn.4.18e1b10334ebe8bc80004083.html#Accordionrubrik>
-
----
-
-## 🤖 Named Entity Recognition (NER) Ideas
-
-- <https://github.com/axa-group/nlp.js/blob/master/docs/v4/ner-quickstart.md>
 
 ---
 
