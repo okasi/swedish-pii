@@ -102,6 +102,7 @@ Detects Personal Identifiable Information (PII) in Swedish text
 - Set lookups for:
   - Localities 🏘️
   - Cities 🏙️
+  - Labor Unions (LABOR_UNION) <https://webperf.se/category/fackforeningar/> 💪
 - Reduce false positives
 - Improve performance & simplify
 - Comprehensive tests
@@ -281,11 +282,3 @@ rm addresses.osm.pbf addresses.geojson
 
 - All allowed characters in names:
 <https://skatteverket.se/privat/folkbokforing/namn.4.18e1b10334ebe8bc80004083.html#Accordionrubrik>
-
----
-
-## 🏷️ Identifiers & Labels
-
-### To-Do
-
-- Labor Unions (LABOR_UNION) <https://webperf.se/category/fackforeningar/>
