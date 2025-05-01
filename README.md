@@ -93,7 +93,7 @@ Detects Personal Identifiable Information (PII) in Swedish text
 
 </details>
 
-## 🛣️ ROADMAP
+## 🛣️ Roadmap
 
 - Patterns for:
   - Passport numbers
