@@ -2,9 +2,11 @@
 
 Detects Personal Identifiable Information (PII) in Swedish text
 
+---
+
 ## 📦 Current Version
 
-## 🔍 What Can Be Detected?
+### 🔍 What Can Be Detected?
 
 <details>
 <summary>💳 Financial</summary>
@@ -85,17 +87,26 @@ Detects Personal Identifiable Information (PII) in Swedish text
 <details>
 <summary>👤 Names</summary>
 
-- Top 20,524 male first names in Sweden
-- Top 23,347 female first names in Sweden
-- Top 107,762 last names in Sweden
+- Top `20,524` male first names with at least 10 bearers in Sweden 1999-2020
+- Top `23,347` female first names with at least 10 bearers in Sweden 1999-2020
+- Top `107,762` last names with at least 10 bearers in Sweden 1999-2020
 
 </details>
 
-## 🚧 FUTURE
+## 🛣️ ROADMAP
 
+- Patterns for:
+  - Passport numbers
+  - Residence Permit Number?
+  - Bank Account Number (Bankgiro/Plusgiro)
 - Set lookups for:
   - Localities 🏘️
   - Cities 🏙️
+- Reduce false positives
+- Improve performance & simplify
+- Comprehensive tests
+- Make it to a npm package (library)
+- Make a documentation page (frontend)
 - Fine-tune NER model:  
   <https://huggingface.co/FacebookAI/xlm-roberta-base>
 
@@ -133,6 +144,8 @@ Detects Personal Identifiable Information (PII) in Swedish text
   - <https://www.postnummerservice.se/>
   - <https://www.postnord.se/en/our-tools/search-postcode-and-address/>
   - <https://download.geofabrik.de/europe/sweden.html>
+
+---
 
 ## 🗺️ Extracting Data from OpenStreetMap via Osmium
 
@@ -273,7 +286,7 @@ rm addresses.osm.pbf addresses.geojson
 
 ---
 
-## 🤖 NER
+## 🤖 Named Entity Recognition (NER) Ideas
 
 - <https://github.com/axa-group/nlp.js/blob/master/docs/v4/ner-quickstart.md>
 
