@@ -1,69 +1,149 @@
-# Swedish — Personal Identifiable Information (PII) - Detection
+# 🇸🇪 Swedish PII Detection
 
-## CURRENT version
+Detects Personal Identifiable Information (PII) in Swedish text
 
-- RegEx
-- Set Lookups from JSON files
+## 📦 Current Version
 
-## FUTURE version
+## 🔍 What Can Be Detected?
 
-- Performance optimize / use sets for:
-  - counties
-  - municipalities
-  - educationPrograms
-  - professions
-- Data for:
-  - Postcode
-  - Locality
-  - City
-- Fine-tune Named Entity Recognition (NER) model:
-  - <https://huggingface.co/FacebookAI/xlm-roberta-base>
+<details>
+<summary>💳 Financial</summary>
+
+- American Express credit card numbers  
+- Mastercard credit card numbers  
+- Visa credit card numbers  
+- Swedish IBAN codes  
+- Swedish BIC codes  
+- Swedish bank account numbers  
+
+</details>
+
+<details>
+<summary>🆔 Identification Numbers</summary>
+
+- Swedish personal identity numbers (male)  
+- Swedish personal identity numbers (female)  
+- Swedish coordination numbers (male)  
+- Swedish coordination numbers (female)  
+
+</details>
+
+<details>
+<summary>📞 Contact</summary>
+
+- Email addresses  
+- Phone numbers  
+- Social media information  
+
+</details>
+
+<details>
+<summary>📍 Location</summary>
+
+- Swedish street addresses  
+- Swedish postal codes  
+- Swedish municipalities  
+- Swedish counties  
+
+</details>
+
+<details>
+<summary>🏢 Work / Education</summary>
+
+- Swedish work organizations  
+- Swedish education organizations  
+- Swedish education programs  
+- Swedish work professions  
+- Swedish organization numbers  
+
+</details>
+
+<details>
+<summary>🔒 Sensitive Attributes</summary>
+
+- Marital status information  
+- Genetic sex information  
+- Disability information  
+- Religion information  
+- Sexual orientation information  
+- Demographic information  
+- Political ideologies information  
+
+</details>
+
+<details>
+<summary>🧩 Misc</summary>
+
+- Swedish license plate information  
+- IP addresses  
+- MAC addresses  
+- Date information  
+- Time information  
+
+</details>
+
+<details>
+<summary>👤 Names</summary>
+
+- Top 20,524 male first names in Sweden
+- Top 23,347 female first names in Sweden
+- Top 107,762 last names in Sweden
+
+</details>
+
+## 🚧 FUTURE
+
+- Set lookups for:
+  - Localities 🏘️
+  - Cities 🏙️
+- Fine-tune NER model:  
+  <https://huggingface.co/FacebookAI/xlm-roberta-base>
 
 ---
 
-## Dataset sources
+## 📚 Dataset Sources
 
-- Names:
-    SCB 2020 First names:
+- **Names:**
+  - SCB 2020 First names:
     <https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0001__BE0001G/BE0001FNamn10/>
-    SCB 2020 Last names:
+  - SCB 2020 Last names:
     <https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0001__BE0001G/BE0001ENamn10/>
-    Skatteverket newborn names (you can write "*" to select all):
+  - Skatteverket newborn names (you can write "*" to select all):
     <https://www6.skatteverket.se/sense/app/c13f8ffe-f90d-4c38-b426-646ee1226b75/sheet/50b8c57d-23f9-4f74-bd6f-7a18d8096226/state/analysis>
-    Skatteverket popular surnames:
+  - Skatteverket popular surnames:
     <https://skatteverket.se/privat/folkbokforing/namn/bytaefternamn/sokblanddevanligasteefternamnen.4.515a6be615c637b9aa48e09.html>
 
-- Education Programs:
+- **Education Programs:**
   - <https://github.com/swedishdata/education-work-social/blob/master/scb-sun-2000.csv>
 
-- Professions:
+- **Professions:**
   - <https://github.com/swedishdata/education-work-social/blob/master/arbetsformedlingen-job-titles.csv>
 
-- Marital Status:
+- **Marital Status:**
   - <https://github.com/swedishdata/education-work-social/blob/master/scb-family-marital-status-and-consensual-union-terms.csv>
 
-- Sexual Orientation:
+- **Sexual Orientation:**
   - <https://glaad.org/reference/terms>
 
-- Addresses:
-  - Street & Postal (DOESN'T CONTAIN ALL):  
+- **Addresses:**
+  - Street & Postal (partial):  
   <https://github.com/beshrkayali/sverige_postnummer>
 
-- Most up-to-date addresses:
+- **Most up-to-date addresses:**
   - <https://www.postnummerservice.se/>
   - <https://www.postnord.se/en/our-tools/search-postcode-and-address/>
   - <https://download.geofabrik.de/europe/sweden.html>
 
-## WIP extraction from OpenStreetMap data via Osmium
+## 🗺️ Extracting Data from OpenStreetMap via Osmium
 
-### To install via Homebrew
+### 🛠️ Install Tools via Homebrew
 
 ```zsh
 brew install osmium-tool
 brew install jq
 ```
 
-### Extract all counties
+### 🏞️ Extract Counties
 
 ```zsh
 osmium tags-filter sweden-latest.osm.pbf "nwr/admin_level=4" -o counties.osm.pbf && \
@@ -84,7 +164,7 @@ jq -r '
 rm counties.osm.pbf counties.geojson
 ```
 
-### Extract all cities
+### 🏙️ Extract Cities
 
 ```zsh
 osmium tags-filter sweden-latest.osm.pbf "nwr/place=city" -o cities.osm.pbf && \
@@ -105,7 +185,7 @@ jq -r '
 rm cities.osm.pbf cities.geojson
 ```
 
-### Extract all municipalities
+### 🏛️ Extract Municipalities
 
 ```zsh
 osmium tags-filter sweden-latest.osm.pbf nwr/boundary=administrative -o municipalities.osm.pbf && \
@@ -121,7 +201,7 @@ jq -r '
 rm municipalities.osm.pbf municipalities.geojson
 ```
 
-### Extract all suburbs & neighborhoods
+### 🏘️ Extract Suburbs & Neighborhoods
 
 ```zsh
 osmium tags-filter sweden-latest.osm.pbf "nwr/place=suburb" -o suburbs.osm.pbf && \
@@ -144,7 +224,7 @@ jq -r '
 rm suburbs.osm.pbf neighborhoods.osm.pbf towns.osm.pbf areas.osm.pbf areas.geojson
 ```
 
-### Extract all streets & postalcodes
+### 🚦 Extract Streets & Postalcodes
 
 ```zsh
 osmium tags-filter sweden-latest.osm.pbf 'addr:street=*' 'addr:postcode=*' -o addresses.osm.pbf && \
@@ -186,20 +266,20 @@ rm addresses.osm.pbf addresses.geojson
 
 ---
 
-## RegEx ideas
+## 🧪 RegEx Ideas
 
 - All allowed characters in names:
 <https://skatteverket.se/privat/folkbokforing/namn.4.18e1b10334ebe8bc80004083.html#Accordionrubrik>
 
 ---
 
-NER:
+## 🤖 NER
 
 - <https://github.com/axa-group/nlp.js/blob/master/docs/v4/ner-quickstart.md>
 
 ---
 
-## Identifiers & labels
+## 🏷️ Identifiers & Labels
 
 ### To-Do
 
