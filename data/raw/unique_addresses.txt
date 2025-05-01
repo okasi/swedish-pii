@@ -1,0 +1,6239 @@
+A F Carlssons gata
+A P Sjöbergs väg,212 36,Malmö
+ASJ-vägen,582 54,Linköping
+Abborres väg,386 34,Färjestaden
+Abel Beckers gata,602 17,Norrköping
+Abrahamshult,362 98,Älmeboda
+Ada Arwedsons gata,583 27,Linköping
+Ada Nilssons gata,129 54,Hägersten
+Adolf Mörners plan,702 28,Örebro
+Af Håkanssons väg,371 63,Lyckeby
+Afrodites väg,134 44,Värmdö
+Aftonsången,254 76,Allerum
+Agdas väg,457 39,Tanumshede
+Ages väg,352 20,Växjö
+Agnebo,748 96,Tobo
+Agnes Lagerstedts Gata,129 51,Hägersten
+Ahjotie,957 00,Pello
+Akademiska sjukhuset,751 85,Uppsala
+Akalla By,164 78,Kista
+Akkas väg,653 46,Karlstad
+Al,153 95,Järna
+Albert Aronsons torg,162 65,Vällingby
+Albert Engströms väg,760 45,Grisslehamn
+Albert Zetterbergs väg,134 64,Ingarö
+Albertina Nyströms väg,632 22,ESKILSTUNA
+Albertina Nyströms väg,632 22,Eskilstuna
+Albertinas Gränd,393 59,Kalmar
+Alberts väg,523 60,Gällstad
+Albins väg,134 69,Ingarö
+Alboga KORED,524 96,Ljung
+Alby Skog ,197 93,Bro
+Albybyn,841 94,Alby
+Aldernäset,865 91,Alnö
+Ale Torg,449 31,Nödinge
+Alfens allé,907 53,Umeå
+Alfred Nobels Allé,141 52,Huddinge
+Alfred Nobels Allé,141 57,Huddinge
+Alfred Nobels Allé,141 52,Huddinge
+Alfred Nobels Allé,146 48,Tullinge
+Alfred Nobels allé,141 52,Huddinge
+Algots väg,373 43,Rödeby
+Algutsgården,441 93,Alingsås
+Alhammar,523 94,Tvärred
+Alice Babs gata,393 60,Kalmar
+Alice Tegnérs väg,146 38,Tullinge
+Alice Tegnérs väg,756 49,Uppsala
+Alkullen,957 91,Övertorneå
+Allan Jonssons Väg,922 31,Vindeln
+Allmänna Gränd,115 21,Stockholm
+Allmänna vägen,414 56,Göteborg
+Allmänna vägen,414 60,Göteborg
+Allmänna vägen,518 40,Sjömarken
+Allsta,853 58,Sundsvall
+Allén,543 30,Tibro
+Allén,812 41,Gästrike-Hammarby
+Alma Gudings,623 46,Hemse
+Almkvists väg,904 40,Umeå
+Almlöfs stig,613 35,Oxelösund
+Almquists väg,663 34,Skoghall
+Alms väg,311 96,Heberg
+Almåsgången,437 30,Lindome
+Alphems Arboretum,521 56,Floby
+Alptoppen,830 13,Åre
+Alriks väg,521 52,Floby
+Alshult,360 10,Ryd
+Altuna Flosta 1,749 71,FJÄRDHUNDRA
+Alvared Solsidan,521 71,Åsarp
+Amalia Jönssons gata,421 31,Västra Frölunda
+Amaryllisgången,431 62,Mölndal
+Ambjörby,680 52,Ambjörby
+Anders Carlssons gata,417 55,Göteborg
+Anders Carlssons gata,417 55,Göteborg
+Anders Görens väg,236 41,Höllviken
+Anders Petters väg,371 93,Karlskrona
+Anders Postmans väg,218 53,Klagshamn
+Anders Sassers väg,241 35,Eslöv
+Anders Uppströms väg,812 41,Gästrike-Hammarby
+Anders Westmans väg,139 74,Djurhamn
+Anders väg,444 60,Stora Höga
+Andersens Väg,167 63,Bromma
+Angereds Torg,424 65,Angered
+Ankarboms backe,139 50,Värmdö
+Ankarboms väg,139 50,Värmdö
+Ankarliden,252 85,Helsingborg
+Ankarsund,923 99,Storuman
+Anna Brahes väg,247 97,Flyinge
+Anna Branzells gata,415 26,Göteborg
+Anna Branzells gata,415 28,Göteborg
+Anna Fischerströms gata,371 57,Karlskrona
+Anna Koskulls gata,352 22,Växjö
+Anna Lindhs plats,302 66,Halmstad
+Anna Stjärnhöks väg,653 46,Karlstad
+Anna Svärds väg,653 46,Karlstad
+Anna Särströms gata,603 80,Norrköping
+Annas Gård,414 83,Göteborg
+Antesbo,570 32,Hjältesvad
+Anton Johanssons väg,176 69,Järfälla
+Anton Tamms väg,194 34,Upplands Väsby
+Anttila,952 96,Lappträsk
+Aplung,686 95,Västra Ämtervik
+Aplungsbyn,665 92,Kil
+Apotekare Reinholds väg,352 55,Växjö
+Appeltoffts väg,392 44,Kalmar
+Araby Ryttaretorpet,352 60,Växjö
+Arbores väg,430 84,Styrsö
+Arenaslingan,121 26,Johanneshov
+Arendals Skans,405 08,Göteborg
+Arendt Byggmästares gata,575 32,Eksjö
+Arkens väg,136 37,Handen
+Arkö,610 25,Vikbolandet
+Armasjärvi,957 91,Övertorneå
+Armkroken,386 51,Mörbylånga
+Arne Beurlings Torg,164 40,Kista
+Arnebo Landstorp,585 96,Linköping
+Arnstorp,686 92,Sunne
+Arnöleden,611 31,Nyköping
+Arpö,372 94,Listerby
+Arta Olofsgården,513 91,Fristad
+Artelleriplan,691 50,Karlskoga
+Arthur Engbergs väg,852 40,Sundsvall
+Artilleriplan,691 50,Karlskoga
+Artles Torg,433 30,Partille
+Arvaslia,7884,Sørli
+Arves Marias väg,417 47,Göteborg
+Arvesgärde,417 44,Göteborg
+Arvid Lignells väg,436 58,Hovås
+Arvid Mörnes väg,168 46,Bromma
+Arvid Västgötes gata,392 37,Kalmar
+Arvid Wallgrens backe,413 46,Göteborg
+Arås Råddehult,504 94,Borås
+Arås,504 94,Borås
+Asa Thors gränd,252 36,Helsingborg
+Asbjörnsens Väg,167 61,Bromma
+Ask,591 91,Motala
+Ask-Upmarks allé,256 57,Ramlösa
+Aske allé,197 92,Bro
+Askekärret,444 95,Ödsmål
+Askilje,920 51,Gunnarn
+Askims Torg,463 43,Askim
+Asklanda Rommefall,447 39,Vårgårda
+Askliden,577 71,Virserum
+Asknäs Gårds väg,178 52,Ekerö
+Asknäs gårds väg,178 52,Ekerö
+Asmundtorp Nedergård,417 46,Göteborg
+Aspen,861 92,Bergeforsen
+Aspernveien,1798,Aremark
+Aspholmen,333 92,Broaryd
+Asplungsåsen,686 95,Västra Ämtervik
+Aspnäs,870 10,Älandsbro
+Assar Gabrielssons väg,418 78,Göteborg
+Asta,826 61,Söderåla
+Astri Taubes torg,121 34,Enskededalen
+Astrid Lindgrens Allé,231 43,Trelleborg
+Astrid Lindgrens gata,271 55,Ystad
+Astris gata,417 67,Göteborg
+Atles gata,215 36,Malmö
+Atterboms gata,584 37,Linköping
+Attersta,705 94,Örebro
+Attmarby,864 92,Matfors
+Attorp,523 62,Vegby
+Attundafältet,183 34,Täby
+August Barks gata,421 32,Västra Frölunda
+August Palmgrens väg,371 49,Karlskrona
+August Strindbergs gata,761 46,Norrtälje
+August Strindbergs gata,761 46,Norrtälje
+August Södermans väg,129 38,Hägersten
+August Södermans väg,756 49,Uppsala
+August Wahlströms väg,182 31,Danderyd
+Augustas väg,373 54,Senoren
+Auroras gränd,252 36,Helsingborg
+Aurorum,977 75,Luleå
+Autio,984 91,PAJALA
+Ava,914 92,Lögdeå
+Avasund,923 99,Storuman
+Avelsgärde gård,371 63,Lyckeby
+Axamo Åsens Körgård,555 94,Jönköping
+Axel Adlers gata,421 32,Västra Frölunda
+Axel Danielssons väg,215 74,Malmö
+Axel Johanssons Gata,754 50,Uppsala
+Axel Johanssons gata,754 50,Uppsala
+Axel Johnsons väg,774 34,Avesta
+Axel Lemans väg,820 65,Forsa
+Axel Ohlssons Gata,352 21,Växjö
+Axel Olsons gata,302 27,Halmstad
+Axel Olssons gata,302 27,Halmstad
+Axel Oxenstiernas väg,392 38,Kalmar
+Axel Quidings gata,352 21,Växjö
+Axel W Anderssons väg,371 62,Lyckeby
+Axel Weüdels gata,392 35,Kalmar
+Axelas väg,371 64,Lyckeby
+Axeltorpet,395 95,Rockneby
+Axens väg,132 48,Saltsjö-Boo
+Axvik,153 93,Mörkö
+BD515,942 03,Koler
+Bacchus väg,311 42,Falkenberg
+Backa,523 94,Tvärred
+Backagärde Gård,513 91,Fristad
+Backan,790 21,Bjursås
+Backliden,523 31,Ulricehamn
+Backvindeln,129 42,Hägersten
+Bagarns Brygga,430 84,Styrsö
+Bagarns väg,430 84,Styrsö
+Bagartorpsringen,170 65,Solna
+Baggeby Gårds väg,181 35,Lidingö
+Bakke brygge,1765,Halden
+Baksjöbodarna,840 60,Bräcke
+Baksjöen,912 31,Vilhelmina
+Balders båge,761 54,Norrtälje
+Baldersplan,811 31,Sandviken
+Balingsta Allé,141 91,Huddinge
+Ballstorp BJÖRKGLÄNTAN,573 92,Tranås
+Ballstorp Kartagården,535 93,Kvänum
+Ballstorp Kullaås,535 93,Kvänum
+Ballstorp Kvarnö,535 93,Kvänum
+Ballstorp Skogsbrynet,535 93,Kvänum
+Ballstorp Tomten,535 93,Kvänum
+Ballstorp Tåsseryd,535 93,Kvänum
+Ballstorp,573 92,Tranås
+Balsna,705 97,Glanshammar
+Baltiska vägen,393 54,Kalmar
+Baltzar von Platens väg,546 73,Forsvik
+Baltzars gränd,252 36,Helsingborg
+Banbrinken,133 38,Saltsjöbaden
+Bancks väg,294 35,Sölvesborg
+Bandhagen,124 34,Bandhagen
+Bandhagsplan,124 32,Bandhagen
+Bandhagsplan,124 32,Stockholm
+Bandhagsplan,124 34,Bandhagen
+Banehagsliden,414 51,Göteborg
+Bankir Zethraeus väg,139 34,Värmdö
+Banmästaregården,245 63,Hjärup
+Bansjöslingan,135 54,Tyresö
+Banvallen,697 74,Sköllersta
+Barkargattu,781 95,Borlänge
+Barken Beatrices gata,417 60,Göteborg
+Barken Storegrunds gata,417 60,Göteborg
+Barken Storegrunds gata,417 60,Göteborg
+Barkhult,343 92,Häradsbäck
+Barkmoran,840 85,Lofsdalen
+Barlingbo lillåkre,621 78,Visby
+Barlingshult,672 93,Årjäng
+Barlows väg,134 52,Gustavsberg
+Barnakullen,277 32,Kivik
+Barnviksslingan,139 71,Stavsnäs
+Baron Cederströms väg,134 60,Ingarö
+Baron Oxenstiernas väg,443 35,Lerum
+Basstråket,903 53,Umeå
+Basterud Biskopsdalen,683 61,Ekshärad
+Beatrice Lesslies gata,421 31,Västra Frölunda
+Beckholmen,115 21,Stockholm
+Bedehusbakken,1794,Sponvika
+Begoniaslingan,197 36,Bro
+Bella Vista-vägen,252 85,Helsingborg
+Bellisgången,416 76,Göteborg
+Benedicks väg,811 97,Gysinge
+Benestad Alvalyckan,342 90,Alvesta
+Benestad Jutagård,342 90,Alvesta
+Bengt Hultqvists Väg,981 28,Kiruna
+Bengt Langhs gata,254 33,Helsingborg
+Bengt Lidners gata,254 39,Helsingborg
+Bengt Nilsgårds väg,521 92,Falköping
+Bengt Reehns väg,352 53,Växjö
+Bengt-Petters väg,313 33,Oskarström
+Bengts Trappor,132 48,Saltsjö-Boo
+Bengts väg,252 84,Helsingborg
+Bengtsbol,655 93,Karlstad
+Benkroken,386 51,Mörbylånga
+Benny Fredrikssons Torg,111 51,Stockholm
+Berbyveien,1765,Halden
+Berg,444 95,Ödsmål
+Berg,855 90,Sundsvall
+Berga Björkhaga,578 94,Aneby
+Berga Bäcken,670 20,Glava
+Berga allé,254 52,Helsingborg
+Berga,472 93,Svanesund
+Berga,578 94,Aneby
+Berga,705 97,Glanshammar
+Bergaliden,252 23,Helsingborg
+Bergbrinken,132 36,Saltsjö-Boo
+Bergdalen,452 05,Sydkoster
+Berge,841 72,Fränsta
+Bergebom,860 30,Sörberge
+Bergencrantz väg,196 31,Kungsängen
+Bergendals gata,252 23,Helsingborg
+Bergendals väg,443 51,Lerum
+Berget,934 91,Kåge
+Berggrens väg,386 34,Färjestaden
+Berghem,561 91,Huskvarna
+Berghs väg,236 42,Höllviken
+Bergliden,131 42,Nacka
+Berglinds väg,139 34,Värmdö
+Berglärkan,426 69,Västra Frölunda
+Bergnäsgrunden,952 44,Töre
+Bergsgårdsgärdet,424 32,Angered
+Bergshöjden,430 84,Styrsö
+Bergskroken,431 37,Mölndal
+Bergsliden,149 92,Nynäshamn
+Bergsliden,165 72,Hässelby
+Bergsliden,461 71,Trollhättan
+Bergsliden,461 71,Trollhättan
+Bergsliden,464 50,Dals Rostock
+Bergsliden,521 32,Falköping
+Bergsliden,593 96,Västervik
+Bergsryggen,139 40,Värmdö
+Bergstorp,614 92,Söderköping
+Bergsunds Strand,117 38,Stockholm
+Bergsunds Strand,117 38,Stockholm
+Bergsåker,857 50,Sundsvall
+Bergsåker,857 51,Sundsvall
+Bergtjärnen,824 78,Bjuråker
+Berguddens stig,134 32,Gustavsberg
+Bergvikskurvan,973 31,Luleå
+Beridarebanan,111 51,Stockholm
+Berlins väg,813 40,Torsåker
+Berndt Fribergs gränd,134 53,Gustavsberg
+Bernts backe,134 32,Gustavsberg
+Bertil Muhrs gata,212 36,Malmö
+Bertil Waldéns gata,702 15,Örebro
+Bestorp Bergheim,521 30,Falköping
+Bestorp Bäckedal,521 30,Falköping
+Bestorp Lunnagården,521 92,Falköping
+Bestorp Lyckebo,521 30,Falköping
+Bestorp Nästegården,521 92,Falköping
+Bestorp Syrénlyckan,521 30,Falköping
+Betestorp Sågarstugan,594 91,Gamkeby
+Betty Petterssons gata,752 57,Uppsala
+Beéns väg,254 76,Allerum
+Biblioteksgången,171 45,Solna
+Biblioteksgången,183 34,Stockholm
+Biblioteksgången,183 70,Stockholm
+Billavegen,2240,Magnor
+Billdals allé,427 36,Billdal
+Birger Sjöbergs gata,256 54,Ramlösa
+Birger Svenssons väg,432 40,Varberg
+Birgittas väg,592 31,Vadstena
+Biskopsgrunden,975 97,Luleå
+Biverud,705 97,Glanshammar
+Bjurselefors station,922 75,Åmsele
+Bjuvsleden,253 56,Mörarp
+Bjällerkransen,911 33,Vännäs
+Bjällstensviken,865 92,Alnö
+Bjällum Valsborg,521 98,Broddetorp
+Bjärabygget,286 74,Skånes Fagerhult
+Bjärme,860 25,Kovland
+Bjärsätter,640 20,Björkvik
+Bjässbodarna,865 92,Alnö
+Björboliden,443 73,Gråbo
+Björka,705 97,Glanshammar
+Björkdungen,422 56,Hisings Backa
+Björkebo,523 62,Vegby
+Björkebyvändan,957 95,Hedenäset
+Björkgården,435 32,Mölnlycke
+Björkhagsplan,121 53,Johanneshov
+Björkholmen,186 96,Vallentuna
+Björkhyddan,640 20,Björkvik
+Björkled,783 95,Gustafs
+Björkliden,256 56,Helsingborg
+Björkliden,375 31,Mörrum
+Björkliden,842 96,LOFSDALEN
+Björkmåla,585 96,Linköping
+Björknäs Torg,132 40,Saltsjö-Boo
+Björknäs strandpromenad,132 48,Saltsjö-Boo
+Björkplan,981 42,Kiruna
+Björksundsslingan,124 31,Bandhagen
+Björksäter,281 33,Hässleholm
+Björksätra Mitt,811 50,Sandviken
+Björkudden,760 17,Norrtälje
+Björkåsliden,442 54,Ytterby
+Björlanda Kile,423 61,Torslanda
+Björlanda Strand,423 00,Torslanda
+Björndammens torg,433 44,Partille
+Björnholm,286 74,Skånes Fagerhult
+Björnhovda,386 35,Färjestaden
+Björnhult,574 76,Korsberga
+Björnkullaringen,141 51,Huddinge
+Björnkullaringen,141 51,Huddinge
+Björnås,873 99,Nordingrå
+Björnögården,723 48,Västerås
+Björnösund södra,761 92,Norrtälje
+Björsbo,733 92,Sala
+Björsjöås Gård,424 91,Olofstorp
+Bjørkebekkveien,1798,Aremark
+Bjørkåsveien,7882,Nordli
+Bjørnøya,1798,Aremark
+Blackelid,577 95,Virserum
+Blacks väg,236 41,Höllviken
+Blacksta,743 86,Bälinge
+Blankas gata,442 39,Kungälv
+Blaxhult,577 92,Vena
+Blendas gata,422 51,Hisings Backa
+Blickagången,141 57,Huddinge
+Blomgrens väg,311 31,Falkenberg
+Blommedala,570 03,Vrigstad
+Blomstergården,682 40,Filipstad
+Blomsterslingan,139 36,Värmdö
+Bläshammar,432 48,Varberg
+Blästorp 202,276 35,Borrby
+Blästorp 220,276 45,Borrby
+Blästorp 221,276 35,Borrby 
+Blästorp 222,276 35,Borrby
+Blå Grindar Björkbacka,578 94,Aneby
+Blå Grindar Björkliden,578 94,Aneby
+Blå Grindar Lindeskog,578 94,Aneby
+Blå Grindar Lövhaga,578 94,Aneby
+Blå Grindar Rosenhill,578 94,Aneby
+Blå Grindar Sågverk,578 94,Aneby
+Blå Grindar Ängliden,578 94,Aneby
+Blå Grindar,578 94,Aneby
+Blå Vägen,920 66,Hemavan
+Blå Vägen,920 64,Tärnaby
+Blå Vägen,920 66,Hemavan
+Blå Vägen,923 32,Storuman
+Blå gatan,194 49,Upplands Väsby
+Blå gatan,393 58,Kalmar
+Blå stigen,611 72,Stigtomta
+Blå stråket,413 45,Göteborg
+Blå stråket,413 45,Göteborg
+Blå stråket,413 46,Göteborg
+Blå vägen,920 66,Hemavan
+Blå vägen,923 31,Storuman
+Blåhakesslingan,134 64,Ingarö
+Blåklockans väg,132 45,Saltsjö-Boo
+Boalt, Svenstorpsvägen,289 94,Glimåkra
+Boalt,286 92,Örkelljunga
+Boalt,286 92,Örkelljunga
+Boaplan,521 42,Falköping
+Bockhornskroken,129 42,Hägersten
+Bocksliden,921 99,Lycksele
+Bodarne,781 62,Gustafs
+Bodaryd,571 63,Bodafors
+Boeryd Lundtorp,563 91,Gränna
+Boeryd Nyhem,563 91,Gränna
+Boeryd,563 91,Gränna
+Bofara,823 91,Kilafors
+Boge Friggars,624 36,Slite
+Bogen,670 35,Gunnarskog
+Bogerud,684 92,Munkfors
+Bogärdet,705 96,Glanshammar
+Bohagen,819 66,Lövstabruk
+Boheden,956 31,Överkalix
+Boholmen,860 35,Söråker
+Bojs väg,373 61,Sturkö
+Bokerødveien,1796,Kornsjø
+Bokholmsgången,213 74,Malmö
+Bokliden,254 78,Domsten
+Bolinders Plan,112 24,Stockholm
+Bollas väg,656 38,Karlstad
+Bollas väg,656 34,Karlstad
+Bollmora Torg,135 40,Tyresö
+Bommedal Ekhagen,583 60,Gammalkil
+Bommedal Kibbelsbo,583 60,Gammalkil
+Bommedal Skogslyckan,583 60,Gammalkil
+Bommedal Ängsätter,583 60,Gammalkil
+Bomsarvet,783 95,Gustafs
+Borgen,472 95,Varekil
+Borgsjöbyn,841 97,Erikslund
+Borgsjöbyn,841 97,Ånge
+Borgvattnet,844 95,Stugun
+Borkhult Solsidan,597 96,Åtvidaberg
+Born,713 91,Nora
+Borregården,276 35,Borrby
+Borshult,343 71,Diö
+Borveggvegen,2427,Plassen
+Bos gränd,431 34,Mölndal
+Botarbo,748 96,TOBO
+Botilla Backes väg,261 61,Landskrona
+Bottnarna,860 40,Indal
+Branders vög,610 75,VÄSTERLJUNG
+Branta Backen,147 51,Tumba
+Branta Backen,615 92,Valdermarsvik
+Branta liden,134 61,Ingarö
+Branta stigen,133 38,Saltsjöbaden
+Branta vägen,852 35,Sundsvall
+Branta vägen,852 39,Sundsvall
+Branta vägen,852 44,Sundsvall
+Brantshammar,741 91,Knivsta
+Braserudvegen,2232,Tobøl
+Braskens väg,783 50,Gustafs
+Bratland,952 92,Kalix
+Brattbäcken,833 59,Hoting
+Brattefjäll,430 85,Brännö
+Brattenskogen,430 84,Styrsö
+Brattland,837 96,Undersåker
+Brattland,952 92,Kalix
+Brattsbacka,914 94,NYÅKER
+Braviks Huvud,430 84,Styrsö
+Bred Hamby,745 95,Enköping
+Breda vägen,602 14,Norrköping
+Breda vägen,602 15,Norrköping
+Breda vägen,602 14,Norrköping
+Bredared,523 61,Gällstad
+Bredbandet,392 39,Kalmar
+Bredbyplan,163 71,spånga
+Bredestad,578 93,Aneby
+Bredgården,523 93,Marbäck
+Bredsandsviken,865 92,Alnö
+Bredsjon,685 91,Varmland
+Bredsjö,712 91,Hällefors
+Bredsundet,136 57,Vega
+Bredsundsviken,760 49,Herräng
+Briggen,444 30,Stenungsund
+Brinells väg,612 30,Finspång
+Brinken,182 74,Stocksund
+Brinken,241 37,Eslöv
+Brismene Enesgärdet,521 93,Falköping
+Brismene Hembygdsgården,521 93,Falköping
+Brismene Klockaregården,521 93,Falköping
+Brismene Skattegården,521 93,Falköping
+Brismene Östergården,521 93,Falköping
+Brismene Östra brunn,521 93,Falköping
+Brita-Kolas allé,170 67,Solna
+Britt-Louise Sundells gata,134 50,Gustavsberg
+Britt-Louise Sundells gata,139 50,Gustavsberg
+Britta Hazelius väg,791 55,Falun
+Bro centrum,197 31,Bro
+Broanders väg,623 41,Havdhem
+Broby Grönelid,570 12,Landsbro
+Broby Hage,755 97,Uppsala
+Broby Hage,755 97,Uppsala
+Broby Johansens väg,272 38,Brantevik
+Broby Nyholm,570 12,Landsbro
+Broby Silkesflode,570 12,Landsbro
+Broby,186 96,Vallentuna
+Brofästet Öland,386 31,Färjestaden
+Brofästet,386 31,Färjestaden
+Brofästet,386 33,Färjestaden
+Broheden,781 99,Idkerberget
+Bromanders väg,382 71,Orrefors
+Brommaplan,168 76,Bromma
+Brommaplan,168 76,Bromma
+Bromoda,361 96,Vissefjärda
+Bror Engkvists gata,254 59,Helsingborg
+Bror Hjorts väg,814 95,Älvkarleby
+Bror Nilssons gata,417 55,Göteborg
+Brors gata,543 34,Tibro
+Brotorp,705 97,Glanshammar
+Brottby Torg,186 70,Brottby
+Brottkärr Stenkulla,436 58,Hovås
+Brottkärr Stenkulla,436 58,Hovås
+Brottkärrs Röseväg,436 58,Hovås
+Brottkärrs Tennisväg,436 58,Hovås
+Bruddalen,860 25,Kovland
+Bruksraden,647 51,Åkers Styckebruk
+Bruna stigen,611 72,Stigtomta
+Bruna stråket,413 46,Göteborg
+Bruncronas väg,139 34,Värmdö
+Brunnehagen,417 47,Göteborg
+Brunnhem Bygdegården,521 63,Stenstorp
+Brunnsmålen,573 92,Tranås
+Brunnstorp,598 73,Gullringen
+Brushaneslingan,125 56,Älvsjö
+Brydestuesträtet,239 33,Skanör
+Bryggbågen,645 94,Strängnäs
+Bryggholmen,663 32,Skoghall
+Bryngfjorden,653 50,Karlstad
+Bräcke Östergårds väg,418 77,Göteborg
+Brända Berget,436 58,Hovås
+Brännarns väg,432 76,Tvååker
+Bränne Backe,811 71,Järbo
+Brännehylte,335 74,Hillerstorp
+Bränningeleden,566 34,Habo
+Brännstan,915 93,Robertsfors
+Bråboplan,602 16,Norrköping
+Bråborg Gamla Skolan,605 91,Norrköping
+Bråborg Tegeludden,605 91,Norrköping
+Bråna Näs,343 90,Agunnaryd
+Bråne,655 91,Karlstad
+Brånsta,692 91,Kumla
+Bråt Tallbacken,360 30,Lammhult
+Bråt,360 30,Lammhult
+Bråteholmen,1680,Skjærhalden
+Bröderna Berwalds väg,756 58,Uppsala
+Bröderna Grimms väg,167 63,Bromma
+Bröderna Pihls gränd,252 36,Helsingborg
+Bröstgårdsholmarna,663 31,Skoghall
+Bröttorp,386 96,Färjestaden
+Brødbølvegen,2224,Austmarka
+Buddes gränd,131 61,Nacka
+Buffils Annas väg,793 60,Siljansnäs
+Bufjällsleden,417 27,Göteborg
+Bukteløkka,1794,Sponvika
+Bullås,865 92,Alnö
+Bunge Änge,624 64,Fårösund
+Bunkerkajen,252 36,Helsingborg
+Bures gata,215 31,Malmö
+Bures gata,215 33,Malmö
+Bures gata,215 34,Malmö
+Buresjön,924 94,Sorsele
+Buresjön,924 94,Srosele
+Burliden,937 92,Burträsk
+Burmoran,932 52,Bureå
+Burmoran,932 52,Bureå3
+Bursjön,924 94,Sorsele
+Burvik,932 91,Bureå
+Bussens väg,122 43,Enskede
+Butjernveien,1870,Ørje
+Buvikveien,1692,Nedgården
+By,841 94,Alby
+Bya,776 95,Vikmanshyttan
+Bybakken,1794,Sponvika
+Bygdegårdsplan,457 34,Tanumshede
+Byggarlasses väg,593 37,Västervik
+Byholma,341 72,Lidhult
+Bymans väg,386 34,Färjestaden
+Byn Sandhed,842 92,Sveg
+Byslingan,624 55,Lärbro
+Bysta,155 94,Nykvarn
+Byåker,871 93,Härnösand
+Bäck,686 92,Sunne
+Bäckagården,682 40,Filipstad
+Bäckebols gård,422 59,Hisings Backa
+Bäckedal,842 31,Sveg
+Bäckfåran,433 34,Partille
+Bäckheden,683 92,Hagfors
+Bäckpromenaden,543 32,Tibro
+Bäling,829 61,Gnarp
+Bälinge-Ekeby,743 82,Bälinge
+Bänkåsviken,865 92,Alnö
+Bättre Tiders Gränd,393 59,Kalmar
+Bäverns gränd,753 19,Uppsala
+Bågen,732 31,Arboga
+Båtlänningen,820 64,Näsviken
+Båtmansklevet,129 40,Hägersten
+Båtsman Bleks gata,422 57,Hisings Backa
+Båtsman Dubbels gata,422 57,Hisings Backa
+Båtsman Grås gata,422 57,Hisings Backa
+Båtsman Hisings gata,422 57,Hisings Backa
+Båtsman Kapers gata,422 57,Hisings Backa
+Båtsman Lustigs gata,422 57,Hisings Backa
+Båtsman Långs gata,422 57,Hisings Backa
+Båtsman Rems gata,422 57,Hisings Backa
+Båtsman Stens väg,163 41,Spånga
+Båtsmanskroken,129 40,Hägersten
+Båtutsettveien,1798,Aremark
+Böle,845 95,Rätan
+Böle,853 57,Sundsvall
+Bölegården,860 30,Sörberge
+Börje Löfqvists väg,352 53,Växjö
+Börsnäs,646 94,Stjärnhov
+Bösebo,577 95,Virserum
+Bööse Backe,263 61,Viken
+C A Svenssons väg,856 44,Sundsvall
+C G Ugglas gata,256 54,Ramlösa
+Calle Flygares väg,134 60,Ingarö
+Carin Bjelkes väg,443 32,Lerum
+Carl Bernlunds gata,222 20,Lund
+Carl Bondes väg,165 74,Hässelby
+Carl Cederströms gata,586 63,Linköping
+Carl Gustafs Väg,217 42,Malmö
+Carl Gustavs väg,214 21,Malmö
+Carl Hennings gata,721 87,Västerås
+Carl Johans Kyrkoplan,414 55,Göteborg
+Carl Krooks gata,252 25,Helsingborg
+Carl Krooks gata,252 27,Helsingborg
+Carl Larssons Väg,168 50,Bromma
+Carl Lindholms väg,814 70,Älvkarleby
+Carl Petterssons väg,854 63,Sundsvall
+Carl Skottsbergs gata,413 19,Göteborg
+Carl Tryggers Väg,590 12,Boxholm
+Carl Westmans allé,254 51,Helsingborg
+Carl Westmans väg,133 35,Saltsjöbaden
+Carl von Linnés väg,757 56,Uppsala
+Carl von Paykulls väg,741 71,Knivsta
+Carl Öhrns gata,254 43,Helsingborg
+Carl-Gustaf Lindstedts Gata,112 69,Stockholm
+Carlesons väg,572 51,Oskarshamn
+Carlforsliden,566 31,Habo
+Carlsteins väg,433 34,Partille
+Carmencitas gata,417 67,Göteborg
+Caroline Östbergs Väg,121 34,Enskededalen
+Castmans väg,575 37,Eksjö
+Castorplan,654 55,Karlstad
+Catalina Torget,183 68,Täby
+Cederbaums väg,572 51,Oskarshamn
+Celsings väg,192 79,Sollentuna
+Centralplan,111 20,Stockholm
+Centralplan,111 64,Stockholm
+Centralplan,211 20,Malmö
+Centralplan,568 30,Skillingaryd
+Centralplan,615 30,Valdemarsvik
+Centralplan,617 30,Skärblacka
+Centralplan,803 11,Gävle
+Centralstationen,803 11,Gävle
+Centrumleden,746 32,Bålsta
+Centrumleden,746 80,Bålsta
+Centrumpassagen,186 31,Vallentuna
+Centrumplan,562 42,Taberg
+Centrumplan,881 31,Sollefteå
+Centrumstråket,756 22,Bålsta
+Cervins väg,163 41,Spånga
+Cervins väg,163 41,spånga
+Chapmans Torg,414 54,Göteborg
+Chapmans torg,414 54,Göteborg
+Charlotte Yhlens gata,252 23,Helsingborg
+Christer Boijes väg,254 54,Helsingborg
+Christian IV:s väg,442 39,Kungälv
+Ciddens väg,395 97,Läckeby
+Clemens väg,811 93,Sandviken
+Copperhill,837 97,Åre
+Corfitz Beck-Friis väg,236 42,Höllviken
+Corianders allé,783 30,Säter
+Cronas väg,371 63,Lyckeby
+Cronmans väg,213 64,Malmö
+Cronstads väg,832 56,Frösön
+Curmans väg,192 79,Sollentuna
+DALHEM BUSARVE,622 56,Dalhem
+Dag Hammarskjölds Väg,115 27,Stockholm
+Dag Hammarskjölds Väg,115 89,Stockholm
+Dag Hammarskjölds plats,553 22,Jönköping
+Dag Hammarskjölds torg,211 18,Malmö
+Dag Hammarskjölds väg,224 64,Lund
+Dag Hammarskjölds väg,254 33,Helsingborg
+Dag Hammarskjölds väg,752 37,Uppsala
+Dag Hammarskjölds väg,756 52,Uppsala
+Dagsås,432 77,Tvååker
+Dahmska vägen,392 44,Kalmar
+Dal-Johans väg,811 97,Gysinge
+Dala,521 62,Stenstorp
+Dalahästen Åsbo,774 61,AVESTA
+Dalbobranten,128 68,Sköndal
+Dalen,132 45,Saltsjö-Boo
+Dalens allé,121 31,Enskededalen
+Dalens allé,121 31,Enskededalen
+Dalgrens väg,131 47,Nacka
+Dalgången,168 41,Bromma
+Dalgången,182 74,Stocksund
+Dalgångsslingan,141 92,Huddinge
+Dalhem Hallfose,622 56,Dalhem
+Dalhem Hässelby,622 56,Dalhem
+Dalhem Nygårds,622 56,Dalhem
+Daliagången,416 76,Göteborg
+Dalkarlså,915 98,Bygdeå
+Dalkärrsleden,162 71,Vällingby
+Dalsjö,784 78,Borlänge
+Dammliden,137 69,Österhaninge
+Dammtorps Allé,170 62,Solna
+Damtjernveien,1870,Ørje
+Damveien,7375,Røros
+Dan Bergmans väg,152 57,Södertälje
+Daniel Hjorths väg,212 36,Malmö
+Daniel Naezéns väg,907 37,Umeå
+Daniel Petterssons gata,413 20,Göteborg
+Daniel Tilas väg,811 92,Sandviken
+Daniel Tilas väg,811 92,Sandviken
+Danmarks Söderby,755 98,Uppsala
+Danska Gränd,125 34,Älvsjö
+Danska Vägen,412 66,Göteborg
+Danska Vägen,416 59,Göteborg
+Danska backarna,133 35,Saltsjöbaden
+Danska vägen,212 29,Malmö
+Danska vägen,310 60,Ullared
+Danska vägen,311 60,Ullared
+Danska vägen,461 77,Sjuntorp
+Danska vägen,521 31,Falköping
+Danska vägen,521 32,Falköping
+Datalinjen,583 30,Linköping
+De Gamlas Lund,121 33,Enskededalen
+De Gamlas Väg,121 34,Enskededalen
+De La Gardies väg,134 52,Gustavsberg
+Decemberfältet,226 39,Lund
+Degernäs,905 80,Umeå
+Dekarsön,891 78,Bonässund
+Dellenkroken,820 64,Näsviken
+Diagonalen,417 56,Göteborg
+Dicksons väg,213 68,Malmö
+Didriks väg,139 60,Värmdö
+Dikeskanten,796 30,Älvdalen
+Dillners väg,740 46,Östervåla
+Dillners väg,772 40,Grängesberg
+Djupsundvegen,2233,Vestmarka
+Djuptjärn,890 54,TREHÖRNINGSJÖ
+Djuptjärn,890 54,Trehörningsjö
+Djupvik Oppgården,645 94,Strängnäs
+Djura Spik Kerstis väg,790 31,Djura
+Djurmo,785 62,Djurmo
+Djursdala-Långbrössle,598 72,Södra Vi
+Djursons väg,576 32,Sävsjö
+Djurö gårds väg,139 73,Djurhamn
+Doktor Abrahams väg,168 58,Bromma
+Doktor Ahlbergs Väg,794 33,Orsa
+Doktor Allards gata,413 23,Göteborg
+Doktor Allards gata,413 24,Göteborg
+Doktor Allards gata,413 25,Göteborg
+Doktor Bex gata,413 24,Göteborg
+Doktor Butlers gata,602 11,Norrköping
+Doktor Dahlströms gata,413 26,Göteborg
+Doktor Enwalls väg,681 37,Kristinehamn
+Doktor Forselius Backe,413 26,Göteborg
+Doktor Forselius Backe,413 26,Göteborg
+Doktor Forselius gata,413 26,Göteborg
+Doktor Fries Torg,413 23,Göteborg
+Doktor Frödins väg,599 93,Hästholmen
+Doktor Heymans gata,413 22,Göteborg
+Doktor Håléns gata,413 23,Göteborg
+Doktor Liborius gata,413 23,Göteborg
+Doktor Lindhs gata,413 25,Göteborg
+Doktor Sydows gata,413 24,Göteborg
+Doktor Wengbergs gata,413 25,Göteborg
+Doktor Westrings gata,413 24,Göteborg
+Domkyrkoplan,753 10,Uppsala
+Domsandsliden,566 35,Habo
+Donatus väg,227 31,Lund
+Donners plats,621 57,Visby
+Donsö Backe,430 82,Donsö
+Donsö Gärde,430 82,Donsö
+Dora Lindgrens väg,791 55,Falun
+Dordis,790 20,Grycksbo
+Dr Ekmarks väg,134 65,Ingarö
+Dr Westerlunds Gata,745 63,Enköping
+Dr. Barks gata,872 30,Kramfors
+Dragdokkveien,7530,Meråker
+Dragskär Vilan,572 92,Oskarshamn
+Dragörkajen 1a,216 12,Limhamn
+Drottning Blankas väg,393 52,Kalmar
+Drottning Christinas väg,733 36,Sala
+Drottning Kristinas Väg,100 44,Stockholm
+Drottning Kristinas Väg,114 28,Stockholm
+Drottning Kristinas Väg,114 86,Stockholm
+Drottning Kristinas esplanad,170 67,Solna
+Drottning Kristinas väg,392 38,Kalmar
+Drottning Kristinas väg,654 55,Karlstad
+Drottning Kristinas väg,702 31,Örebro
+Drottning Kristinas väg,761 40,Norrtälje
+Drottning Kristinas väg,761 41,Norrtälje
+Drottning Kristinas väg,761 42,Norrtälje
+Drottning Margaretas väg,392 45,Kalmar
+Drottning Margaretas väg,392 46,Kalmar
+Drottning Sofias Väg,114 33,Stockholm
+Drottninggården,261 46,Landskrona
+Dunderhus allé,196 93,Kungsängen
+Dunfins gata,422 48,Hisings Backa
+Dunfins väg,653 46,Karlstad
+Duvebo BERGHÄLLA,573 98,Tranås
+Duvebo BJÖRKLIDEN,573 98,Tranås
+Duvebo BJÖRKSÄTER,573 98,Tranås
+Duvebo SÄTERSTAD,573 98,Tranås
+Duvebo,573 98,Tranås
+Duvedsbyn,837 72,Duved
+Duvesjön,442 92,Romelanda
+Duvnäs udde,131 50,Saltsjö-Duvnäs
+Duvstråket,236 42,Höllviken
+Dvärgkroken,386 51,Mörbylånga
+Dvärstorp Kyrkegården,522 93,Tidaholm
+Dvärstorp Stommen,522 93,Tidaholm
+Dybäck,274 54,Skivarp
+Dye Västergård,330 21,Reftele
+Dye, Västergård,330 21,Reftele
+Dyens väg,732 48,Arboga
+Dygdens stig,761 40,Norrtälje
+Dähliehöjden Bergänget,797 92,Idre
+Ebba Bååts torg,141 51,Huddinge
+Ebba Dohnas väg,653 46,Karlstad
+Ebbarp Ekbacken,564 91,Bankeryd
+Ebbarp,564 91,Bankerkyd
+Edholms väg,352 20,Växjö
+Edingegången,163 63,Spånga
+Edingekroken,163 63,Spånga
+Edla Sofias gata,134 53,Gustavsberg
+Edla Sofias gata,134 50,Gustavsberg
+Edla Sofias gata,139 50,Gustavsberg
+Edsala,647 93,Mariefred
+Edsta,860 13,Stöde
+Edströms väg,139 74,Djurhamn
+Edsvära Algutstorp,535 93,Kvänum
+Edsvära Skarpås,535 93,Kvänum
+Edsätter,870 30,Nordingrå
+Edvard Griegsgången,164 32,Kista
+Edvin Adolphsons väg,169 40,Solna
+Edwin Berlings gata,252 50,Helsingborg
+Egeby Källgård,590 47,Vikingstad
+Egeby Källstuga,590 47,Vikingstad
+Egeby Trumpetaregård,590 47,Vikingstad
+Eggby Lilla Baggeboda,532 92,Axvall
+Egron Lundgrens Väg,168 51,Bromma
+Ehrendal Annexet,646 92,Gnesta
+Eidesveien,7884,Sørli
+Ejderns väg,139 71,Stavsnäs
+Ekallen,132 46,Saltsjö-Boo
+Ekdungen,422 56,Hisings Backa
+Ekeblads väg,433 51,Öjersjö
+Ekeby Bruk,752 63,Uppsala
+Ekeby Bruk,752 75,Uppsala
+Ekeby Röstäde,621 70,Visby
+Ekeby,692 91,KUMLA
+Ekeby,747 92,Alunda
+Ekebybruk,752 63,Uppsala
+Ekebyholmshöjden,762 91,Rimbo
+Ekenesveien,1870,Ørje
+Ekenleden,428 36,Kållered
+Ekens backe,812 40,Kungsgården
+Ekens väg,134 62,Ingarö
+Ekens väg,818 92,Valbo
+Ekerö Prästgård,178 53,Ekerö
+Ekeviken,624 67,Fårö
+Ekfors,957 91,Övertorneå
+Ekhagsringen,554 56,Jönköping
+Ekholmens centrum,589 25,Linköping
+Ekholmsliden,523 31,Ulricehamn
+Ekliden,132 36,Saltsjö-Boo
+Ekliden,216 19,Malmö
+Ekmans gränd,521 42,Falköping
+Ekmans väg,612 36,Finspång
+Ekonomstråket,907 30,Umeå
+Ekonomstråket,907 30,Umeå
+Ekslingan,139 54,Värmdö
+Ekslingan,254 67,Helsingborg
+Ekudden,430 84,Styrsö
+Ekvändan,254 67,Helsingborg
+Ekåsen,139 40,Värmdö
+Eldvalla,705 97,Glanshammar
+Elektronikhöjden,175 43,Järfälla
+Elektronikhöjden,175 80,Järfälla
+Elektronikhöjden,175 43,Järfälla
+Elers väg,371 63,Lyckeby
+Elfvings väg,386 34,Färjestaden
+Elias Follins gata,254 37,Helsingborg
+Elias Lönnrots väg,168 46,Bromma
+Elias Lönnrots väg```,168 46,Bromma
+Elias väg,981 46,Kurravaara
+Eliassons väg,271 45,Ystad
+Elins Gård,414 81,Göteborg
+Elisabet Olins Väg,121 34,Enskededalen
+Ella,243 71,Tjörnarp
+Ellen Keys gata,584 37,Linköping
+Ellen Klemans gata,371 57,Karlskrona
+Ellen Pohls väg,352 20,Växjö
+Ellidas Gränd,393 59,Kalmar
+Ellis väg,521 70,Åsarp
+Elof Lindälvs gata,414 55,Göteborg
+Elof Lindälvs gata,414 58,Göteborg
+Elsa Brändströms gata,582 27,Linköping
+Else Nils väg,241 35,Eslöv
+Elstadveien,7882,Nordli
+Elvavollveien,7370,Brekkebygd
+Elvdalsvegen,2427,Plassen
+Elvéns väg,777 60,Söderbärke
+Elzwiks väg,711 78,Guldsmedshyttan
+Emanuel Birkes väg,144 30,Rönninge
+Emblas gata,224 76,Lund
+Emblas gränd,215 35,Malmö
+Emil Eklöfs Väg,741 92,Knivsta
+Emil Sjögrens väg,741 43,Knivsta
+Emil Spelares väg,395 97,Läckeby
+Emilie Högqvists Väg,121 34,Enskededalen
+Emils Gata,168 72,Bromma
+Emmas väg,386 34,Färjestaden
+Emmy Rappes Gata,113 68,Stockholm
+Emmy Rappes väg,752 32,Uppsala
+Enaforsholm,837 71,Duved
+Enbärsvändan,139 54,Värmdö
+Endsetveien,7884,Sørli
+Eneliden,430 82,Donsö
+Enelyckan,247 96,Veberöd
+Energikullen,641 96,Katrineholm
+Energikullen,641 96,Katrineholm
+Energiplan,982 38,Gällivare
+Enerhogen,471 62,Höviksnäs
+Engelbrekts väg,191 62,Sollentuna
+Engelska gången,254 51,Helsingborg
+Engelska vägen,392 38,Kalmar
+Engelska vägen,393 56,Kalmar
+Engkvists väg,386 34,Färjestaden
+Enighetens Väg,393 59,Kalmar
+Enliden,395 93,Rockneby
+Enningdalsveien,1765,Halden
+Enningdalsåsen,1765,Halden
+Enrisgrundet-Sören,952 44,Töre
+Erdtmans gata,582 56,Linköping
+Eric Perssons väg,217 62,Malmö
+Erik Dahlbergs gata,254 38,Helsingborg
+Erik Dahlbergs gata,254 39,Helsingborg
+Erik Dahlbergs gata,254 40,Helsingborg
+Erik Dahlbergs väg,152 70,Södertälje
+Erik Dahlbergs väg,392 34,Kalmar
+Erik Dahlbergs väg,392 35,Kalmar
+Erik Dahlbergsallén,115 20,Stockholm
+Erik Kuus gata,416 73,Göteborg
+Erik Norbergs väg,352 45,Växjö
+Erik Rödes gata,253 62,Helsingborg
+Erik Sandbergs gata,169 34,Solna
+Erikas väg,984 94,Lovikka
+Eriks väg,464 50,Dals Rostock
+Eriks väg,656 34,Karlstad
+Eriksbo Västergärde,424 34,Angered
+Eriksbo Östergärde,424 34,Angered
+Eriksdal,865 91,Alnö
+Eriksdal,865 91,Alnö
+Erkenskroken,120 54,Årsta
+Erkheikki,984 91,PAJALA
+Erlandssons väg,611 67,Nyköping
+Ernatorp Bengtsgård,363 94,Lammhult
+Ernatorp Jonsgård,363 94,Lammhult
+Ernatorp Karlsgård,363 94,Lammhult
+Ernatorp Mellangård,363 94,Lammhult
+Ernatorp Södergård,363 94,Lammhult
+Ernatorp Västragård,363 94,Lammhult
+Ernst Fontells Plats,411 40,Göteborg
+Ernst Hedlunds väg,785 30,Gagnef
+Ernst Jakobssons gata,212 38,Malmö
+Ernst Josephsons Väg,168 50,Bromma
+Ernst Rolfs gata,791 62,Falun
+Ernst Westerlunds Allé,931 33,Skellefteå
+Ervalla,718 95,Ervalla
+Esbjörns gata,541 66,Skövde
+Eskilsryd,507 90,Brämhult
+Esplanaden,136 70,VENDELSÖ
+Esplanaden,136 71,VENDELSÖ
+Esplanaden,172 67,Sundbyberg
+Esplanaden,172 68,Sundbyberg
+Esplanaden,183 80,Täby
+Esplanaden,234 39,Lomma
+Esplanaden,361 33,Emmaboda
+Esplanaden,392 33,Kalmar
+Esplanaden,392 33,Kalmar
+Esplanaden,392 34,Kalmar
+Esplanaden,531 50,Lidköping
+Esplanaden,531 53,Lidköping
+Esplanaden,570 12,Landsbro
+Esplanaden,570 31,Ingatorp
+Esplanaden,613 30,Oxelösund
+Esplanaden,761 45,Norrtälje
+Esplanaden,812 41,Gästrike-Hammarby
+Esplanaden,818 41,Forsbacka
+Esplanaden,852 31,Sundsvall
+Esplanaden,852 32,Sundsvall
+Esplanaden,852 36,Sundsvall
+Esplanaden,852 32,Sundsvall
+Essingekroken,112 65,Stockholm
+Essingestråket,112 66,Stockholm
+Etappitie,954 00,Tornio
+Ettersta Gård,645 96,Stallarholmen
+Ettingbo,740 46,Östervåla
+Eva Lagerwalls väg,756 43,Uppsala
+Eva Åsbrinks gata,532 32,Skara
+Expolaris Center,931 78,Skellefteå
+F M Franzéns gata,254 40,Helsingborg
+F O Petersons gata,421 31,Västra Frölunda
+Fabian Månsoons väg,373 66,Hasslö
+Fabian Månssons väg,371 63,Lyckeby
+Fabriksstråket,433 76,Jonsered
+Fader Hans väg,241 35,Eslöv
+Fagerhult,577 98,Mörlunda
+Fagerhults Gård,566 92,Habo
+Fagerhults gård,566 92,Habo
+Fagerliveien,1796,Kornsjø
+Fagernesveien,1788,Halden
+Fagersand,860 35,Söråker
+Fagerskog,462 97,Frändefors
+Fagerviken,932 34,Örviken
+Faggeliden,430 85,Brännö
+Fahlströms väg,741 92,Knivsta
+Faktorns Gata,741 39,Knivsta
+Faktorns gata,741 39,Knivsta
+Falcks väg,262 92,Ängelholm
+Falevi Kapellsgården,521 92,Falköping
+Falevi Väster Nolgården,521 92,Falköping
+Falken,837 97,Åre
+Fallvegen,2283,Åsnes Finnskog
+Fangebakken,1788,Halden
+Fannydalsplatån,131 41,Nacka
+Fannys väg,131 54,Nacka
+Fansta,755 93,Uppsala
+Fanthyttan,711 96,Storå
+Far Anders väg,568 30,Skillingaryd
+Farhult 8390,242 96,Hörby
+Farsb,573 92,Tranås
+Farsbo Lunden,573 92,Tranås
+Farsbo MISSIONSHUSET,573 92,Tranås
+Farsbo,573 92,Tranås
+Farsta Torg,123 47,Farsta
+Farsta,153 91,Järna
+Fasanens väg,139 71,Stavsnäs
+Fatburstrappan,118 26,Stockholm
+Fem Fålars väg,125 35,Älvsjö
+Femsunds vägen,130 25,Ingmarsö
+Fenix väg,134 44,Gustavsberg
+Fenix väg,134 44,Värmdö
+Fersens väg,211 42,Malmö
+Fiby,740 20,Vänge
+Fide Anderse,623 36,Burgsvik
+Filippas väg,592 31,Vadstena
+Fillsta,832 93,Frösön
+Fingals väg,435 39,Mölnlycke
+Fingerkroken,386 51,Mörbylånga
+Finn Malmgrens Plan,121 38,Johanneshov
+Finn Malmgrens väg,121 38,Johanneshov
+Finn Malmgrens väg,121 50,Johanneshov
+Finn Malmgrens väg,121 38,Johanneshov
+Finnbo,783 92,Stora Skedvi
+Finnekumla,523 62,Vegby
+Finnskogvegen,2283,Åsnes Finnskog
+Finnsrudvegen,2240,Magnor
+Finnsvikveien,1796,Kornsjø
+Finnsvikøya,1796,Kornsjø
+Finntorp,713 72,GYTTORP
+Finntä,818 92,Valbo
+Finska gatan,122 37,Enskede
+Finvids väg,194 04,Upplands Väsby
+Finvids väg,194 47,Upplands Väsby
+Fiol-Elis väg,818 92,Valbo
+Fiolmannens gata,442 55,Ytterby
+Fiolstråket,903 53,Umeå
+Fiskar Karlssons väg,134 61,Ingarö
+Fiskare Östlunds väg,134 32,Gustavsberg
+Fiskarnas gata,136 62,Brandbergen
+Fiskens väg,821 51,Bollnäs
+Fiskkajen,411 20,Göteborg
+Fiskløysveien,7882,Nordli
+Fisksätra Torg,133 41,Saltsjöbaden
+Fivlered Hembygdsgården,521 71,Åsarp
+Fjellbyveien,1870,Ørje
+Fjellåsveien,1796,Kornsjø
+Fjordveien,1794,Sponvika
+Fjäl,861 92,Bergeforsen
+Fjällbo Park,415 07,Göteborg
+Fjällbruden,424 50,Angered
+Fjällbrudens väg,132 45,Saltsjö-Boo
+Fjällviolen,840 85,Lofsdalen
+Fjäls gård,861 92,Bergeforsen
+Fjärdingsmansvändan,256 56,Helsingborg
+Fjärdsgrundet-Sören,952 44,Töre
+Fjärdsäter,824 74,Delsbo
+Fjärilshuset i Hagaparken,169 70,Solna
+Fladenhöjden,134 60,Ingarö
+Fladenkroken,134 60,Ingarö
+Flahult,570 03,Vrigstad
+Flatenveien,1950,Rømskog
+Flattinge Skattegård,341 55,Vittaryd
+Flemings väg,146 38,Tullinge
+Flemings väg,611 44,Nyköping
+Fleringe Bläse,624 60,Lärbro
+Flisens väg,276 50,Hammenhög
+Floby Furåsen,521 53,Floby
+Floby Kapellet,521 53,Floby
+Floby Ledsgården,521 53,Floby
+Floby Nygrannegården,521 53,Floby
+Floby Svensgården,521 53,Floby
+Floby Veken,521 53,Floby
+Floby Ängagården,521 53,Floby
+Floby Ängagården,521 53,Floby
+Floda Allé,448 33,Floda
+Flodins väg,370 22,Drottningskär
+Flon,832 96,Frösön
+Flor,842 97,Ytterhogdal
+Flor,842 97,Ytterhogdal
+Floraleden,666 30,Bengtsfors
+Flottuvan,682 33,Filipstad
+Flygares gränd,521 42,Falköping
+Flädergången,416 76,Göteborg
+Flädie Måns Ols väg,237 91,Bjärred
+Flädingstorp,361 96,Vissefjärda
+Flöjtstråket,903 53,Umeå
+Flötningen,790 91,Idre
+Fløbergveien,1765,Halden
+Folkagården,521 94,Jättene
+Folke Bernadottes gata,411 28,Göteborg
+Folke Bernadottes väg,256 57,Ramlösa
+Folkes väg,523 94,Tvärred
+Folkesred,523 94,Tvärred
+Folkestaleden,635 05,Eskilstuna
+Folkja,872 98,Noraström
+Folksagans väg,907 52,Umeå
+Folkungaplan,582 25,Linköping
+Follingbo Skrubbshagen,621 91,Visby
+Fors Herrgård,670 20,Glava
+Forsby Lillegården,531 94,Skövde
+Forsby Lillegården,541 92,Skövde
+Forsby Lillegården,541 94,Skövde
+Forsells väg,918 31,Sävar
+Forshaga,952 92,Kalix
+Forshällan,962 97,JOKKMOKK
+Forskarens väg,831 40,Östersund
+Forskarlens väg,424 57,Gunnilse
+Forskningsgången,417 56,Göteborg
+Forskningsringen,174 61,Sundbyberg
+Forsnacken,923 97,Slussfors
+Forsnäs,783 93,Stora Skedvi
+Forssa-ekeby,649 91,Sparreholm
+Forsvik,923 41,STENSELE
+Forsvik,923 41,Stensele
+Forsvăgen,271 72,Köpingebro
+Forthmeiiers väg,352 20,Växjö
+Fortuna strand,257 30,Rydebäck
+Foskros Lia,797 92,IDRE
+Fots väg,741 42,Knivsta
+Framgången,412 80,Göteborg
+Framgången,412 80,Göteborg
+Framgången,831 61,Östersund
+Frankenburgs väg,132 42,Saltsjö-Boo
+Frankie Mannings väg,760 49,Herräng
+Frans Hedbergs väg,129 38,Hägersten
+Frans Kriegs Väg,167 33,Bromma
+Frans Löfströms väg,272 94,Simrishamn
+Frans Perssons väg,412 76,Göteborg
+Franska vägen,393 54,Kalmar
+Frantzebakken,1765,Halden
+Franzéns väg,387 92,Borgholm
+Fredrik Cösters gata,254 43,Helsingborg
+Fredrik Hasselqvists gata,583 28,Linköping
+Fredrik Jahns Gränd,131 36,Nacka
+Fredrik Normans väg,134 65,Ingarö
+Fredrik Ströms gata,301 04,Halmstad
+Fredrika Bremers Allé,590 46,Rimforsa
+Fredrika Bremers väg,291 77,Gärds Köpinge
+Fredriks gata,543 34,Tibro
+Fredsflottiljens väg,417 46,Göteborg
+Fredsvegen,2240,Magnor
+Fregatten,444 30,Stenungsund
+Frelins Gränd,794 30,Orsa
+Frendes väg,567 31,Vaggeryd
+Frey Svenssons väg,756 43,Uppsala
+Friborg,472 91,Stillingsön
+Fricks väg,236 42,Höllviken
+Frida Hjertbergs gata,412 60,Göteborg
+Frida Hjertbergs gata,412 81,Göteborg
+Frida Åslunds gränd,903 51,Umeå
+Fridas gata,256 54,Helsingborg
+Fridas gata,256 54,Ramlösa
+Fridas väg,785 63,Sifferbo
+Fridgårdsplan,831 48,Östersund
+Fridhem,342 92,Alvesta
+Fridhem,463 31,Lilla Edet
+Fridolfs väg,139 73,Djurhamn
+Fridstaplan,802 67,Gävle
+Friggeråker Bissgården,521 96,Falköping
+Friggeråker Ingagården,521 96,Falköping
+Friggeråker Lundagården,521 96,Falköping
+Friggeråker Näregården,521 94,Falköping
+Friggeråker Prästgården,521 96,Falköping
+Friggeråker Rännagården,521 96,Falköping
+Friggeråker Solhem,521 96,Falköping
+Friggeråker Stora Bäckabo,521 96,Falköping
+Friggeråker Viola torp,521 96,Falköping
+Friggeråker Wrågården,521 96,Falköping
+Friggeråkers Bygdegård,521 96,Falköping
+Friggeråkers Kyrka,521 96,Falköping
+Friidrottens väg,414 76,Göteborg
+Frimans väg,141 60,Huddinge
+Fristads Prästgård Flotthagen,513 34,Fristad
+Friströms väg,371 64,Lyckeby
+Fritiof Anderssons gata,417 67,Göteborg
+Fritjof thuns väg,184 31,Åkersberga
+Fritjofs väg,224 66,Lund
+Fritzes väg,437 34,Lindome
+Frk Blomstedts väg,139 74,Djurhamn
+Fru Gustavas väg,653 46,Karlstad
+Fru Kristinas Gränd,125 45,Älvsjö
+Fru Marias väg,125 33,Älvsjö
+Fruviksgårds väg,139 34,Värmdö
+Frykmans väg,653 46,Karlstad
+Frykmans väg,653 46,Karlstad
+Fräkne gränd,442 34,Kungälv
+Fräkne gränd,442 47,Kungälv
+Fräkne gränd,442 48,Kungälv
+Frödings allé,443 31,Lerum
+Fröjas Backe,433 70,Sävedalen
+Fröjel Hägur,623 55,Klintehamn
+Fröjel Mulde,623 55,Klintehamn
+Fröjel Stenstugu,623 55,Klintehamn
+Fröjel däpps,623 55,Klintehamn
+Fröjel hägur,623 55,Klintehamn
+Fröjel mulde,623 55,Klintehamn
+Fröjel mulde,623 55,Klintehamn
+Fröjel stenstugu,623 55,Klintehamn
+Frölandsbodarna,861 36,Timrå
+Frösundaleden,169 70,Solna
+Frösundaviks allé,169 70,Solna
+Frövfors Bruk,718 80,Frövi
+Fulltofta,242 94,Hörby
+Fullösa Landsholmen,533 96,Götene
+Funbo Vargspåret,755 97,Uppsala
+Funbo Åby,741 52,Uppsala
+Funbo-Broby,741 77,Uppsala
+Funbo-Broby,755 97,UPPSALA
+Funbo-Bärby,755 97,Uppsala
+Funby-Broby,755 97,UPPSALA
+Fundshult,570 61,Ydre
+Funäsdalsporten,840 95,Funäsdalen
+Furet,277 32,Kivik
+Furets väg,432 65,Väröbacka
+Furmans väg,184 44,Åkersberga
+Furuhällsplan,196 40,Kungsängen
+Furuliden,577 71,Virserum
+Furumoen,2240,Magnor
+Furumossen,433 47,Partille
+Fyrkanten,468 30,Vargön
+Fyrmästaregången,413 18,Göteborg
+Fyruddens Hamn,615 96,Gryt
+Fyrunga Bräddehagen,534 92,Tråvad
+Fyrvaktarkroken,121 32,Enskededalen
+Fäbodarna,197 93,Bro
+Fädriften,296 33,Åhus
+Fällan,364 96,Sävsjöström
+Fällersta,705 94,Örebro
+Färgelägret Lyr-Bö,474 96,Nösund
+Färjeleden,621 58,Visby
+Färjholmen Färjkarlstomten,860 30,Sörberge
+Färjholmen,860 30,Sörberge
+Färjkajen,722 10,Västerås
+Färjläget,984 96,Junosuando
+Färsna gård,761 50,Norrtälje
+Färsna gård,761 54,Norrtälje
+Fästeredssund Björkhällen,523 62,Vegby
+Fästeredssund,523 62,Vegby
+Fästningen,432 44,Varberg
+Fäviken,830 05,Järven
+Fågel Fenix väg,295 31,Bromölla
+Fågelbo,748 96,TOBO
+Fågeldammen,432 95,Varberg
+Fågelsmygen,167 62,Bromma
+Fågelsången,182 74,Stocksund
+Fågelsången,254 78,Domsten
+Fågelviksleden,543 50,Tibro
+Fågelö Stranden,542 91,Torsö
+Fålhagsleden,753 24,Uppsala
+Fårahagen,719 31,Vintrosa
+Fårö Ekeviken,624 67,Fårö
+Fårö Hammars,624 66,Fårö
+Fårö Holmudden,624 67,Fårö
+Fårö Kalbjärga,624 66,Fårö
+Fårö Kyrka,624 66,Fårö
+Fårö Lauter,624 66,Fårö
+Fårö Mölnor,624 66,Fårö
+Fårö Simunds,624 67,Fårö
+Fårö Sudergarda,624 67,Fårö
+Fårö Sudersand,624 67,Fårö
+Fåssjö,842 97,Ytterhogdal
+Förbindelsehallen,121 62,Johanneshov
+Förgyllda Solens Gränd,393 59,Kalmar
+Förlig Vinds Gränd,393 59,Kalmar
+Förlösa Kyrkby,395 90,Kalmar
+Förmanslänken,857 53,Sundsvall
+Förmanslänken,863 41,Sundsvall
+Försäter,819 61,SKÄRPLINGE
+Förändringens gata,431 53,Mölndal
+GETINGARYD,563 91,Gränna
+GLIVARPSGÅRDEN,276 56,Hammenhög
+Gaffelseglet,136 55,Vega
+Gaffelseglet,136 56,Vega
+Gaffelseglet,136 57,Vega
+Galileis gata,415 54,Göteborg
+Galtabäck,432 76,Tvååker
+Galtås,568 92,Skillingaryd
+Galåbodarna,840 40,Svenstavik
+Gamla Allén,131 50,Saltsjö-Duvnäs
+Gamla Prästgården, Hol,441 93,Alingsås
+Gamla Svartens väg,134 41,Gustavsberg
+Gamla Torg,239 40,Falsterbo
+Gamla Torg,275 30,Sjöbo
+Gamla Torg,341 35,Ljungby
+Gamla Torget,275 80,Sjöbo
+Gamla Vägen,275 61,Blentarp
+Gamla Vägen,680 51,Stöllet
+Gamla fäbodvallen,981 91,Jukkasjärvi
+Gamla gatan,703 61,Örebro
+Gamla torg 8,275 30,Sjöbo
+Gamla torg,243 30,Höör
+Gamla torget,442 31,Kungälv
+Gamla torget,602 24,Norrköping
+Gamla torget,602 32,Norrköping
+Gamla vägen,134 31,Gustavsberg
+Gamla vägen,170 74,Solna
+Gamla vägen,254 68,Helsingborg
+Gamla vägen,265 39,Åstorp
+Gamla vägen,290 34,Fjälkinge
+Gamla vägen,291 67,Fjälkinge
+Gamla vägen,302 65,Halmstad
+Gamla vägen,302 65,Halmstad
+Gamla vägen,360 23,Älmeboda
+Gamla vägen,464 40,Åsensbruk
+Gamla vägen,471 96,Bleket
+Gamla vägen,475 36,Kalvsund
+Gamla vägen,524 92,Herrljunga
+Gamla vägen,770 13,Grangärde
+Gamla vägen,812 30,Storvik
+Gamla vägen,820 76,Jättendal
+Gamla vägen,841 44,Alby
+Gamla vägen,973 41,Luleå
+Gamla vägen,973 42,LULEÅ
+Gamla vägen,973 42,Luleå
+Gamle Kopparleden,2443,Drevsjø
+Gamle Svinesundsvei,1789,Berg i Østfold
+Gamlegård,230 53,Alnarp
+Gamlemark,225 93,Lund
+Gamlestads Brygga,415 12,Göteborg
+Gamlestads Torg,415 02,Göteborg
+Gappohyttene,9046,Oteren
+Garda Autsarve,623 63,Ljugarn
+Garda Hägulds,623 63,Ljugarn
+Garvis Carlssons Gata,169 41,Solna
+Gas-Jacobs gata,392 45,Kalmar
+Gasa,924 98,Slagnäs
+Gasa,930 91,Slagnäs
+Gasahed,930 91,Slagnäs
+Gata,1794,Sponvika
+Gata,457 95,Grebbestad
+Gatsmygen,414 69,Göteborg
+Gauphaugen,7660,Vuku
+Gavik,872 98,Noraström
+Gavénius väg,141 33,Huddinge
+Geijerstams väg,718 91,FRÖVI
+Gemenskapens gata,431 53,Mölndal
+General Ericsons väg,541 54,Skövde
+Genomgången,831 61,Östersund
+Georg Granbergs väg,840 95,Funäsdalen
+Georg Karlssons gata,781 70,Borlänge
+Georgslid,562 32,Norrahammar
+Gerd Enequists gata,752 37,Uppsala
+Gerlesborg,457 48,Hamburgsund
+Germesta,870 33,Docksta
+Gerorg Lückligs väg,352 52,Växjö
+Gesundaplan,167 43,Bromma
+Getaskogen,152 95,Södertälje
+Gethes väg,392 44,Kalmar
+Getnö Gård,360 10,Ryd
+Gettjärn,686 93,Sunne
+Gibraltarkroken,412 79,Göteborg
+Gideon Hydéns Väg,141 45,Huddinge
+Gideons väg,961 39,Boden
+Gillbostråket,192 68,Sollentuna
+Gillermossen,195 96,Rosersberg
+Gimoplan,907 42,Umeå
+Gimsbärke,781 90,Borlänge
+Gimsbärke,781 90,Borlänge
+Gisela Trapps väg,254 37,Helsingborg
+Gislöv,276 03,Skillinge
+Gisselåsen,855 90,Sundsvall
+Gissnabo,573 92,Tranås
+Gizella Pallays gata,393 60,Kalmar
+Gjutarplan,176 71,Järfälla
+Gjutarplan,176 71,Järfälla
+Gjutarplan,176 72,Järfälla
+Gjøkvikveien,1692,Nedgården
+Gjølertangen,1692,Nedgården
+Gjørseberget,1788,Halden
+Glans väg,781 68,Borlänge
+Glanshammars-Bäcketorp,705 97,Glanshammar
+Glasbrukskajen,216 44,Limhamn
+Glasporten,382 92,Nybro
+Glebers väg,253 53,Påarp
+Glomman,702 30,Örebro
+Gluntens väg,907 37,Umeå
+Gläborg,455 91,Munkedal
+Glädjens gränd,903 63,Umeå
+Gläntan,139 36,Värmdö
+Gläntan,611 96,Jönåker
+Gläntan,819 66,Lövstabruk
+Glömsjö 13,570 12,Landsbro
+Glömsjö Karlsgården,570 12,Landsbro
+Glömsjö Västanå,570 12,Landsbro
+Glömsjö,570 12,Landsbro
+Glöstorps Röseväg,417 44,Göteborg
+Glöte,842 91,Sveg
+Gnupen,816 94,Ockelbo
+Godbekktjønna,7660,Vuku
+Godegården,465 96,Nossebro
+Godenius väg,134 52,Gustavsberg
+Golfrundan,433 50,Öjersjö
+Golfrundan,574 39,Vetlanda
+Gorsingeholm,645 94,Strängnäs
+Gothem Magnuse,624 30,Slite
+Gothem Åminnevägen Gemeinde Gotland,624 36,Gotland
+Gotlandsresan,757 54,Uppsala
+Gottsunda allé,756 51,Uppsala
+Gottsunda allé,756 59,Uppsala
+Graddis,8255,Røkland
+Graddisveien,8255,Røkland
+Graffmans gata,352 20,Växjö
+Grafiska Vägen,412 63,Göteborg
+Grafiska Vägen,412 63,Göteborg
+Graners gränd,152 57,Södertälje
+Granholmen-Ryssbält,952 91,Kalix
+Granhultsliden,656 35,Karlstad
+Granliden,577 71,Virserum
+Granliden,703 76,Örebro
+Granliden,761 40,Norrtälje
+Granlidenplan,711 78,Guldsmedshyttan
+Grannebydal,442 95,Hålta
+Grannäset 210,952 98,Morjärv
+Gransäter,816 30,Ockelbo
+Granträskhult,952 93,Kalix
+Gravarliden,254 33,Helsingborg
+Graveleys väg,371 42,Karlskrona
+Gravendal,770 10,Fredriksberg
+Gravol,680 51,Stöllet
+Gredelbyleden,741 42,Knivsta
+Gregorianska gatan,415 61,Göteborg
+Grenanders gata,541 35,Skövde
+Grensdalsveien,7530,Meråker
+Grensebakken,2224,Austmarka
+Grenseroa,1870,Ørje
+Grenserøysvegen,2423,Østby
+Grenseveien,7882,Nordli
+Gretas gata,423 74,Torslanda
+Gretas gata,424 55,Angered
+Greve Ottos plats,252 84,Helsingborg
+Grills backe,139 35,Värmdö
+Grills udde,139 40,Värmdö
+Grimmereds by,426 70,Västra Frölunda
+Grindnäset 129,893 96,Sidensjö
+Grindstugärde,134 31,Gustavsberg
+Gripens backe,196 34,Kungsängen
+Gripens väg,146 38,Tullinge
+Grisselmarens väg,185 41,Rindö
+Grolanda Bygdegården,521 55,Floby
+Gropens Gård,424 37,Angered
+Groths väg,141 45,Huddinge
+Groths väg,141 45,Huddinge
+Grovare STOMMEN,523 99,Hökerum
+Grubbedal,931 91,Skellefteå
+Grubbehagen,471 62,Höviksnäs
+Grundforsen,780 67,Sälen
+Grunntjønnvollen,7660,Vuku
+Grusbrinken,132 36,Saltsjö-Boo
+Gruvan,695 94,Finnerödja
+Gruvgången,653 43,Karlstad
+Gruvområdet,920 40,KRISTINEBERG
+Gryta Salnecke,749 63,Örsundsbro
+Grytan,834 98,Brunflo
+Gryts Varv,610 42,Gryt
+Gryttby,748 95,ÖRBYHUS
+Gryttjom,815 91,Tierp
+Gryttjom,815 93,Tierp
+Gränsliden,582 74,Linköping
+Gräs,380 65,Degerhamn
+Gräsbo,748 92,Österbybruk
+Gräsgången,442 39,Kungälv
+Gräsholma,285 93,Markaryd
+Gräsöbadens camping,742 97,Gräsö
+Gräv,785 30,Gagnef
+Gräve,705 93,Örebro
+Grävsvinssträtet,272 95,Simrishamn
+Grå Byn,780 67,Sälen
+Gråfläsjan,865 92,Alnö
+Grågulles gränd,393 63,Kalmar
+Grödinge Kyrkby,147 92,Grödinge
+Gröna Vallen,414 53,Göteborg
+Gröna Vägen,121 33,Enskededalen
+Gröna gatan,151 32,Södertälje
+Gröna gatan,302 33,Halmstad
+Gröna gatan,577 71,Virserum
+Gröna gatan,616 33,Åby
+Gröna gatan,754 36,Uppsala
+Gröna gång,254 78,Domsten
+Gröna stigen,611 72,Stigtomta
+Gröna stråket,413 46,Göteborg
+Gröna torg,241 80,Eslöv
+Gröna vägen,541 54,Skövde
+Gröna vägen,541 54,Skövde
+Gröna vägen,612 40,Finspång
+Gröna vägen,663 31,Skoghall
+Gröna vägen,806 47,Gävle
+Gröna vägen,861 92,Bergeforsen
+Grönahögs skogen,523 96,Grönahög
+Grönevångs torg,302 55,Halmstad
+Gröningen norra,254 33,Helsingborg
+Grönskans väg,134 69,Ingarö
+Grönvik,362 94,Tingsryd
+Grönviken,865 92,Alnö
+Grövelsjön,790 91,Idre
+Gubbyn,841 96,Erikslund
+Gudinge,819 65,Hållnäs
+Gudmundsbyn,857 51,Sundsvall
+Gudmundsbyn,857 51,Sundsvall
+Gula gatan,393 58,Kalmar
+Gula stigen,611 72,Stigtomta
+Guldregnsgången,416 76,Göteborg
+Guldringen,302 59,Halmstad
+Guldsmedsviken,471 51,Klädesholmen
+Gullaboås,385 96,Gullabo
+Gullered Boared,523 97,Ulricehamn
+Gullereds Backen,523 97,Ulricehamn
+Gullheden,471 44,Åstol
+Gullheden,811 71,Järbo
+Gulli Petrinis väg,352 20,Växjö
+Gullmarsplan,121 40,Johanneshov
+Gullriset,840 85,Lofsdalen
+Gullskog,622 92,Habo
+Gullvikveien,1765,Halden
+Gullvivans väg,132 45,Saltsjö-Boo
+Gullvivegången,416 76,Göteborg
+Gulmårans väg,132 45,Saltsjö-Boo
+Gumboda,915 94,Ånäset
+Gumböle,861 95,Söråker
+Gunborg Nymans väg,632 22,Eskilstuna
+Gunder Häggs väg,831 52,Östersund
+Gunilla Skyttlas gata,393 60,Kalmar
+Gunnar Elms gata,352 21,Växjö
+Gunnar Engellaus väg,418 78,Göteborg
+Gunnar Hedes väg,653 46,Karlstad
+Gunnar Nilssons väg,371 63,Lyckeby
+Gunnar Strängs väg,165 71,Hässelby
+Gunnar Torhamns väg,371 63,Lyckeby
+Gunnars gränd,577 71,Virserum
+Gunnarsbo,523 93,Marbäck
+Gunnarskärsgården,663 34,Skoghall
+Gunnarstorp HAGARP,573 92,Tranås
+Gunnarstorp NYLYCKAN,573 92,Tranås
+Gunnarstorp,573 92,Tranås
+Gunnerud,686 93,Sunne
+Gunnerud,686 93,Sunne
+Gunneröd Rödet,472 91,Stillingsön
+Gunnestorp Brunnsgården,521 91,Falköping
+Gunnestorp,432 48,Varberg
+Guntschs gata,352 20,Växjö
+Gunviken,436 58,Hovås
+Gussanders väg,780 50,Djura
+Gussaröd,273 55,Brösarp
+Gustaf Adolfs väg,392 38,Kalmar
+Gustaf Bergs Väg,183 34,Täby
+Gustaf Dahléns väg,521 60,Stenstorp
+Gustaf De Lavals väg,131 60,Nacka
+Gustaf Frödings gata,656 34,Karlstad
+Gustaf Frödings gata,656 38,Karlstad
+Gustaf Gidlöfs väg 3,863 33,Sundsbruk
+Gustaf Gidlöfs väg,863 33,Sundsbruk
+Gustaf Hööks väg,131 47,Nacka
+Gustaf Kjellbergs väg,756 43,Uppsala
+Gustaf Lovéns gata,652 26,Karlstad
+Gustaf Lundbergs Väg,168 50,Bromma
+Gustaf de Lavals torg,131 60,Nacka
+Gustav Adolfs Torg,111 52,Stockholm
+Gustav Adolfs Torg,211 39,Malmö
+Gustav Adolfs Torg,211 39,Malmö
+Gustav Adolfs gata,252 27,Helsingborg
+Gustav Adolfs gata,252 68,Helsingborg
+Gustav Adolfs gata,541 44,Skövde
+Gustav Adolfs gata,541 45,Skövde
+Gustav Adolfs torg,201 80,Malmö
+Gustav Adolfs torg,211 39,Malmö
+Gustav Adolfs torg,252 25,Helsingborg
+Gustav Adolfs väg,761 40,Norrtälje
+Gustav Adolfs väg,761 42,Norrtälje
+Gustav Bäcks väg,451 96,Uddevalla
+Gustav Clasons gata,702 19,Örebro
+Gustav Hoffs väg,254 33,Helsingborg
+Gustav III:s Väg,167 72,Bromma
+Gustav III:s Väg,168 39,Bromma
+Gustav III:s Väg,168 37,Bromma
+Gustav III:s boulevard,169 72,Solna
+Gustav III:s boulevard,169 73,Solna
+Gustav III:s boulevard,169 74,Solna
+Gustav III:s boulevard,169 82,Solna
+Gustav III:s boulevard,169 74,Solna
+Gustav III:s väg,139 36,Värmdö
+Gustav Möllers gata,211 51,Malmö
+Gustav Rydstedts väg,836 93,Häggenås
+Gustav Snickares väg,241 96,Stockamöllan
+Gustav Vasas Väg,592 30,Vadstena
+Gustav adolfs torg,211 39,Malmö
+Gustav torget,780 67,Sälen
+Guttebo,579 94,Fagerhult
+Gyllebogången,217 73,Malmö
+Gyllene Hästens Torg,170 67,Solna
+Gyllene Uttern,563 92,Gränna
+Gyltenäs Framgården,672 95,Årjäng
+Gyltenäs Gyltebo,672 95,Årjäng
+Gyltenäs Tomta,672 95,Årjäng
+Gyltenäs Torsnäs,672 95,Årjäng
+Gyltenäs,672 95,Årjäng
+Gysinge Bruk,810 21,Gysinge
+GÅrdnäs,881 93,Sollefteå
+Gäddkroken,139 40,Värmdö
+Gäddträsk,921 92,Lycksele
+Gäddviken,860 35,Söråker
+Gällstad,523 60,Gällstad
+Gällstads Röshult,523 61,Gällstad
+Gärdala,590 46,Rimforsa
+Gärdes Backe,182 30,Danderyd
+Gärdesta,611 99,Tystberga
+Gärdsmygen,138 37,Älta
+Gärdsmygen,182 74,Stocksund
+Gärdsmygen,393 59,Kalmar
+Gärdsås Torg,415 17,Göteborg
+Gärdsås Torg,415 54,Göteborg
+Gästgivaregård,615 92,Valdermarsvik
+Gävle Bro,805 91,Gävle
+Gåltjärn,855 91,Kovland
+Gånge-Rolfs gata,253 62,Helsingborg
+Gångspelet,136 56,Vega
+Gårdby,386 92,Färjestaden
+Gårdnäs,881 93,Sollefteå
+Gårdsby Klockaregård 1,355 92,Växjö
+Gårdsby Lyckan,355 92,Växjö
+Gårdsåkra,241 35,Eslöv
+Gårdö,523 60,Gällstad
+Gåshagaleden,181 63,Lidingö
+Gåshagaleden,181 66,Lidingö
+Gåsmors väg,393 63,Kalmar
+Gåsnäs,881 97,Gåsnäs
+Gökhem Dalåsen,521 92,Falköping
+Gökhem Ledsgården,521 92,Falköping
+Gökhem Mellomgården,521 92,Falköping
+Gökhem Tången,521 56,Floby
+Gökslingan,760 49,Herräng
+Göran Hammarsjös väg,195 72,Rosersberg
+Göran Hammarsjös väg,195 72,Rosersberg
+Göran Persons väg,171 55,Solna
+Göran Perssons väg,171 55,Solna
+Göran Wittings väg,254 78,Domsten
+Görans väg,523 94,Tvärred
+Gördalen,790 90,Särna
+Gösta Andrées gata,423 36,Torslanda
+Gösta Edströms väg,352 51,Växjö
+Gösta Ekmans väg,132 36,Saltsjö-Boo
+Gösta Frohms väg,146 34,Tullinge
+Gösta Knutssons väg,311 40,Falkenberg
+Gösta Nygrens väg,814 91,Furuvik
+Gösta Skoglunds väg,907 36,Umeå
+Gösta Skoglunds väg,907 36,Umeå
+Gösta Wasastiernas Gränd,633 61,Eskilstuna
+Göstrop,312 92,Laholm
+Göta Nords väg,434 94,Vallda
+Götaforsliden,431 34,Mölndal
+Götarsvik,705 98,Lillkyrka
+Göte Turessons Väg,756 59,Uppsala
+Göteve Rosenskog,521 92,Falköping
+Göteve Stommen,521 92,Falköping
+Götmars väg,241 35,Eslöv
+Götåkra,523 62,Vegby
+HSB-gatan,795 30,Rättvik
+HSB-vägen,790 91,Idre
+HSB-vägen,797 71,Idre
+Hadar Grudes Gata,652 26,Karlstad
+Hafsta Höglunda,711 96,Storå
+Haga,571 63,Bodafors
+Hagaborg,616 90,Åby
+Hagaby,692 93,Kumla
+Hagabäcksleden,428 32,Kållered
+Hagaesplanaden,113 30,Stockholm
+Hagaesplanaden,113 65,Stockholm
+Hagaesplanaden,113 68,Stockholm
+Hagaleden,554 74,Jönköping
+Hagaplan,254 54,Helsingborg
+Hagariset,782 91,Malung
+Hagelins väg,151 39,Södertälje
+Hagelstena Kronhem,741 92,Knivsta
+Hagelstena,741 92,Knivsta
+Hagkroken,181 31,Lidingö
+Hagsätra Torg,124 73,Bandhagen
+Hagsätra torg,124 73,Bandhagen
+Hakebo BJÖRNAFÄLLAN,573 97,Tranås
+Hakon Ahlbergs väg,852 40,Sundsvall
+Hakon Ahlbergs väg,852 40,Sundsvall
+Halalid,254 40,Helsingborg
+Hall-Håxåsen,833 92,Strömsund
+Hall-Håxåsen,833 92,Strömsund
+Halla tomte,622 52,Romakloster
+Halla,7660,Vuku
+Hallabäcksliden,286 73,Skånes Fagerhult
+Hallamölla Gård,273 56,Brösarp
+Hallenborgs gata,211 19,Malmö
+Hallers väg,139 74,Djurhamn
+Hallituskatu,954 00,Tornio
+Hallonfallet,812 31,Storvik
+Hallongången,212 31,Malmö
+Hallsta,881 35,Sollefteå
+Hallviken,833 92,Strömsund
+Halsviksporten,430 84,Styrsö
+Haltorpvegen,2438,Gravberget
+Halva Månens Gränd,393 59,Kalmar
+Halvdans gata,582 78,Linköping
+Hambor,472 91,Stillingsön
+Hamborg,472 91,Stillingsön
+Hammal,857 51,Sundsvall
+Hammarbrinken,165 71,Hässelby
+Hammarby Allé,120 30,Stockholm
+Hammarby Allé,120 61,Stockholm
+Hammarby Allé,120 64,Stockholm
+Hammarby Allé,120 65,Stockholm
+Hammarby Allé,120 66,Stockholm
+Hammarby Allé,120 32,Stockholm
+Hammarby Kaj,120 32,Stockholm
+Hammarstedts väg,352 20,Växjö
+Hammarsudde Solgläntan,663 41,Hammarö
+Hammarsudde,663 41,Hammarö
+Hammartorp,762 97,Edsbro
+Hammerkastet,1870,Ørje
+Hamnesplanaden,753 19,Uppsala
+Hamnleden,806 41,Gävle
+Hamnplan,272 36,Simrishamn
+Hamnplan,753 22,Uppsala
+Hamnplanen,260 40,Viken
+Hamnplanen,263 61,Viken
+Hamnplanen,457 72,Grebbestad
+Hamnpromenaden,761 33,Norrtälje
+Hamnterminalen,149 30,Nynäshamn
+Hampas Gränd,941 52,Piteå
+Hampoliitto,984 96,Junosuando
+Hamre Långsjön,862 49,Njurunda
+Hamre Långsjön,862 94,Njurunda
+Hanaskogs gård,289 50,Hanaskog
+Hanatorpsviken,511 31,Örby
+Hanbloms väg,570 31,Ingatorp
+Handelsmyntet,414 81,Göteborg
+Handelsträdgården,475 41,Hönö
+Handlare Jannsons Väg,184 33,Åkersberga
+Handlare Janssons väg,184 33,Åkersberga
+Handlarens Väg,291 94,Balsby
+Handlarens väg,373 65,Hasslö
+Handöl,830 15,Duved
+Handøl,830 15,Duved
+Hanes Väg,123 52,Farsta
+Hangvar Flenvike,624 54,Lärbro
+Hannes Alfvéns Gata,583 26,Linköping
+Hannes Alfvéns Väg,SE-106 91,Stockholm
+Hannes Alfvéns gata,583 26,Linköping
+Hans Hiertas väg,811 92,Sandviken
+Hans Hiertas väg,811 92,Sandviken
+Hans Jonas väg,237 37,Bjärred
+Hans Lots Gata,456 31,Kungshamn
+Hans Villius gata,393 60,Kalmar
+Hans von Kantzows väg,734 40,Hallstahammar
+Hansmyra,7660,Vuku
+Hanvedens Allé,146 35,Tullinge
+Hanvedens allé,146 34,Tullinge
+Hanvedens allé,146 35,Tullinge
+Harald Blåtands väg,231 68,Trelleborg
+Harg,195 92,Märsta
+Harrinivantie,993 00,Muonio
+Harrsele,911 94,Vännäs
+Harry Martinssons väg,371 63,Lyckeby
+Harry Pettersons väg,134 36,Gustavsberg
+Harsbo,744 97,Järlåsa
+Hartungviken,865 92,Alnö
+Hasselgången,241 31,Eslöv
+Hasslaröd,283 91,Osby
+Hattsjöhult Norrgården,571 65,Grimstorp
+Havdalsstien,7882,Nordli
+Havdhem Lingvide,623 41,Havdhem
+Havregången,442 39,Kungälv
+Havrida,333 74,Bredaryd
+Havssilvers gränd,422 48,Hisings Backa
+Havssulegången,426 69,Västra Frölunda
+Hazeliusporten,115 21,Stockholm
+Hedborns gata,584 37,Linköping
+Hede gärde,443 60,Stenkullen
+Heden,816 90,Ockelbo
+Heden,817 40,Bergby
+Heden,821 31,Bollnäs
+Hedene Där Öste,671 97,Glava
+Hedens By,475 40,Hönö
+Hedensborg,534 62,Larv
+Hedersrum,384 92,Ålem
+Hederstiernas gata,302 47,Halmstad
+Hedlanda Solhöjden,647 92,Mariefred
+Hedlandet Annero,647 92,Mariefred
+Hedlandet Balders hage,647 92,Mariefred
+Hedlandet Ekbacka,647 92,Mariefred
+Hedlandet Lilla Åsgård,647 92,Mariefred
+Hedlandet Lohagen,647 92,Mariefred
+Hedlandet ängSborg,647 92,Mariefred
+Hedströms väg,472 95,Varekil
+Hedströms väg,472 32,Svanesund
+Hedströms väg,472 95,Varekil
+Hedvig Möllers gata,223 55,Lund
+Hedvig Möllers gata,223 55,Lund
+Hedvreten,811 71,Järbo
+Heffners allé,856 33,Sundsvall
+Heidenstams gata,584 37,Linköping
+Heimdals väg,245 64,Hjärup
+Hejde, Smiss 409,623 75,Klintehamn
+Hejderidareslingan,443 50,Lerum
+Hektorshyttan,682 91,Filipstad
+Helena Elisabeths väg,903 04,Umeå
+Helenius gata,541 44,Skövde
+Helgas väg,433 51,Öjersjö
+Helgesjøvegen,2232,Tobøl
+Helgesjøvegen,2233,Vestmarka
+Helgesons väg,131 37,Nacka
+Helgums väg,653 46,Karlstad
+Heliosgången,120 30,Stockholm
+Hellsfjällsliden,445 36,Bohus
+Helsingörskajen,252 66,Helsingborg
+Hembygdsgården,523 62,Vegby
+Hemmesta Gårds väg,139 30,Värmdö
+Hemming Gadhs väg,392 46,Kalmar
+Henckels torg,252 36,Helsingborg
+Henningsflon,833 92,Strömsund
+Henningskälen,833 92,Strömsund
+Henrik Mårtenssons gata,254 33,Helsingborg
+Henriksdalskajen,120 71,Stockholm
+Henriksdalsringen,131 32,Nacka
+Henriksdalsringen,131 36,Nacka
+Henriksfjäll,923 95,kittelfjall
+Henry A. Larsens vei,1690,Herføl
+Henry Dunkers plats,252 67,Helsingborg
+Henry Säldes väg,756 43,Uppsala
+Hensgård,686 95,Västra Ämtervik
+Herbert Jans väg,386 34,Färjestaden
+Herbert Widmans väg,128 64,Sköndal
+Herluf Trolles väg,291 61,Kristianstad
+Herman Ygbergs Väg,167 61,Bromma
+Hermansens gata,295 21,Bromölla
+Herr Alfs väg,239 33,Skanör
+Herr Arnes gata,422 53,Hisings Backa
+Herr Arnes gata,442 49,Kungälv
+Herr Arnes väg,653 46,Karlstad
+Herrgården,749 41,Enköping
+Herrgårdsbägen,294 22,Sölvesborg
+Herrjärva Torg,170 67,Solna
+Herrtorp,574 72,Landsbro
+Herrvik,155 94,Nykvarn
+Herrviks Gård,155 94,Nykvarn
+Herrö,842 94,Sveg
+Herrö,842 94,Sveg
+Hertig Carls väg,151 38,Södertälje
+Hertig Carls väg,654 55,Karlstad
+Hertig Johans gata,541 30,Skövde
+Hertig Johans gata,592 40,Vadstena
+Hertig Karls allé,703 40,Örebro
+Hertig Karls väg,192 68,Sollentuna
+Hertsöskolans moduler Hertsötorget,974 52,Luleå
+Hesselgrens väg,812 30,Storvik
+Hesselmans Torg,131 54,Nacka
+Hetantie,994 50,Palojoensuu
+Heurlins Plats,413 01,Göteborg
+Hienshyttan,770 70,Långshyttan
+Hildebrands väg,382 93,Nybro
+Hildings väg,147 63,Uttran
+Hildur Sandbergs gata,227 62,Lund
+Hildurs väg,746 96,Skokloster
+Hiller�dsv�gen,217 47,Malmö
+Hillsta,824 62,Forsa
+Himmelkullen,313 50,Åled
+Himmelsrum,594 92,Gamleby
+Hindersbo,740 46,Östervåla
+Hinsaringen,139 53,Värmdö
+Hinsekind,360 30,Lammhult
+Hinsekind,360 30,Lammhult
+Hisings väg,371 42,Karlskrona
+Hjalmar Forsbergs gata,254 41,Helsingborg
+Hjalmar Lundgrens gata,603 76,Norrköping
+Hjalmar Melins väg,425 65,Hisings Kärra
+Hjalmar Olssons väg,134 52,Gustavsberg
+Hjalmar Petris väg,352 46,Växjö
+Hjalmar Petris väg,352 47,Växjö
+Hjalmar Svenfelts väg,590 69,Ljungsbro
+Hjalmars väg,253 55,Mörarp
+Hjalmars väg,266 54,Vejbystrand
+Hjalmars väg,451 96,Uddevalla
+Hjo Nygården,544 92,Hjo
+Hjortmosseporten,461 51,Trollhättan
+Hjortronliden,656 35,Karlstad
+Hjule-Johns gata,442 35,Kungälv
+Hjulsta backar,163 65,Spånga
+Hjulsta torg,163 65,Spånga
+Hjäleviken,430 84,Styrsö
+Hjällbogärdet,424 34,Angered
+Hjälmaryd Södergård,341 91,Ljungby
+Hjälmaryd Villa Vide,341 91,Ljungby
+Hjälmen,375 31,Mörrum
+Hjälmsäters väg,136 49,Haninge
+Hjälta,872 96,Bjärtrå
+Hjärtared,310 60,Ullared
+Hjärtats väg,132 46,Saltsjö-Boo
+Hogrän Prostarve,621 96,Visby
+Hogrän Tomsarve,621 96,Visby
+Hohögsplan,212 31,Malmö
+Hojan,277 32,Kivik
+Hol Hakelid,441 93,Alingsås
+Holgattu,793 70,Tällberg
+Holger Danskes gata,252 69,Råå
+Holger Lindmarks Plats,633 42,Eskilstuna
+Hollingers Väg,393 59,Kalmar
+Holm,473 97,Henån
+Holmen,382 94,Nybro
+Holmen,599 93,Ödeshög
+Holmen,713 72,GYTTORP
+Holmen,981 91,Jukkasjärvi
+Holmers väg,289 50,Hanaskog
+Holmers väg,311 96,Heberg
+Holmfrids väg,187 73,Täby
+Holmgårds backe,141 33,Huddinge
+Holms väg,616 30,Åby
+Holmsjön,905 96,Umeå
+Holmströms väg,232 52,Åkarp
+Holmvassfjellan,8519,Narvik
+Holsteins väg,360 52,Kosta
+Holtäkt,791 91,Falun
+Hoppenstedts väg,392 44,Kalmar
+Hoppets gränd,903 34,Umeå
+Hoppets väg,682 33,Filipstad
+Horda,331 77,Rydaholm
+Hornstulls Strand,117 39,Stockholm
+Horrmundsgården,780 67,Sälen
+Horsaskog,280 22,Vittsjö
+Hossebostugan,611 94,Nyköping
+Hotellplan,833 61,Gäddede
+Hov,855 90,Sundsvall
+Hovanäset,592 93,Borghamn
+Hovdala,281 92,Hässleholm
+Hovid,865 91,Alnö
+Hovsbodarna,855 90,Sundsvall
+Hovärken A,840 85,Lofsdalen
+Hovärken B,840 85,Lofsdalen
+Hovärken C,840 85,Lofsdalen
+Hovärken D,840 85,Lofsdalen
+Hovärken E,840 85,Lofsdalen
+Hovärken F,840 85,Lofsdalen
+Hovärken G,840 85,Lofsdalen
+Hovärken H,840 85,Lofsdalen
+Hovärken J,840 85,Lofsdalen
+Hovärken K,840 85,Lofsdalen
+Hudene Berget,524 92,Herrljunga
+Hudene Skola,524 92,Herrljunga
+Hudningsdalsveien,7898,Limingen
+Hugins väg,131 46,Nacka
+Hugo Hedströms väg,781 72,Borlänge
+Hugo Sabels Torg,194 76,Upplands Väsby
+Hugo Theorells gata,583 26,Linköping
+Hugo Theorells gata,583 27,Linköping
+Hulda Lindgrens gata,421 31,Västra Frölunda
+Hulda Mellgrens gata,421 32,Västra Frölunda
+Huldragången,424 57,Gunnilse
+Huldrans väg,371 53,Karlskrona
+Huldrans väg,653 45,Karlstad
+Huldrans väg,907 52,Umeå
+Huldrans vägi,907 52,Umeå
+Huli,857 51,Sundsvall
+Huljen,860 13,Stöde
+Huljen,864 96,Stöde
+Hult Åsens väg,436 45,Askim
+Hulta Gård,641 94,Katrineholm
+Hultaby NYÄNGEN,574 94,Vetlanda
+Hultanäs,360 70,Åseda
+Hultarp,577 95,Virserum
+Hultenheims väg,572 51,Oskarshamn
+Hultåsa,790 15,Sundborn
+Hulukvarn,555 94,Jönköping
+Humaniststråket,907 30,Umeå
+Humlegången,416 76,Göteborg
+Humlegången,442 39,Kungälv
+Humlered,523 91,Ulricehamn
+Hundbranten,134 65,Ingarö
+Hunnestad,432 91,Varberg
+Hunnestads By,432 91,Varberg
+Hurtigs Torg,137 64,Jordbro
+Husby By,741 95,Knivsta
+Husby Fågelhult,713 91,Nora
+Husby,713 91,Nora
+Husgärdet,472,Stillingsön
+Husgärdet,472 91,Stillingsön
+Husiliiharen,805 95,Gävle
+Hustgärdet,472 91,Stillingsön
+Hustomtveien,1950,Rømskog
+Husåkersgattu,793 60,Siljansnäs
+Huvudhultaö,361 94,Eriksmåla
+Huvudsta strand,171 57,Solna
+Huvudsta torg,171 73,Solna
+Hyacintgången,611 67,Nyköping
+Hybelejens gata,653 40,Karlstad
+Hyggestråket,451 72,Uddevalla
+Hyllie allé,215 36,Malmö
+Hyllie boulevard,215 32,Malmö
+Hyllie boulevard,215 32,Malmö
+Hylta,289 73,Immeln
+Hyltegården,436 34,Askim
+Hyltena,555 92,Jönköping
+Hysingsviks brygga,761 93,Norrtälje
+Hyssna gamla kyrka,511 68,Hyssna
+Hyssna kyrka,511 68,Hyssna
+Hyttan,815 91,TIERP
+Hyttskogen,733 36,Sala
+Hyttön,814 94,ÄLVKARLEBY
+HÄRJA EKEKULLEN,522 91,Tidaholm
+Hägerstens Allé,129 37,Hägersten
+Hägerstensbrinken,129 37,Hägersten
+Häggetorps Allé,543 36,Tibro
+Häggviks Allé,191 65,Sollentuna
+Häggången,416 76,Göteborg
+Hägnen,523 93,Marbäck
+Hägra,835 41,Dvärsätt
+Hälgesta,193 91,Sigtuna
+Häljeröd,442 91,Romelanda
+Hällarens gård,642 96,Malmköping
+Hällbrinken,132 36,Saltsjö-Boo
+Hällby,155 93,Nykvarn
+Hälle Såg,452 93,Strömstad
+Hällekind,452 97,Strömstad
+Hälleskåran,129 42,Hägersten
+Hällestad Brandstorp,521 53,Floby
+Hällestad Färnhem,521 53,Floby
+Hällestad Hagatomten,521 53,Floby
+Hällestad Källedal,521 53,Floby
+Hällestad Skattegården,521 53,Floby
+Hällestad Stenbacken,521 53,Floby
+Hällinge Backen,574 94,Vetlanda
+Hällingsfall Framnäs,597 96,Åtvidaberg
+Hällmarkshöjden,141 92,Huddinge
+Hällsjömon,864 91,Matfors
+Hällstads Djupedal,523 99,Hökerum
+Hälsans promenad,431 53,Mölndal
+Härja Mörkhult,522 91,Tidaholm
+Härjulfs väg,840 80,Lillhärdal
+Härsnäskrokarna,811 61,Sandviken
+Hässelby Torg,165 55,Hässelby
+Hässelby torg,165 55,Hässelby
+Hässelstad Högtomta 1,594 93,Gamleby
+Hässelstad Solhöjden 2,594 93,Gamleby
+Hästhagen,583 94,Nykil
+Hästhagsterassen,134 43,Gustavsberg
+Hästhoven,840 85,Lofsdalen
+Hästhult,280 22,Vittsjö
+Hästkroken,139 36,Värmdö
+Hästkroken,932 52,Bureå
+Hästskoslingan,134 64,Ingarö
+Hättarp,578 94,Aneby
+Håffrekullen,442 91,Romelanda
+Håfvilsrudvegen,2224,Austmarka
+Håkan Gullesons Väg,907 36,Umeå
+Håkan Lundbergs gata,252 27,Helsingborg
+Håkanstået,857 30,Sundsvall
+Håkantorp Stommen,521 96,Falköping
+Håkons gata,442 39,Kungälv
+Hållen,819 64,Hållnäs
+Hållstedts väg,134 64,Ingarö
+Hålsjö Mogabacken,820 64,Näsviken
+Hålsjö,824 67,Näsviken
+Hålta,442 95,Hålta
+Håmö,755 92,Uppsala
+Hårbyløkka,1794,Sponvika
+Hårlemans allé,256 57,Ramlösa
+Hårte Sven Jurs väg,820 76,Jättendal
+Håstaholmen,824 44,Hudiksvall
+Högbrinken,811 71,Järbo
+Högby,387 71,Löttorp
+Högbäcken,840 85,Lofsdalen
+Högdalsgången,124 36,Bandhagen
+Högdalsgången,124 54,Bandhagen
+Högdalsgången,124 54,Stockholm
+Högdalsplan,124 54,Bandhagen
+Högen,840 95,Funäsdalen
+Höglekardalen,845 91,Hallen
+Högliden,138 33,Älta
+Högliden,577 71,Virserum
+Högrells väg,424 70,Olofstorp
+Högslingan,134 65,Ingarö
+Högsta,733 96,Sala
+Högsåkerringen,216 22,Limhamn
+Högången,442 39,Kungälv
+Höja Gård,655 92,Karlstad
+Höjaholm,286 92,Örkelljunga
+Höjalen,280 22,Vittsjö
+Höjaliden,262 93,Ängelholm
+Höjdenliden,443 35,Lerum
+Hökby,748 95,ÖRBYHUS
+Hökens Gata,116 46,Stockholm
+Hökärr,155 94,Nykvarn
+Hölja,590 47,Vikingstad
+Hölkemåla,360 10,Ryd
+Hölkemåla,362 96,Ryd
+Hönacka Sälgen,670 20,Glava
+Hönsgärdet,738 92,Norberg
+Hönsäters Slott,533 74,Hällekis
+Hörda Sållaregård,360 44,Ingelstad
+Hörlanders väg,212 36,Malmö
+Hörningsholm,865 91,Alnö
+Hörsne, Line,622 58,Romakloster
+Hössna Granvalla,523 97,Ulricehamn
+Hössna Hovslagarliden,523 97,Ulricehamn
+Hössna Lilleskogen,523 97,Ulricehamn
+Hössna,523 97,Ulricehamn
+Hølvassveien,1950,Rømskog
+Høyden,1796,Kornsjø
+Idbacka,912 99,Vilhelmina
+Idbäckheden,924 94,Sorsele
+Iddefjordsveien,1765,Halden
+Idegransgången,135 52,Tyresö
+Idholmen,130 25,Ingmarsö
+Idrottsgården,747 40,Gimo
+Idvattnet,912 99,Vilhelmina
+Igelösa,388 96,Vassmolösa
+Iggelbo,815 95,Månkarbo
+Ihre Gård,624 54,Lärbro
+Iljansjö,705 97,Glanshammar
+Inagården,814 94,Älvkarleby
+Industrileden,663 34,Skoghall
+Inga Marie Nilssons gata,205 01,Malmö
+Ingalills väg,656 34,Karlstad
+Ingebäckslyckan,423 74,Torslanda
+Ingegärd Knutsdotters väg,592 32,Vadstena
+Ingelshyttan Nytorp,711 97,Storå
+Ingelshyttan,711 97,Storå
+Ingelsrudvegen,2232,Tobøl
+Ingelsrudøya,2233,Vestmarka
+Ingemåla,384 92,Ålem
+Ingen adress,981 95,Kiruna
+Ingerfjellveien,1788,Halden
+Ingetoras väg,192 73,Sollentuna
+Ingl,796 91,Älvdalen
+Ingmar Bergmans gata,753 09,Uppsala
+Ingmarsö södra brygga,130 25,Ingmarsö
+Ingången,831 61,Östersund
+Innerspåret,187 54,Täby
+Innerspåret,187 54,Täby
+Innsvatnet,7660,Vuku
+Inre Kulfors,922 93,VINDELN
+Inre Ultervattnet,915 91,Robertsfors
+Intorp Säteri,523 60,Gällstad
+Iris väg,373 54,Senoren
+Irisgången,611 67,Nyköping
+Isac Dahls väg,811 73,Årsunda
+Isebakkeveien,1788,Halden
+Isgrena,743 86,Bälinge
+Israels backe,818 92,Valbo
+Isstacken,178 93,Drottningholm
+Italienska Vägen,263 77,Mölle
+Italienska vägen,263 77,Mölle
+Itäranta,954 00,Tornio
+Ivan Hedeqvists väg,129 43,Hägersten
+Ivar Hallströms väg,129 38,Hägersten
+Ivar Munks väg,705 97,Glanshammar
+Ivar Vidfamnes gata,126 52,Hägersten
+Ivar Wikers väg,436 58,Hovås
+Ivars gränd,598 70,Storebro
+Ivla Eskilsgård,340 13,Hamneda
+Ivla Haganäs,341 75,Hamneda
+J A Hedlunds väg,291 33,Kristianstad
+J Sigfrid Edströms gata,416 48,Göteborg
+Jacob Häggs väg,623 69,Katthammarsvik
+Jacob Smålännings gata,392 37,Kalmar
+Jacobs gata,422 51,Hisings Backa
+Jacobséns väg,856 34,Sundsvall
+Jakob Borgmästares Väg,152 40,Södertälje
+Jakob Dubbes väg,131 50,Saltsjö-Duvnäs
+Jakob Ingelssons väg,791 76,Falun
+Jakob Sjöléns väg,854 61,Sundsvall
+Jakob Sjöléns väg,854 62,Sundsvall
+Jakobs Stege,129 40,Hägersten
+Jakobs Torg,111 52,Stockholm
+Jaktplan,175 63,Järfälla
+Jamtlandsvegen,7660,Vuku
+Jan Ers gata,784 51,Borlänge
+Jan Ersas väg,656 34,Karlstad
+Jan Inghes Torg,120 71,Stockholm
+Jan Inghes Torg,120 71,Stockholm
+Jan Johanssons gata,412 49,Göteborg
+Jan Stenbecks Torg,164 40,Kista
+Jan Stenbecks torg,164 21,Kista
+Jan Waldenströms gata,214 24,Malmö
+Jarhois,984 92,Pajala
+Jarl Kulles gata,126 54,hägersten
+Jarlens väg,352 55,Växjö
+Jenny Linds Gata,129 50,Hägersten
+Jenny Nyströms gränd,392 33,Kalmar
+Jens Mogens väg,241 35,Eslöv
+Jens Offas väg,241 35,Eslöv
+Ji-Te Gatan,265 38,Åstorp
+Ji-Te Gatan,265 38,Åstorp
+Ji-Te gatan,265 38,Åstorp
+Joels väg,616 34,Åby
+Johan Banérs gata,254 33,Helsingborg
+Johan Banérs gata,254 40,Helsingborg
+Johan Banérs gata,254 54,Helsingborg
+Johan Bures väg,907 36,Umeå
+Johan Enbergs väg,171 61,Solna
+Johan Femmas väg,218 53,Klagshamn
+Johan Häggs väg,131 50,Saltsjö-Duvnäs
+Johan Hårds gata,254 54,Helsingborg
+Johan III:s gata,392 46,Kalmar
+Johan Marméns väg,747 32,Alunda
+Johan Mickels väg,135 52,Tyresö
+Johan Olof Wallins väg,171 64,Solna
+Johan Peters väg,352 64,Växjö
+Johan Printz Väg,121 38,Johanneshov
+Johan Printz Väg,121 46,Johanneshov
+Johan Richters gata,652 32,Karlstad
+Johan Skyttes Väg,125 34,Älvsjö
+Johan Tillanders väg,168 52,Stockholm
+Johan Willins gata,416 64,Göteborg
+Johan på Gårdas gata,412 50,Göteborg
+Johannas väg,386 34,Färjestaden
+Johannes Magnus väg,583 26,Linköping
+Johannes Magnus väg,583 28,Linköping
+Johannes Magnus väg,583 30,Linköping
+Johannisholm,792 92,Mora
+John Blunds väg,146 31,Tullinge
+John Bunyans väg,417 29,Göteborg
+John Ericssons väg,217 61,Malmö
+John Ericssons väg,217 72,Malmö
+John Ericssons väg,223 63,Lund
+John Halls väg,431 36,Mölndal
+John Lodéns väg,131 41,Nacka
+John Åkerlunds väg,193 31,Sigtuna
+Jokijalantie,959 00,Kolari
+Jokivarrentie,955 30,Karunki
+Jonas Stolts väg,579 32,Högsby
+Jonas Wenströms väg,612 30,Finspång
+Jones väg,783 31,Säter
+Jonsbol,663 41,Hammarö
+Josef Ekbergs gränd,134 50,Gustavsberg
+Josefinas Gränd,393 59,Kalmar
+Juhonpieti,984 91,PAJALA
+Jularp,243 93,Höör
+Jularps Gård,243 93,Höör
+Julianska gatan,415 09,Göteborg
+Julias gata,422 51,Hisings Backa
+Jullen,444 30,Stenungsund
+Julseryd,573 92,Tranås
+Jungfru Fabens väg,653 46,Karlstad
+Jungfru Stavas väg,653 46,Karlstad
+Jungfrudansen,171 51,Solna
+Jungfruns gata,136 60,Brandbergen
+Jungs väg,392 43,Kalmar
+Junkers väg,134 62,Ingarö
+Jursla Skogskällan,616 34,Åby
+Jursla Skuggebo,616 34,Åby
+Jussi Björlings väg,784 32,Borlänge
+Jutarnas väg,382 45,Nybro
+Jydeklovan,430 85,Brännö
+Jäbo Berget,555 93,Jönköping
+Jäbo,555 93,Jönköping
+Jäderudden,816 95,Åmotsbruk
+Jägerhorns väg,141 75,Kungens Kurva
+Jäla Bygdegård,521 55,Floby
+Jäla Gunnestorp,521 55,Floby
+Jäla Holmen,521 55,Floby
+Jäla Kyrketorp,521 55,Floby
+Jäla Stockebacken,521 55,Floby
+Jälla Berggård,754 73,Uppsala
+Jälla Berggården,754 73,Uppsala
+Jällbyliden,507 45,Borås
+Jämt Annas Väg,794 32,Orsa
+Jänkegången,456 32,Kungshamn
+Jäntans Väg,132 35,Saltsjö-Boo
+Järla Sjöpir,131 60,Nacka
+Järlasjöbrinken,131 60,Nacka
+Järnvågen,403 14,Göteborg
+Järva Krog,170 67,Solna
+Järvenpää,984 96,Junosuando
+Järvsöfaks väg,824 94,Hudiksvall
+Jättene Hedgården,521 94,Falköping
+Jättene Rumpegården,521 94,Falköping
+Jättens väg,653 45,Karlstad
+Jääkärinkatu,954 00,Tornio
+Jöns Eriks väg,783 35,Säter
+Jöns Jons väg,254 70,Kattarp
+Jöns Karls väg,295 74,Näsum
+Jöns Rundbäcks Plats,417 24,Göteborg
+Jönses Anders väg,780 50,Djura
+Jönsnese Gillhov,845 61,Svenstavik
+Jörlanda Berg,444 39,Spekeröd
+Jörlanda Berg,444 93,Spekeröd
+Jörnslingan,139 72,Djurhamn
+Jösse Skytts väg,570 13,Myresjö
+KONTORET,682 92,Filipstad
+Kaffestugan Alunbruket,273 57,Brösarp
+Kagghamra säteri,147 91,Botkyrka
+Kaj Munks väg,168 49,Bromma
+Kajpromenaden,252 67,Helsingborg
+Kajsa Wargs Väg,121 33,Enskededalen
+Kalkbruket,521 62,Stenstorp
+Kall Västgård,837 93,Järpen
+Kalle Fritzes väg,371 64,Lyckeby
+Kalle Jons väg,981 07,Abisko
+Kalle Masses väg,392 36,Kalmar
+Kallgården,837 93,Järpen
+Kallhällsleden,176 75,Järfälla
+Kallsta,873 95,Ullanger
+Kallstenius väg,131 41,Nacka
+Kalvarna,865 92,Alnö
+Kalvhaga,824 66,Näsviken
+Kalvshestre,523 94,Tvärred
+Kalvsvik Bolsvik,355 96,Kalvsvik
+Kamlunge,952 93,Kalix
+Kammarp Pelletesfabriken,570 62,Ydre
+Kanaans väg,161 03,Bromma
+Kanaans väg,168 44,Bromma
+Kanalstråket,433 76,Jonsered
+Kanikebo,755 91,Uppsala
+Kankaanranta,953 93,Karungi
+Kanntorps Svedensborg,641 99,Sköldinge
+Kantor Edgrens väg,443 35,Lerum
+Kapellskär,760 15,Gräddö
+Kapten Karlssons Väg,393 55,Kalmar
+Kapten Kristians väg,653 46,Karlstad
+Kapten Lennarts väg,653 46,Karlstad
+Kapten Liljas väg,386 90,Färjestaden
+Kaptens Ugglas väg,653 46,Karlstad
+Karby Torg,186 70,Brottby
+Karby torg,186 70,Brotty
+Karhuniemi Djurgården,981 34,Kiruna
+Karin Boyes gata,129 55,Hägersten
+Karin Larssons väg,128 63,Sköndal
+Karin Månsdotters Väg,121 33,Enskededalen
+Karin Månsdotterstugan,647 92,Mariefred
+Karins allé,181 44,Lidingö
+Karins väg,194 61,Upplands Väsby
+Karl Axels väg,241 64,Harlösa
+Karl Bengtssons väg,439 62,Frillesås
+Karl Dahlins väg,541 54,Skövde
+Karl Eks väg,541 54,Skövde
+Karl Gerhards väg,133 35,Saltsjöbaden
+Karl Gustavs väg,224 78,Lund
+Karl IX:s väg,713 72,GYTTORP
+Karl Ifvarssons gata,302 47,Halmstad
+Karl Jakobs väg,371 64,Lyckeby
+Karl Johans gata,252 67,Helsingborg
+Karl Johans väg,244 46,Kävlinge
+Karl Johans väg,439 62,Frillesås
+Karl Johans väg,523 62,Vegby
+Karl Larssons gränd,456 31,Kungshamn
+Karl Martins väg,185 33,Vaxholm
+Karl Nordströms Väg,168 51,Bromma
+Karl X Gustavs gata,254 38,Helsingborg
+Karl X Gustavs gata,254 39,Helsingborg
+Karl X Gustavs gata,254 40,Helsingborg
+Karl XI:s väg,302 35,Halmstad
+Karl XI:s väg,302 95,Halmstad
+Karl XI:s väg,302 36,Halmstad
+Karl XII:s väg,442 60,Kode
+Karl XII:s väg,442 60,Kode
+Karl-Gustav Doolkes väg,128 64,Sköndal
+Karlaplan,114 60,Stockholm
+Karlaplan,115 20,Stockholm
+Karlaplan,115 30,Stockholm
+Karlskrona,371 41,Karlskrona
+Karlskronaplan,214 36,Malmö
+Karlsro,841 98,Ljungaverk
+Karlstadveien,1870,Ørje
+Karltorp,705 98,Lillkyrka
+Karolina Widerströms gata,252 23,Helsingborg
+Karolinska vägen,171 64,Solna
+Karolinska vägen,171 76,Solna
+Karsahult,360 10,Ryd
+Karterudsetervegen,2224,Austmarka
+Karvens väg,981 07,Abisko
+Kasa,896 91,HUSUM
+Kasemyren,471 96,Bleket
+Kaserngården,703 65,Örebro
+Kaserngården,791 40,Falun
+Kasernhöjden,653 39,Karlstad
+Kasernhöjden,653 39,Karlstad
+Kaseveien,1798,Aremark
+Kaspers väg,565 94,Sandhem
+Kastellet,185 99,Vaxholm
+Kastet,472 91,Stillingsön
+Katarinas Gränd,393 59,Kalmar
+Katarinas väg,592 31,Vadstena
+Katjas gata,422 51,Hisings Backa
+Kattesund,222 23,Lund
+Kattfoten,591 72,Motala
+Kattuvouma,981 95,Kiruna
+Kattuvuoma,981 95,Kiruna
+Kaunisjoensuu,984 91,Pajala
+Kauppakatu,954 00,Tornio
+Kauppatie,957 00,Pello
+Kauppinen,981 92,Kiruna
+Kavaljersgården,261 61,Landskrona
+Kavelmora,791 94,Falun
+Kaverösporten,421 37,Västra Frölunda
+Kay Wieståls gata,392 50,Kalmar
+Kedjeboskolan,737 91,FAGERSTA
+Kent Anderssons gata,412 49,Göteborg
+Keplers gata,415 17,Göteborg
+Keplers gata,415 55,Göteborg
+Keskikatu,954 00,Tornio
+Kevenhüllers väg,653 46,Karlstad
+Kevinge strand,182 57,Danderyd
+Kevingeringen,182 50,Danderyd
+Kihlgrens väg,192 79,Sollentuna
+Kila Prästård,661 94,Säffle
+Kilbonvegen,2283,Åsnes Finnskog
+Killeboda,283 76,Killeberg
+Killhult,286 74,Skånes Fagerhult
+Killinge,193 91,Sigtuna
+Killingskäret,862 91,Kvissleby
+Kinells väg,236 42,Höllviken
+Kinnarp Sörby,521 93,Falköping
+Kinne-Vedumsvägen,533 31,Götene
+Kinsta,725 95,Västerås
+Kiselstråket,907 42,Umeå
+Kista torg,164 42,Kista
+Kistagången,164 40,Kista
+Kistagången,164 40,Kista
+Kitterødgatene,1765,Halden
+Kiviks Stora Väg,277 32,Kivik
+Kiviks stora väg,277 30,Kivik
+Kivirannantie,954 10,Tornio
+Kjellanders gata,212 36,Malmö
+Kjellanders väg,352 20,Växjö
+Kjellanders väg,521 61,Stenstorp
+Kjellins väg,811 97,Gysinge
+Kjerringmyrvegen,2224,Austmarka
+Kjeøya,1794,Sponvika
+Kjulaåsen,635 06,Eskilstuna
+Klangens väg,352 55,Växjö
+Klappbryggan,184 50,Åkersberga
+Klarinettstråket,903 53,Umeå
+Klas Nybergs gränd,165 72,Hässelby
+Klastorpsslingan,152 42,Södertälje
+Klaverstråket,903 53,Umeå
+Klettåsvegen,2240,Magnor
+Klinta,149 92,Nynäshamn
+Klinte mölner,623 76,Klintehamn
+Klinte prästgården,623 76,Klintehamn
+Klinte robbjäns,623 76,Klintehamn
+Klinte sicklings,623 76,Klintehamn
+Klintens väg,414 76,Göteborg
+Klippan,414 51,Göteborg
+Klippan,414 51,Göteborg
+Klippiudden,933 99,Arvidsjaur
+Klockar Malms väg,182 34,Danderyd
+Klockar Malms väg,182 34,Danderyd
+Klostergången,413 18,Göteborg
+Klunkens Backe,393 52,Kalmar
+Klyvareplan,131 42,Nacka
+Kläppens Stugby,780 68,Transtrand
+Klåveröd,268 76,Kågeröd
+Klövergången,416 76,Göteborg
+Klövergången,442 39,Kungälv
+Klöverud,663 34,Skoghall
+Knaps väg,386 34,Färjestaden
+Knattens väg,424 32,Angered
+Kneippbyn,622 61,Visby
+Knihult,343 92,Knihult
+Knipan,861 91,Timrå
+Knista gårds väg,191 34,Sollentuna
+Knivingaryd,382 74,ALSTERBRO
+Knivsta Åby,741 92,Knivsta
+Knivsøveien,1788,Halden
+Knudsgången,247 61,Veberöd
+Knut Pederssons väg,791 76,Falun
+Knut Pernos väg,131 50,Saltsjö-Duvnäs
+Knut Påls väg,256 69,Helsingborg
+Knut Stangenbergs Väg,131 47,Nacka
+Knut Wallenbergs väg,133 34,Saltsjöbaden
+Knut den Store Torg,222 21,Lund
+Knuts väg,424 91,Olofstorp
+Knuts väg,446 41,Skepplanda
+Knutsgård,373 65,Hasslö
+Knutstorp,268 76,Kågeröd
+Knutstorp,641 92,Katrineholm
+Knätte Rudorna,523 91,Ulricehamn
+Knätte Rönnåsen,523 91,Ulricehamn
+Knävland,855 90,Sundsvall
+Kobbarnas väg,416 64,Göteborg
+Kobbarnas väg,416 47,Göteborg
+Kobbegården,436 37,Askim
+Kochska gränden,451 30,Uddevalla
+Kocks väg,236 42,Höllviken
+Kolares gata,654 57,Karlstad
+Kolaretorp,382 93,Nybro
+Kolarslingan,136 48,Handen
+Kolartorps allé,136 48,Handen
+Kolbottens väg,131 50,Saltsjöbaden
+Kolløya,1798,Aremark
+Kolshult KRÄPPLAN,573 92,Tranås
+Kolshult VÄSTERGÅRD,573 92,Tranås
+Kolshult,573 92,Tranås
+Kolsta,826 94,NORRALA
+Kolviksterassen,139 33,Värmdö
+Kom snart igen,392 31,Kalmar
+Komtillmåtta,785 60,Djurås
+Konrads Väg,373 54,Senoren
+Konrads Väg,760 21,Vätö
+Konstdalen,816 93,Ockelbo
+Konstepidemins väg,413 14,Göteborg
+Konsul Bohmans väg,181 66,Lidingö
+Konsul Lundströms väg,682 33,Filipstad
+Konsul Lundströms väg,682 33,Filipstad
+Konsul Perssons plats,252 25,Helsingborg
+Konsulns väg,252 84,Helsingborg
+Konungsö,555 92,Jönköping
+Konäset,920 64,Tärnaby
+Kopernikus väg,147 46,Tumba
+Kopparp,573 92,Tranås
+Kopparringen,302 59,Halmstad
+Koppslahyttan 111,781 98,Borlänge
+Korngången,416 76,Göteborg
+Korngången,442 39,Kungälv
+Kornsjøveien,1796,Kornsjø
+Kornslingan,241 35,Eslöv
+Korpebo,523 93,Marbäck
+Korpikylä,953 93,Karungi
+Korrtolahti,981 95,Kiruna
+Korsbogården,461 93,Västra Tunhem
+Korsgången,224 80,Lund
+Korta gatan,243 30,Höör
+Korta gränd,860 32,Fagervik
+Korta vägen,122 62,Enskede
+Korta vägen,132 46,Saltsjö-Boo
+Korta vägen,236 42,Höllviken
+Korta vägen,602 10,Norrköping
+Kortedala Torg,415 10,Göteborg
+Korterødveien,1794,Sponvika
+Korttolahti,981 95,Kiruna
+Koschens gata,533 33,Götene
+Kosen,474 74,Käringön
+Kotirinteentie,994 50,Enontekiö
+Kotirinteentie,994 50,Palojoensuu
+Koviken,149 92,Nynäshamn
+Krabbeliderna,417 28,Göteborg
+Krabbes väg,432 52,Varberg
+Krabbes väg,432 52,Varberg
+Kraddsele,924 94,Sorsele
+Krankajen,211 22,Malmö
+Kriken Gläntan,645 94,Strängnäs
+Kriken Lugnet,645 94,Strängnäs
+Kriken Lundbyborg,645 94,Strängnäs
+Kriken Lundbyhed,645 94,Strängnäs
+Kriken Lyckebo,645 94,Strängnäs
+Kriken Lyckhem,645 94,Strängnäs
+Kriken Rosenhill,645 94,Strängnäs
+Kriken Skogsdungen,645 94,Strängnäs
+Kriken Solängen,645 94,Strängnäs
+Kriken Tallbacken,645 94,Strängnäs
+Kring-Alles väg,443 34,Lerum
+Krister Siöblads väg,162 72,Vällingby
+Kristian IV:s Väg,301 18,Halmstad
+Kristina Nilssons Väg,121 34,Enskededalen
+Kristina Nilssons Väg,352 39,Växjö
+Kristina Nilssons Väg,570 03,Vrigstad
+Kristinas Strädde,277 32,Kivik
+Kristinebo Södra Högsäter,661 95,Värmlands Nysäter
+Kristoffer Huldts väg,176 69,Järfälla
+Kritringen,212 36,Malmö
+Krogesta,705 97,Glanshammar
+Krogesta,705 97,Glanshammar
+Krokdalsliden,471 32,Skärhamn
+Krokelyckan,426 70,Västra Frölunda
+Kroken,134 63,Ingarö
+Kroken,302 53,Halmstad
+Krokens väg,820 64,Näsviken
+Krokomsporten,835 32,Krokom
+Kroksjøvegen,2283,Åsnes Finnskog
+Krokslycke,444 93,Spekeröd
+Krokstugan,743 73,Bjorklinge
+Krokvik,981 95,Kiruna
+Krokviken,865 92,Alnö
+Kronetorps allé,232 39,Arlöv
+Krongårdsringen,974 35,Luleå
+Kronogårdsporten,461 52,Trollhättan
+Krosklycke,444 93,Spekeröd
+Krossekärr,457 95,Grebbestad
+Krossekärr,457 95,Grebbestad
+Kruareliden,252 85,Helsingborg
+Krumhornet,831 42,Östersund
+Krusasvändan,811 73,Årsunda
+Krusboda Torg,135 35,Tyresö
+Krusboda torg,135 35,Tyresö
+Krutslingan,546 34,Karlsborg
+Kräcklinge prästgård,716 92,Fjugesta
+Kräftriket,106 91,Stockholm
+Krägga gårds väg,746 93,Bålsta
+Kräggesta,731 94,KÖPING
+Kråk-Anders väg,432 95,Varberg
+Kråkfossvegen,2233,Vestmarka
+Krångelbygget,286 74,Skånes Fagerhult
+Krögers promenad,191 37,Sollentuna
+Kulas väg,352 55,Växjö
+Kulblikvegen,2233,Vestmarka
+Kuleskog Gläntan,461 95,Trollhättan
+Kull,571 63,Bodafors
+Kulla Stjärnholm,749 62,Örsundsbro
+Kulla Stjärnholms gård,749 62,Örsundsbro
+Kulla,749 62,Örsundsbro
+Kulla-Gryta,749 62,Örsundsbro
+Kulla-Vreta,749 62,Örsundsbro
+Kullen,936 32,Boliden
+Kullens backe,645 94,Strängnäs
+Kulturcentrum Järna,153 91,Järna
+Kumla Björkliden,647 91,Mariefred
+Kumla Roshill,647 91,Mariefred
+Kumla,186 97,Brottby
+Kumla,705 97,Glanshammar
+Kung Atles Väg,167 74,Bromma
+Kung Björns väg,521 31,Falköping
+Kung Eriks väg,521 92,Falköping
+Kung Gustafs väg,794 30,Orsa
+Kung Göstas väg,645 33,Strängnäs
+Kung Hans väg,192 68,Sollentuna
+Kung Hans väg,192 68,Sollentuna
+Kung Kristoffers gata,252 34,Helsingborg
+Kung Magnus Väg,352 34,Växjö
+Kung Oscars väg,211 42,Malmö
+Kung Oscars väg,812 31,Storvik
+Kung Oscars väg,812 90,Storvik
+Kung Oskars väg,222 35,Lund
+Kung Oskars väg,222 35,Lund
+Kung Rans väg,521 31,Falköping
+Kung Rings gränd,393 63,Kalmar
+Kung Valdemars väg,592 41,Vadstena
+Kungens backe,837 99,Storlien
+Kungens kurvaleden,141 75,Stockholm
+Kungens kurvaleden,141 75,Kungens kurva
+Kungsgården,395 94,Rockneby
+Kungshamra,170 70,Solna
+Kungsholms Hamnplan,112 20,Stockholm
+Kungsholms Kyrkoplan,112 24,Stockholm
+Kungsholms Strand,112 48,Stockholm
+Kungshörnet,195 58,Märsta
+Kungsmarksplan,371 44,Karlskrona
+Kungsnäs,855 90,Sundsvall
+Kungsnäs,855 90,Sundsvall
+Kungsnäs,857 51,Sundsvall
+Kungsportsavenyen,411 36,Göteborg
+Kungsportsavenyen,411 36,Göteborg
+Kungsträdgården,605 91,Norrköping
+Kungsviken,473 99,Henån
+Kunnantie,957 00,Pello
+Kunnarintie,954 10,Tornio
+Kunskapens Väg,831 40,Östersund
+Kunskapens väg,831 40,Östersund
+Kunskapslänken,583 26,Linköping
+Kunskapslänken,583 27,Linköping
+Kupolen,781 70,Borlänge
+Kuralampi,2283,Åsnes Finnskog
+Kuskens gata,136 64,Haninge
+Kuusikontie,959 00,Kolari
+Kvalarp NYDALA,573 92,Tranås
+Kvalarp,573 92,Tranås
+Kvarnared,523 96,Ulricehamn
+Kvarnarps Gård,575 95,Eksjö
+Kvarndammsringen,134 39,Gustavsberg
+Kvarnen Gerlesborg,450 70,Hamburgsund
+Kvarnforsen,456 47,Bovallstrand
+Kvarnforsplan,784 66,Borlänge
+Kvarnliden,305 60,Harplinge
+Kvarnplan,177 64,Järfälla
+Kvartinge Gård,647 92,Mariefred
+Kvavad,891 96,Kvaved
+Kvaved,891 96,Arnäsvall
+Kvaved,891 96,kvaved
+Kveliveien,7882,Nordli
+Kvemoveien,7882,Nordli
+Kvenntangveien,7882,Nordli
+Kvernmovegen,2218,Lundersæter
+Kvigvallen,430 85,Brännö
+Kyrkbyn,243 71,Tjörnarp
+Kyrkbyn,386 51,Mörbylånga
+Kyrkbyn,611 72,Stigtomta
+Kyrkeby,361 96,Vissefjärda
+Kyrkekvarn,565 94,Sandhem
+Kyrkobordet,915 98,Bygdeå
+Kyrkslingan,111 49,Stockholm
+Kyrkvallen,632 39,Eskilstuna
+Kyrkås Ingelstorp,441 75,Sollebrunn
+Käckens Väg,645 71,Strängnäs
+Kälebo Ekbacken,610 25,Vikbolandet
+Källbrinken,611 34,Nyköping
+Källeborg,786 93,Nås
+Källeliden,568 30,Skillingaryd
+Källs Nöbbelöv 1876,268 71,Teckomatorp
+Källsby,444 92,Jörlanda
+Källsvik 15,155 94,Nykvarn
+Källsvik,155 94,Nykvarn
+Källtorp,146 33,Tullinge
+Källtorps Gärde,146 33,Tullinge
+Källtorpsgärde,146 33,Tullinge
+Kännestorp,444 93,Spekeröd
+Käpytie,993 00,Muonio
+Kärfältets centrum,831 38,Östersund
+Käringetorp,590 42,Horn
+Kärleksudden,761 40,Norrtälje
+Kärra Centrum,425 34,Hisings Kärra
+Kärrs Allé,697 30,Pålsboda
+Kärrtorpsplan,121 55,Johanneshov
+Kärven,819 66,LÖVSTABRUK
+Kättebo,523 60,Gällstad
+Kättilvreten,163 43,Spånga
+Kättinge skola,610 28,Vikbolandet
+Kåbdalis,902 65,Kåbdalis
+Kåbdalis,926 05,Kåbdalis
+Kåbdalis,962 05,Kåbdalis
+Kåkbrinken,111 27,Stockholm
+Kålgården,414 69,Göteborg
+Kållebo Västergård,360 23,Älmeboda
+Kårbo,774 92,Avesta
+Kåtorp,471 93,Kållekärr
+Kölingared Årås,565 93,Mullsjö
+Körlinge,186 90,Vallentuna
+Körlinge,186 91,Vallentuna
+Körning,870 30,Nordingrå
+L J Brandts väg,352 63,Växjö
+LKAB Svappavaara,980 20,Svappavaara
+LP Hanssons väg,312 31,Laholm
+La Cours gata,252 31,Helsingborg
+Labbarp,578 92,Aneby
+Labbgången,426 69,Västra Frölunda
+Labbsand,691 94,Karlskoga
+Ladugårdsbyn Älvdalen,461 59,Trollhättan
+Ladugårdsbyn Älvdalen,461 70,Trollhättan
+Lagaplan,128 45,Bagarmossen
+Lagergrens gata,652 26,Karlstad
+Lagman Eskils väg,443 35,Lerum
+Lagmans gränd,521 40,Falköping
+Lagmansgården,472 31,Svanesund
+Lagmansplan,128 38,Skarpnäck
+Lagmansören,861 92,Bergeforsen
+Lallerstedts gata,371 54,Karlskrona
+Landarkullen,447 91,Vårgårda
+Landeryd Solängen,585 93,Linköping
+Landgången,652 27,Karlstad
+Landgången,831 61,Östersund
+Landtjärn,871 92,Härnösand
+Landvågen,835 92,Krokom
+Langebekk,1950,Rømskog
+Langes väg,523 60,Gällstad
+Langgrubban,840 97,Bruksvallarna
+Langs väg,621 50,Visby
+Lannaskede Stom,570 12,Landsbro
+Lannaskede Åkerslund,570 12,Landsbro
+Lannaskedebrunn,570 12,Landsbro
+Lapp Anders Väg,784 56,Borlänge
+Lapp Anders väg,784 56,Borlänge
+Larbekkvegen,2224,Austmarka
+Lars Bengts väg,837 41,Mörsil
+Lars Israel Wahlmans väg,414 76,Göteborg
+Lars Olofs gata,541 40,Skövde
+Lars Persgårds väg,432 65,Väröbacka
+Lars i Kujas väg,656 34,Karlstad
+Larses väg,812 40,Kungsgården
+Larsolas väg,373 65,Hasslö
+Larssons berg,431 66,Mölndal
+Larssons väg,373 66,Hasslö
+Larssons väg,561 91,Huskvarna
+Larv Furuskogen,535 93,Kvänum
+Larv Kosten,534 62,Larv
+Larv Prästgården,534 62,Larv
+Larv Sjötorp,534 62,Larv
+Larv Södergården,534 62,Larv
+Larv Tranekullen,534 62,Larv
+Larvs Församlingshem,534 62,Larv
+Lasarettsleden,811 60,Sandviken
+Lastad Långås,311 93,Långås
+Lasätter gård,611 95,Nyköping
+Lattilahti,981 95,Kiruna
+Laurentii Gränd,193 30,Sigtuna
+Lauvøya,1798,Aremark
+Lavendelgången,416 76,Göteborg
+Laxön,814 94,Älvkarleby
+Lebikovegen,2224,Austmarka
+Lech Walesas gata,393 60,Kalmar
+Ledskärsudden,907 88,Täfteå
+Ledungsplan,168 53,Bromma
+Leglers väg,663 40,Hammarö
+Leires väg,443 51,Lerum
+Leirsjøvegen,2240,Magnor
+Lejonets gata,136 60,Brandbergen
+Lemmings väg,122 40,Enskede
+Lemmings väg,122 44,Enskede
+Lemnius väg,139 60,Värmdö
+Lenas Väg,786 95,Dala-Floda
+Lennings gata,603 37,Norrköping
+Leopolds gata,584 37,Linköping
+Lerbodatorp Där Framme,665 93,Kil
+Lerhyttan,770 71,Stjärnsund
+Lertaget,386 51,Mörbylånga
+Lerveien,1788,Halden
+Lervik,693 92,Degerfors
+Levatsfors,933 99,Arvidsjaur
+Lexby Östergård,423 59,Torslanda
+Liared Svalebo,523 91,Ulricehamn
+Liared Tälningarudorna,523 91,Ulricehamn
+Liaveien,1794,Sponvika
+Lidaleden,600 14,Norrköping
+Lidaleden,602 35,Norrköping
+Lidaleden,603 81,Norrköping
+Liden Skogstjärnen,567 92,Vaggeryd
+Liden,165 74,Hässelby
+Liden,456 32,Kungshamn
+Liebäckskroken,256 58,Helsingborg
+Liehittäjä,957 91,Övertorneå
+Liehättäjä,957 91,Övertorneå
+Lierna,268 76,Kågeröd
+Lignells väg,831 42,Östersund
+Liholtsetre,1765,Halden
+Liljas Gata,115 56,Stockholm
+Liljas väg,911 34,Vännäs
+Liljefors torg,754 29,Uppsala
+Liljekonvaljens väg,132 45,Saltsjö-Boo
+Lill Ingemars väg,653 46,Karlstad
+Lill Ingemars väg,653 46,Karlstad
+Lill-Skränmåsören,974 55,Luleå
+Lill-strimmas väg,861 43,Sörberge
+Lilla Allmänna Gränd,115 21,Stockholm
+Lilla Bandsjön,861 91,Timrå
+Lilla Bantorget,111 23,Stockholm
+Lilla Bergaliden,252 23,Helsingborg
+Lilla Björnens väg,134 62,Ingarö
+Lilla Blåkarens väg,760 49,Herräng
+Lilla Bommen,411 04,Göteborg
+Lilla Bommens Torg,411 04,Göteborg
+Lilla Bommens torg,411 04,Göteborg
+Lilla Bullens väg,393 58,Kalmar
+Lilla Danska Vägen,412 74,Göteborg
+Lilla Fylleryd,355 92,Växjö
+Lilla Gränd,122 62,Enskede
+Lilla Halalid,254 40,Helsingborg
+Lilla Havstoviken,865 92,Alnö
+Lilla Hoppet,682 33,Filipstad
+Lilla Lönnhöjden,680 96,Lesjöfors
+Lilla Norrby,178 91,Munsö
+Lilla Pölsans väg,423 40,Torslanda
+Lilla Rom,694 92,Hallsberg
+Lilla Rusters väg,653 46,Karlstad
+Lilla Skogssjön,147 91,Grödinge
+Lilla Skogssjön,147 91,Grödinge
+Lilla Skräddargården,621 53,Visby
+Lilla Strömtorp,693 92,Degerfors
+Lilla Sömmerskegården,621 53,Visby
+Lilla Torg,243 30,Höör
+Lilla Torget,411 18,Göteborg
+Lilla Västansjö,555 92,Jönköping
+Lilla gränd,131 41,Nacka
+Lilla hundens gata,136 64,Haninge
+Lilla ryssjön,155 93,Nykvarn
+Lilla slingan,192 73,Sollentuna
+Lilla vägen,263 73,Arild
+Lilla vägen,444 60,Stora Höga
+Lilldälje,855 90,Sundsvall
+Lilldälje,864 91,Matfors
+Lille Mats väg,653 46,Karlstad
+Lillebacka,432 96,Åskloster
+Lilleby Kronogård,423 51,Torslanda
+Lillekärr Norra,423 74,Torslanda
+Lillekärr Norra,425 34,Hisings Kärra
+Lillekärr Södra,425 31,Hisings Kärra
+Lillerud,664 94,Vålberg
+Lilles väg,192 74,Sollentuna
+Lillgången,393 55,Kalmar
+Lillhallen,840 40,Svenstavik
+Lillhärmsta,857 51,Sundsvall
+Lilliecreutz väg,443 32,Lerum
+Lillies väg,192 74,Sollentuna
+Lillkyrka,705 98,Lillkyrka
+Lillsjöhögen,831 91,Östersund
+Lillsjöraden,553 20,Jönköping
+Lillsjörännan,746 50,Bålsta
+Lillskog,827 63,Färila
+Lillskogsvändan,139 54,Värmdö
+Lillströmskroken,139 60,Värmdö
+Limedsforsen,780 64,Lima
+Limedsforsen,780 64,Lima
+Limna Björksäter,578 94,Aneby
+Lina Gauffins väg,612 36,Finspång
+Linas Lycka,423 59,Torslanda
+Lindaus väg,165 72,Hässelby
+Lindblads väg,295 74,Näsum
+Lindells väg,212 36,Malmö
+Lindgrens väg,134 65,Ingarö
+Lindhagensplan,112 43,Stockholm
+Lindholmspiren,417 56,Göteborg
+Lindholmspiren,417 56,Göteborg
+Lindhov,432 48,Varberg
+Lindskär,725 90,Västerås
+Lindudden,670 10,Töcksfors
+Lindvalls väg,370 24,Nättraby
+Lindås,514 55,Ljungsarp
+Lindö,576 93,Rörvik
+Lindö,605 93,Norrköping
+Linfläck,824 74,Delsbo
+Lingbokroken,811 96,Årsunda
+Lingonguppet,811 74,Österfärnebo
+Lingången,442 39,Kungälv
+Linkuladalen,430 84,Styrsö
+Linköpings universitet,581 83,Linköping
+Linnaeus väg,907 36,Umeå
+Linnavegen,2224,Austmarka
+Linnavegen,2256,Grue Finnskog
+Linnavegen,2283,Åsnes Finnskog
+Linnerudhaugvegen,2224,Austmarka
+Linnerudvegen,2224,Austmarka
+Linnesveien,7884,Sørli
+Linnmoveien,7884,Sørli
+Linnéan,840 85,Lofsdalen
+Linnés väg,191 35,Sollentuna
+Linsell Backen,842 91,Sveg
+Linsell,842 91,Sveg
+Linslingan,241 35,Eslöv
+Linvävartorp,633 49,Eskilstuna
+Linåstoppen,7882,Nordli
+Lisaringen,782 31,Malung
+Lisas höjd,681 43,Kristinehamn
+Lisatået,863 32,Sundsbruk
+Lisbeth Salanders gata,931 70,Skellefteå
+Lissgattu,793 60,Siljansnäs
+Lista Gård,722 41,Västerås
+Litjliveien,7530,Meråker
+Littersbo,733 92,Sala
+Livens väg,783 50,Gustafs
+Ljung Björkbacken,585 75,Ljungsbro
+Ljung Stenhuset,585 75,Ljungsbro
+Ljungdalen 805,845 99,Ljungdalen
+Ljunggrens väg,236 42,Höllviken
+Ljunghagen,341 72,Odensjö
+Ljungplan,981 43,Kiruna
+Ljungsborg,585 93,Linköping
+Ljungås,696 92,Askersund
+Ljungås,696 92,Askersund
+Ljusslingan,120 31,Stockholm
+Ljusterleden,974 39,Luleå
+Ljusterö Torg,184 95,Ljusterö
+Lobeliagången,416 76,Göteborg
+Lodjurets gata,136 64,Haninge
+Lohärads Söderby,761 72,Norrtälje
+Lommaryd Emmaboda,578 91,Aneby
+Lona Knapes gata,421 32,Västra Frölunda
+Lorentz Ljungdahls gata,654 50,Karlstad
+Lotjärn,864 95,Stöde
+Lotsarnas väg,430 83,Vrångö
+Love Almqvists torg,194 77,Upplands Väsby
+Love Almqvists torg,194 80,Upplands Väsby
+Lovisas gata,218 51,Klagshamn
+Lovsjö,555 92,Jönköping
+Ludvigssons väg,393 65,Kalmar
+Lugna Gatan,461 59,Trollhättan
+Lugna Gatan,784 62,Borlänge
+Lugna gatan,128 38,Skarpnäck
+Lugna gatan,211 60,Malmö
+Lugna gatan,211 60,Malmö
+Lugna gatan,802 75,Gävle
+Lugna vägen,612 44,Finspång
+Lugna vägen,783 50,Gustafs
+Lugnet,414 68,Göteborg
+Lugnet,782 91,Malung
+Lugnet,818 41,Forsbacka
+Lugnetleden,791 38,Falun
+Lugnets Allé,120 65,Stockholm
+Lugnets Allé,120 66,Stockholm
+Lugnets Allé,120 67,Stockholm
+Lugnets Allé,120 68,Stockholm
+Lugnets väg,352 63,Växjö
+Lukas gata,256 54,Ramlösa
+Lukkarintie,959 00,Kolari
+Lummergången,135 35,Tyresö
+Lund,149 92,Nynäshamn
+Lunda,744 92,Huddungeby
+Lundahls väg,352 20,Växjö
+Lundbo,455 97,Dingle
+Lundby gård,646 92,Gnesta
+Lundby,592 92,Vadstena
+Lundbyslingan,645 94,Strängnäs
+Lundbyslingan,818 92,Valbo
+Lundgrens väg,818 92,Valbo
+Lundin Oskars väg,785 60,Djurås
+Lundkroken,818 92,Valbo
+Lundsveien,1798,Aremark
+Lunnaliden,519 30,Horred
+Lunnefågelgången,426 69,Västra Frölunda
+Lunån,791 92,Falun
+Luppio,957 91,Övertorneå
+Luppio-Armasvaara,957 91,Övertorneå
+Lusholmen,865 92,Alnö
+Lustebo,790 20,Grycksbo
+Luthagsesplanaden,752 25,Uppsala
+Luttra Backetomten,521 93,Falköping
+Luttra Bygdegården,521 93,Falköping
+Luttra Fogdegården,521 93,Falköping
+Luttra Granebo,521 93,Falköping
+Luttra Gropagården,521 93,Falköping
+Luttra Krokstorp,521 93,Falköping
+Luttra Skövdesgården,521 93,Falköping
+Luttra Stommen,521 93,Falköping
+Luttra Väktaregården,521 93,Falköping
+Luttra Ålleblick,521 93,Falköping
+Lybekkdalen,7898,Limingen
+Lyckan,441 93,Alingsås
+Lyckan,605 91,Norrköping
+Lyckan,753 24,Uppsala
+Lyckans väg,134 31,Gustavsberg
+Lyckans väg,134 41,Gustavsberg
+Lyckans väg,373 65,Hasslö
+Lycke,264 93,Klippan
+Lycke,523 94,Tvärred
+Lyckebo,615 96,Gryt
+Lyckornas väg,139 53,Värmdö
+Lyckås,335 93,Åsenhöga
+Lydéns väg,561 91,Huskvarna
+Lyktgubbegången,424 57,Gunnilse
+Lyr-Röd,474 96,Nösund
+Läbonäs Ölsboda,743 72,Björklinge
+Läbonäs,743 72,Björklinge
+Läby Vadbacka,755 92,Uppsala
+Läby Österby,755 92,Uppsala
+Läby,755 92,Uppsala
+Läby-västerby Klappet,755 92,Uppsala
+Läby-västerby,755 92,Uppsala
+Läby-Österby,755 92,Uppsala
+Läby-österby,755 92,Uppsala
+Lädja Backegård,360 30,Lammhult
+Lädja Björkhaga,360 30,Lammhult
+Lädja Brodsagård,360 30,Lammhult
+Lädja Faxagård,360 30,Lammhult
+Lädja Fridhem,360 30,Lammhult
+Lädja Klövaliden,360 30,Lammhult
+Lädja Knapagård,360 30,Lammhult
+Lädja Norregård,360 30,Lammhult
+Lädja Sjögård,360 30,Lammhult
+Lädja Smedsgård,360 30,Lammhult
+Lädja Solhem,360 30,Lammhult
+Lädja Solhälla,360 30,Lammhult
+Lädja Trulsagård,360 30,Lammhult
+Lädja,360 30,Lammhult
+Lännersta Gårds Väg,132 46,Saltsjö-Boo
+Lännerstahöjdens Väg,132 46,Saltsjö-Boo
+Länsbodarna,791 92,Falun
+Länsiranta,954 00,Tornio
+Lärarstråket,907 32,Umeå
+Lärje Albogård,422 59,Hisings Backa
+Lärkans väg,139 71,Stavsnäs
+Lärkesholm,286 92,Örkelljunga
+Läsmygen,129 40,Hägersten
+Lästringe skola,611 99,Tystberga
+Långa vägen,393 61,Kalmar
+Långalt,286 92,Örkelljunga
+Långbyn,705 91,Örebro
+Långeby,472 96,Varekil
+Långejorden,430 85,Brännö
+Långemajas gata,456 32,Kungshamn
+Långes gata,430 84,Styrsö
+Långfläsjan,865 92,Alnö
+Långhed,822 92,Alfta
+Långholmsmuren,117 33,Stockholm
+Långlandia,414 53,Göteborg
+Långlöt,387 93,Borgholm
+Långlötsmosse,387 93,Borgholm
+Långlötsmosse,387 93,Borgholm
+Långmyran, Bänkås,865 92,Alnö
+Långseleringen,162 53,Vällingby
+Långsjödal,153 96,MÖLNBO
+Långtora Rusthåll,745 96,Enköping
+Långtora,745 96,Enköping
+Långträskholmen,933 91,Arvidsjaur
+Långtä,818 92,Valbo
+Långviksudden,956 91,Överkalix
+Långå Sandbacken,846 91,Hede
+Långå,846 91,Hede
+Långåsliden,412 69,Göteborg
+Långö,457 41,Fjällbacka
+Låssby Grind,423 52,Torslanda
+Löfströms allé,172 66,Sundbyberg
+Löjtnant Granlunds väg,281 52,Hässleholm
+Lökagården,268 76,Kågeröd
+Lörsta,755 91,Uppsala
+Löt,645 94,Strängnäs
+Löten,823 91,Kilafors
+Löthem,645 94,Strängnäs
+Löthöjden,645 94,Strängnäs
+Lötliden,645 94,Strängnäs
+Löts-Vallby,749 51,Grillby
+Lövdalen,705 95,Örebro
+Lövdungen,422 56,Hisings Backa
+Lövgrens väg,373 65,Hasslö
+Lövhagen,149 51,Nynäshamn
+Lövhagen,149 51,Nynäshamn
+Lövheden,953 93,Karungi
+Lövholmsbrinken,117 43,Stockholm
+Lövhult,571 29,Nässjö
+Lövronningen,961 40,Boden
+Lövsjön,835 62,Föllinge
+Lövsta herrgård,819 66,Lövstabruk
+Lövsta herrgård,819 66,Lövstabruk
+Lövstabruk,819 66,Lövstabruk
+Lövsätt,860 25,Kovland
+Lövåsen,139 40,Värmdö
+Löwenborgs väg,653 46,Karlstad
+Maacks väg,253 51,Påarp
+Maden,561 34,Huskvarna
+Madhagen,574 91,Vetlanda
+Magersjö Björkhult,573 92,Tranås
+Magersjö Självsvåld,573 92,Tranås
+Magersjö,573 92,Tranås
+Maggebysätter,686 91,Sunne
+Magnis Väg,266 54,Vejbystrand
+Magnorvegen,2224,Austmarka
+Magnus Erikssons Väg,592 31,Vadstena
+Magnus Erikssons gata,252 23,Helsingborg
+Magnus Erikssons gata,254 37,Helsingborg
+Magnus Isaeus gata,134 53,Gustavsberg
+Magnus Isaeus gata,139 53,Gustavsberg
+Magnus Paulins gata,254 33,Helsingborg
+Magnus Stenbocks väg,302 35,Halmstad
+Magnussonss väg,139 34,Värmdö
+Maj Brings väg,128 64,Sköndal
+Maj på Malös gata,417 67,Göteborg
+Maj,862 95,Njurunda
+Maja Råds väg,653 46,Karlstad
+Maja Snis gata,134 51,Gustavsberg
+Maja Snis gata,134 52,Gustavsberg
+Majas Väg,982 06,Nattavaara
+Majas väg,656 34,Karlstad
+Majorskans väg,653 46,Karlstad
+Majvivans väg,132 45,Saltsjö-Boo
+Malins Väg,745 39,Enköping
+Malma Backe,756 47,Uppsala
+Malmbrinken,132 36,Saltsjö-Boo
+Malmquists väg,352 20,Växjö
+Malms väg,141 91,Huddinge
+Malmö Centralstation,,211 22,Malmö
+Malsta,761 71,Norrtälje
+Malvinas väg,114 28,Stockholm
+Malören,952 95,Båtskärsnäs
+Mamsell Dillners väg,653 46,Karlstad
+Manfred Björkquists Allé,193 31,Sigtuna
+Manfred Björkquists allé,193 22,Sigtuna
+Manfred Bondes väg,184 62,Åkersberga
+Marbäck Karlsgården,523 93,Marbäck
+Marbäck Karlshöjd,523 93,Marbäck
+Marbäck Sällerud,523 93,Marbäck
+Marbäck,523 93,Marbäck
+Marebäck,574 93,Skede
+Margaretaplan,392 46,Kalmar
+Margaretaplan,392 47,Kalmar
+Margaretas väg,386 34,Färjestaden
+Margit Halls gata,415 26,Göteborg
+Maria Höglunds väg,139 50,Värmdö
+Maria Langs gränd,713 31,Nora
+Maria Nilsdotters väg,352 64,Växjö
+Maria Sofias väg,135 63,Tyresö
+Mariaplan,134 41,Gustavsberg
+Mariaplan,414 71,Göteborg
+Mariaplan,414 71,Göteborg
+Marias Backe,430 84,Styrsö
+Mariaterassen,134 41,Gustavsberg
+Marina Gränsen,936 32,Boliden
+Marinens väg,136 81,Handen
+Marka Anderstorp,521 92,Falköping
+Marka Backgården,521 92,Falköping
+Marka Björkhaga,521 92,Falköping
+Marka Borgen,521 92,Falköping
+Marka Fridebo,521 92,Falköping
+Marka Fridhem,521 92,Falköping
+Marka Församlingshem,521 92,Falköping
+Marka Granagården,521 92,Falköping
+Marka Grimskullen,521 92,Falköping
+Marka Heden,521 92,Falköping
+Marka Hovmansgården,521 92,Falköping
+Marka Högsbo,521 92,Falköping
+Marka Högås,521 92,Falköping
+Marka Knektegården,521 92,Falköping
+Marka Kymme,521 92,Falköping
+Marka Källegården,521 92,Falköping
+Marka Lindängen,521 92,Falköping
+Marka Lonkebo,521 92,Falköping
+Marka Lunnabacken,521 92,Falköping
+Marka Medväga,521 92,Falköping
+Marka Narven,521 92,Falköping
+Marka Nyhem,521 92,Falköping
+Marka Näset,521 92,Falköping
+Marka Redberga Egendom,521 92,Falköping
+Marka Redberga,521 92,Falköping
+Marka Sjögården,521 92,Falköping
+Marka Sjötorp,521 92,Falköping
+Marka Skyboholm,521 92,Falköping
+Marka Småskola,521 92,Falköping
+Marka Stommen,521 92,Falköping
+Marka Vallen,521 92,Falköping
+Marka Vilskeholm,521 92,Falköping
+Markromveien,7530,Meråker
+Markuslyckedreven,523 33,Ulricehamn
+Martin Ekdahls gata,352 21,Växjö
+Marum Halla Kvarn,532 95,Skara
+Mas Anders Väg,792 75,Färnäs
+Maskinkajen,417 64,Göteborg
+Massgodsleden,252 25,Helsingborg
+Masthuggsliden,413 18,Göteborg
+Masugnsbyn,980 10,Vittangi
+Mathias Kaggs väg,612 30,Finspång
+Mathilda Jungstedts gata,603 76,Norrköping
+Matilda Jungstedts Väg,121 33,Enskededalen
+Matildas Gränd,393 59,Kalmar
+Mats Knuts Väg,784 54,Borlänge
+Mats Knuts väg,784 54,Borlänge
+Matsered,523 94,Tvärred
+Matses väg,783 50,Gustafs
+Matthias Gülichs gata,254 33,Helsingborg
+Mattias väg,373 65,Hasslö
+Mattiashemvegen,2283,Åsnes Finnskog
+Mattila,953 35,Haparanda
+Mattssonsliden,413 18,Göteborg
+Meanderslingan,170 62,Solna
+Medgången,784 76,Borlänge
+Medskog Norra,824 91,Hudiksvall
+Medskog Norra,824 40,Hudiksvall
+Medskogen,784 76,Borlänge
+Medskogssjön,816 90,Ockelbo
+Megrinn,782 75,Malungsfors
+Meitens väg,134 35,Gustavsberg
+Mejerskans gata,741 39,Knivsta
+Melby,395 90,Kalmar
+Melkers väg,792 98,Garsås
+Mellanbågen,907 38,Umeå
+Mellangården,586 43,Linköping
+Mellby,277 35,Kivik
+Mellersta Vägen,267 37,Bjuv
+Mellgårdshage,542 91,Torsö
+Mellingerum Stensborg,570 91,Kristdala
+Mellingerum,570 91,Kristdala
+Mellomgården,524 92,Herrljunga
+Mellquists gata,218 38,Bunkeflostrand
+Mellströms väg,132 48,Saltsjö-Boo
+Mertens väg,612 40,Finspång
+Messaure gård,960 30,VUOLLERIM
+Michael Löfmans gata,254 38,Helsingborg
+Mickel Bagares gränd,128 66,Sköndal
+Mickel Göings väg,571 65,Grimstorp
+Mickel Rävs stig,167 63,Bromma
+Mickelsträsk,922 67,Tavelsjö
+Midgård,593 39,Västervik
+Midtre Finnvola,7660,Vuku
+Miekojärvi,956 92,Överkalix
+Mildens väg,137 92,Tungelsta
+Mimmi Ekholms plats,752 21,Uppsala
+Mimmi Ekholms plats,752 21,Uppsala
+Minos väg,139 44,Värmdö
+Mista,731 96,Köping
+Misterhult,285 91,Markaryd
+Mitandersforsvegen,2224,Austmarka
+Mitt i Pisten,780 68,Transtrand
+Mittgången,831 61,Östersund
+Mittspåret,187 54,Täby
+Mjöfjärden,955 91,Råneå
+Mjölnare Grips väg,136 47,Haninge
+Mjörn krossen,471 73,Mjörn
+Mjörnbo allé,443 42,Gråbo
+Mjöshult Lyckhem,504 96,Bredared
+Mjöshult,504 96,Bredared
+Mjövattnet,942 93,Älvsbyn
+Moder Elisabeths väg,791 55,Falun
+Modhs väg,461 55,Trollhättan
+Mogetorp,718 94,Ervalla
+Molins väg,841 72,Fränsta
+Mommankangas,984 91,PAJALA
+Montelius väg,132 40,Saltsjö-Boo
+Mor Annas väg,568 30,Skillingaryd
+Mor Charlottas väg,434 60,Kungsbacka
+Mor Eleonoras väg,434 60,Kungsbacka
+Mor Karins väg,653 46,Karlstad
+Mor Kerstins torg,511 54,Kinna
+Mor Marnas väg,212 91,Malmö
+Mor Marnas väg,232 61,Arløv
+Mor Märtas väg,653 46,Karlstad
+Mor Stinas väg,653 46,Karlstad
+Mor Wingmarks Gränd,129 41,Hägersten
+Mora Noret,792 02,Mora
+Mora,153 95,Järna
+Morpakärr,611 94,Nyköping
+Mors backe,414 67,Göteborg
+Morup,311 90,Langås
+Morup,311 90,Långås
+Mosekrog,393 65,Kalmar
+Mosevatnvegen,2218,Lundersæter
+Moshult,361 91,Emmaboda
+Mosippan,840 85,Lofsdalen
+Mosippans väg,132 45,Saltsjö-Boo
+Mosjön,855 90,Sundsvall
+Mosjö–Råby,705 94,Örebro
+Mossby,274 53,Skivarp
+Mossby,783 50,Gustafs
+Mossgruvan,714 91,Kopparberg
+Mosskroken,167 56,BROMMA
+Mosskroken,167 56,Bromma
+Mosskroken,167 58,Bromma
+Mosviken hyttefelt,1798,Aremark
+Mosviken,1798,Aremark
+Motgången,412 80,Göteborg
+Munins väg,131 46,Nacka
+Munkagårda,268 90,Svalöv
+Munkebäcks Allé,416 73,Göteborg
+Muoniontie,443 20,Kätkäsuvanto
+Muoniontie,959 30,Äkäsjoensuu
+Muoniontie,994 50,Palojoensuu
+Muorkivatnet,8230,Sulitjelma
+Murarmörkret,810 20,Österfärnebo
+Murningsgrundet,905 71,Hörnefors
+Museiplan,831 31,Östersund
+Museiplanen,252 70,Råå
+Museotie,957 00,Pello
+Musikstråket,903 53,Umeå
+Mustarannantie,955 30,Karunki
+Mute,432 97,Rolfstorp
+Mute,432 97,Rolfstorp
+Myre 121,881 96,Resele
+Myre 151,881 96,Resele
+Myre,862 95,Njurunda
+Myre,880 31,Resele
+Myre,880 31,Resele3
+Myre,881 96,Resele
+Myre,893 96,Sidensjö
+Myrens väg,452 95,Strömstad
+Myrheden,938 92,MELLANSTRÖM
+Myrmalmsringen,136 65,SÖDERBY
+Myrslingan,134 63,Ingarö
+Myrö,705 96,Glanshammar
+Mälarö torg,178 30,Ekerö
+Märta Ternstedts gata,412 49,Göteborg
+Märtas väg,752 65,Uppsala
+Mässans gata,412 51,Göteborg
+Mäster Davids gränd,165 75,Hässelby
+Mäster Ernsts gata,254 35,Helsingborg
+Mäster Henriks Allé,192 74,Sollentuna
+Mäster Jacobs gata,254 36,Helsingborg
+Mäster Mårtenssons väg,241 31,Eslöv
+Mäster Olofs väg,224 66,Lund
+Mäster Palms plats,252 25,Helsingborg
+Mäster Palms väg,134 60,Ingarö
+Mäster Roberts väg,371 42,Karlskrona
+Mätslingan,187 66,Täby
+Målkurvan,122 49,Enskede
+Måndans väg,134 32,Gustavsberg
+Måns Bryntessonsplatsen,415 03,Göteborg
+Måns Nils väg,791 61,Falun
+Måns Ols 100,733 36,Sala
+Mårdseleforsen, nedre siksele,922 75,Åmsele
+Mårdsundsbodarna Fjällslingan,845 91,Hallen
+Mårdsundsbodarna Lenngrens väg,845 91,Hallen
+Mårdsundsbodarna,845 91,Hallen
+Mårten Skinnares gata,592 30,Vadstena
+Mårten Skinnares gata,592 32,Vadstena
+Måsabyveien,1954,Setskog
+Mått Johanssons väg,633 46,Eskilstuna
+Mått-Johans väg,732 72,Fellingsbro
+Möljen,824 32,Hudiksvall
+Möllekruet,277 32,Kivik
+Möllekulla,570 91,Kristdala
+Mölstad,383 92,Mönsterås
+Mörbyhöjden,182 32,Danderyd
+Mörkhult BJÖRKLIDEN,573 92,Tranås
+Mörkhult,573 92,Tranås
+Mörkret,790 90,Särna
+Mølenveien,1794,Sponvika
+Mørvikveien,1794,Sponvika
+N P Mathiassons gata,254 74,Ödåkra
+N P Skölds väg,238 41,Oxie
+Nabberundan,448 50,Tollered
+Nabolagets väg,311 41,Falkenberg
+Nacka,865 91,Alnö
+Nacka,865 91,Alnö
+Nanna Svartz gata,583 28,Linköping
+Nannas gata,215 36,Malmö
+Nannas gata,590 49,Vikingstad
+Nasaret,432 65,Väröbacka
+Navesta ROSENDAL,755 91,Uppsala
+Navesta,755 91,Uppsala
+Nebbaveien,1870,Ørje
+Nedansjö,846 96,STÖDE
+Nedansjö,861 96,STÖDE
+Nedansjö,864 96,STÖDE
+Nedergård,865 91,Alnö
+Nedersta Allé,137 39,Västerhaninge
+Nedre Alntorp,713 91,Nora
+Nedre Alpen,830 13,Åre
+Nedre Fjällstigen,433 76,Partille
+Nedre Hede,457 61,Hällevadsholm
+Nedre Heden,791 38,Falun
+Nedre Hjällbogärdet,424 34,Angered
+Nedre Hövik,430 84,Styrsö
+Nedre Stensta,682 34,Filipstad
+Nedre Torget,593 97,Blankaholm
+Nedre vägen,810 22,Årsunda
+Nedre vägen,811 73,Årsunda
+Neglinge torg,133 38,Saltsjöbaden
+Neglinge udde,133 34,Saltsjöbaden
+Nelly Krooks gata,254 44,Helsingborg
+Nelly Sachs gata,583 26,Linköping
+Nelly Sachs gata,583 27,Linköping
+Neptuniplan,211 19,Malmö
+Neros väg,444 60,Stora Höga
+Nevisborg,245 45,Staffanstorp
+Nibbla Gård,178 53,Ekerö
+Nibbla backe,178 53,Ekerö
+Nicolaus Cervins gata,254 33,Helsingborg
+Niklas väg,444 60,Stora Höga
+Nils Dahlbecks gata,412 49,Göteborg
+Nils Ericsons gata,541 50,Skövde
+Nils Ericsonsplatsen,411 03,Göteborg
+Nils Hasslings väg,241 35,Eslöv
+Nils Henrikssons väg,433 35,Partille
+Nils Henrikssons väg,433 35,Partille
+Nils Holgerssons plats,422 48,Hisings Backa
+Nils Holgerssons väg 131,393 65,Kalmar
+Nils Holgerssons väg,224 66,Lund
+Nils Holgerssons väg,653 46,Karlstad
+Nils Håkans strädde,277 32,Kivik
+Nils Kaggs gata,254 54,Helsingborg
+Nils Kreugers väg,432 53,Varberg
+Nils Månssons väg,218 36,Bunkeflostrand
+Nils Ols väg,254 78,Domsten
+Nils Åhlins väg,194 76,Upplands Väsby
+Nils-Tolsgården,533 91,Götene
+Ninni Kronbergs gata,533 91,Götene
+Nisstäkt,781 91,Borlänge
+Nivanpääntie,957 00,Pello
+Nivsta gård,762 95,Rimbo
+Njords gränd,187 73,Täby
+Nockeby Torg,167 74,Bromma
+Nolhaga Allé,441 55,Alingsås
+Nonnens väg,531 53,Lidköping
+Nordansjö,860 25,Kovland
+Nordanå,871 94,Viksjö
+Nordby Köpcenter,452 70,Strömstad
+Nordby Shoppingcenter Västra,452 70,Strömstad
+Nordby Svinesund,452 93,Strömstad
+Nordens väg,451 43,Uddevalla
+Nordhaga,472 91,Stillingsön
+Nordlinds väg 84,217 48,Malmö
+Nordmandshuvud,450 43,Smögen
+Nordostpassagen,411 13,Göteborg
+Nordostpassagen,413 11,Göteborg
+Nordostpassagen,413 11,Göteborg
+Nordön,474 74,Käringön
+Nordöstra vägen,981 92,Kiruna
+Nores väg,253 42,Vallåkra
+Norlins väg,957 95,Hedenäset
+Normans väg,781 99,Idkerberget
+Nornornas väg,131 46,Nacka
+Norr Falltä,818 92,Valbo
+Norr Hårsbäck,744 91,Heby
+Norra Allén,654 55,Karlstad
+Norra Allén,654 64,Karlstad
+Norra Barnvikshöjden,139 72,Djurhamn
+Norra Bergsstigen,711 31,Lindesberg
+Norra Bisen,777 93,Söderbärke
+Norra Esplanaden,343 21,Älmhult
+Norra Esplanaden,343 30,Älmhult
+Norra Esplanaden,343 30,Älmhult
+Norra Esplanaden,574 31,Vetlanda
+Norra Esplanaden,574 34,Vetlanda
+Norra Esplanaden,924 31,Sorsele
+Norra Esplanaden,953 31,Haparanda
+Norra Esplanaden,953 31,Haparanda
+Norra Falltä,818 92,Valbo
+Norra Förlösa,395 90,Kalmar
+Norra Galleriagången,183 34,Täby
+Norra Grean,666 91,Bengtsfors
+Norra Håbergs Hage,791 94,Falun
+Norra Kajen,456 26,Hunnebostrand
+Norra Mårtensbacken,853 57,Sundsvall
+Norra Pallakka,957 95,Hedenäset
+Norra Promenaden,601 38,Norrköping
+Norra Promenaden,602 18,Norrköping
+Norra Promenaden,602 19,Norrköping
+Norra Promenaden,602 22,Norrköping
+Norra Sjöbacken,705 97,Glanshammar
+Norra Skeppsbron,803 10,Gävle
+Norra Skräddargården,621 53,Visby
+Norra Slingan,275 39,Sjöbo
+Norra Stenvik,471 51,Klädesholmen
+Norra Stäksholmen,139 90,Värmdö
+Norra Tomta,760 45,Grisslehamn
+Norra Verkarö,149 92,Nynäshamn
+Norra Vägen,269 43,Båstad
+Norra Vägen,302 31,Halmstad
+Norra Vånga Brusagården,535 93,Kvänum
+Norra Yttervik,931 91,Skellefteå
+Norra backen,791 74,Falun
+Norra gatan,462 30,Vänersborg
+Norra gatan,819 66,Lövstabruk
+Norra hamnplan,386 31,Färjestaden
+Norra korpåsberget,456 47,Bovallstrand
+Norra kronans gata,136 60,Brandbergen
+Norra mo,332 92,Gislaved
+Norra stranden,254 78,Domsten
+Norra vägen,236 42,Höllviken
+Norra vägen,268 75,Tågarp
+Norra vägen,392 33,Kalmar
+Norra vägen,392 34,Kalmar
+Norra vägen,392 35,Kalmar
+Norra vägen,392 36,Kalmar
+Norra vägen,392 37,Kalmar
+Norra vägen,521 96,Falköping
+Norra vägen,523 61,Gällstad
+Norra vägen,523 94,Tvärred
+Norra vägen,542 31,Mariestad
+Norra vägen,543 30,Tibro
+Norra vägen,543 35,Tibro
+Norra vägen,837 31,Järpen
+Norra vägen,856 50,Sundsvall
+Norra vägen,863 33,Sundsbruk
+Norra vägen,863 37,Sundsvall
+Norra vägen,955 32,Råneå
+Norra Ågatan,416 49,Göteborg
+Norra Ågatan,416 64,Göteborg
+Norra Ågatan,431 35,Mölndal
+Norra Ågatan,567 31,Vaggeryd
+Norra Ågatan,732 31,Arboga
+Norra Ågatan,932 51,Bureå
+Norra Årvägen,194 57,UPPLANDS VÄSBY
+Norra Årängsvägen,777 93,Söderbärke
+Norra Åsgatan,816 31,Ockelbo
+Norra Åsgatan,816 31,Ockelbo
+Norraby Malingskog,573 43,Tranås
+Norrbo,819 64,Hållnäs
+Norrby Tvärgata,504 37,Borås
+Norrbäck 4,921 99,Lycksele
+Norrfjärden,918 32,Sävar
+Norrlands Universitetssjukhus,901 85,Umeå
+Norrleden,722 23,Västerås
+Norrsjön,780 69,Sörsjön
+Norrskedika gruvor,742 93,Östhammar
+Norrvik,771 92,Ludvika
+Norrviken Kattviksvägen,269 91,Båstad
+Norrväna,824 73,Delsbo
+Norräna,824 73,Delsbo
+Norråkern,905 32,Hörnefors
+Norsbol,149 91,Nynäshamn
+Norsebäck,718 94,Ervalla
+Norsjövallen,935 92,Norsjö
+Norsplan,664 52,Vålberg
+Norumshöjd,417 45,Göteborg
+Noréus väg,311 90,Långås
+Notviks vägen,973 42,Luleå
+Nya Bergets väg,417 46,Göteborg
+Nya Boulevarden,291 31,Kristianstad
+Nya Gatan,131 57,Nacka
+Nya Hjälmseryd,570 01,Rörvik
+Nya Skaraborg,930 82,Abborträsk
+Nya Stadens torg,531 31,Lidköping
+Nya Torg,243 30,Höör
+Nya Varvsallén,426 71,Västra Frölunda
+Nya torg,265 34,Åstorp
+Nya torget,602 26,Norrköping
+Nya vägen,475 36,Kalvsund
+Nya vägen,862 32,Kvissleby
+Nyadal,872 94,Sandöverken
+Nyarp,523 96,Grönahög
+Nyarps gård,523 96,Grönahög
+Nybo,149 92,Nynäshamn
+Nybyn,893 96,Sidensjö
+Nybyn,961 92,Boden
+Nyckelhult,694 96,Åsbro
+Nydalasjön,906 52,Umeå
+Nydalasjön,906 52,Umeå
+Nydalasjön,907 55,Umeå
+Nyeds-Hulteby,655 98,Molkom
+Nyforsgården,771 90,Ludvika
+Nygård,814 94,Älvkarleby
+Nygården,523 61,Gällstad
+Nygårds allé,155 93,Nykvarn
+Nyholm Fridhem,571 63,Bodafors
+Nyholm Ängsfors,571 63,Bodafors
+Nyholm,571 63,Bodafors
+Nyland,830 70,Hammerdal
+Nyland,893 96,Sidensjö
+Nylandets Väg,760 49,Herräng
+Nyléns väg,439 55,Åsa
+Nymans väg,373 65,Hasslö
+Nymfens väg,653 45,Karlstad
+Nymfens väg,907 52,Umeå
+Nyplan,820 22,Sandarne
+Nystedts väg,663 40,Hammarö
+Nysund,153 96,MÖLNBO
+Nysäters gata,186 31,Vallentuna
+Nysätra Groddammen,749 63,Örsundsbro
+Nysæterveien,2443,Drevsjø
+Nyttinge,705 97,Glanshammar
+Nyveien,1794,Sponvika
+Nyvången,302 57,Halmstad
+Nyåkersgatu,795 96,Boda
+Näckengången,424 57,Gunnilse
+Näckens väg,371 53,Karlskrona
+Näckens väg,653 45,Karlstad
+Näckens väg,907 53,Umeå
+Näckudden,196 39,Kungsängen
+Nämndemansgården,586 43,Linköping
+Nämndemansvändan,256 55,Helsingborg
+När Siglajvs,623 48,Stånga
+När,623 48,Stånga
+Näs Bygdegården,521 91,Falköping
+Näs,870 33,Docksta
+Näs,915 98,Bygdeå
+Näs-björnarbo,755 91,Uppsala
+Näs-sätra,755 91,Uppsala
+Näs-söderby,755 91,Uppsala
+Näsby 123,380 65,Degerhamn
+Näsby allé,183 55,Täby
+Näsby,155 93,Nykvarn
+Näsbychaussén,291 35,Kristianstad
+Näsdalsplatån,134 69,Ingarö
+Näset,785 61,Djurås
+Näset,865 91,Alnö
+Näset,920 70,Sorsele
+Näsudden,865 92,Alnö
+Nävekvarnsägen,124 32,Älvsjö
+Nävekvarnsägen,124 32,Bandhagen
+Näätsaarentie,954 50,Tornio
+Nåntuna Backe,757 59,Uppsala
+Nöjden,815 95,Månkarbo
+O D Krooks gata,254 43,Helsingborg
+O D Krooks gata,254 44,Helsingborg
+O G Svenssons väg,585 71,Linköping
+OXVIKEN,930 15,Bureå
+Oceankajen,252 36,Helsingborg
+Odalsgården,682 40,Filipstad
+Odalslingan,175 43,Järfälla
+Odenslingan,831 46,Östersund
+Odla,523 96,Grönahög
+Offne 904,830 47,Trångsviken
+Oja,952 96,Lappträsk
+Oknövagen,383 92,Mönsterås
+Ol Persvägen,837 71,DUVED
+Ol-Jonsvägen,811 98,Österfärnebo
+Ol-Larsvägen,816 30,Ockelbo
+Ol-Svensbodarna,841 94,Alby
+Ol-ersvägen,812 90,Storvik
+Ola Brorssons väg,218 31,Bunkeflostrand
+Ola Brorssons väg,218 36,Bunkeflostrand
+Ola Cappelins väg,277 30,Kivik
+Ola Holma backen,277 32,Kivik
+Ola Lars strädde,277 32,Kivik
+Ola Lars väg,295 74,Näsum
+Ola Pärs väg,253 42,Vallåkra
+Ola Tors strädde,277 32,Kivik
+Olas väg,373 65,Hasslö
+Olas väg,428 34,Kållered
+Olas väg,444 60,Stora Höga
+Olaus Magnus Väg,121 37,Johanneshov
+Olaus Magnus Väg,121 38,Johanneshov
+Olaus Magnus Väg,121 40,Johanneshov
+Olaus Magnus väg,581 83,Linköping
+Ole Römers väg,223 63,Lund
+Olebyn Affären,661 96,Långserud
+Oleda Grindbacken,741 90,Knivsta
+Oleda Lillhamra,741 90,Knivsta
+Oleda Pettersborg,741 90,Knivsta
+Oleda Soldattorpet,741 90,Knivsta
+Oleda,741 90,Knivsta
+Olerudseterveien,1870,Ørje
+Olga Bohlins gata,352 21,Växjö
+Olgas väg,134 69,Ingarö
+Olgas väg,139 69,Ingarö
+Olkamangi,984 92,Pajala
+Olle Engkvists väg,165 56,Hässelby
+Olle Fiskares väg,907 50,Umeå
+Olles Hall,471 51,Klädesholmen
+Olles gata,442 55,Ytterby
+Olof Bromans gata,824 45,Hudiksvall
+Olof Dahlins gata,254 40,Helsingborg
+Olof Hedemyrs väg,457 30,Tanumshede
+Olof Palmes Gata,111 37,Stockholm
+Olof Palmes Gata,941 33,Piteå
+Olof Palmes Plats,214 44,Malmö
+Olof Palmes Plats,413 04,Göteborg
+Olof Palmes gata,392 32,Kalmar
+Olof Palmes gata,941 33,Piteå
+Olof Palmes plats,214 44,Malmö
+Olof Palmes plats,413 04,Göteborg
+Olof Palmes torg,702 22,Örebro
+Olof Palmes väg,442 31,Kungälv
+Olof Skötkonungs gata,253 62,Helsingborg
+Olof Skötkonungs väg,193 32,Sigtuna
+Olof Smedes väg,241 35,Eslöv
+Olof Thunmans väg,741 44,Knivsta
+Olof Wijkmans väg,744 51,Morgongåva
+Olof af Acrels väg,171 64,Solna
+Olofssons väg,236 42,Höllviken
+Olovs Hage,471 93,Kållekärr
+Olovs väg,153 71,Hölö
+Olsbo,733 95,Sala
+Olsegården,442 42,Kungälv
+Olshyttan,776 91,Hedemora
+Olsliden,915 92,Robertsfors
+Olstorp Herrgård,447 91,Vårgårda
+Oluff Nilssons väg,433 36,Partille
+Omgången,412 80,Göteborg
+Omgången,412 80,Göteborg
+Onsered,523 94,Tvärred
+Ope,831 92,Östersund
+Operaplan,903 29,Umeå
+Oppeby Torg,611 56,Nyköping
+Oppeby gård,611 55,Nyköping
+Orions väg,134 44,Gustavsberg
+Orkidégången,831 61,Östersund
+Orleka Skattegården,522 93,Tidaholm
+Orminge Centrum,132 30,Saltsjö-Boo
+Ormingeplan,132 30,Saltsjö-Boo
+Ormingeplan,132 30,Saltsjö-Boo
+Ormingeringen,132 33,Saltsjö-Boo
+Orrens väg,139 71,Stavsnäs
+Orrskogen,782 34,Malugn
+Orrsta,783 93,Stora Skedvi
+Orsill,861 91,Timrå
+Orsillbodarna,861 91,Timrå
+Orsillgården,861 91,Timrå
+Orvar Odds gränd,393 63,Kalmar
+Osbäcks väg,568 32,Skillingaryd
+Oscar Trapps väg,254 42,Helsingborg
+Oscars slussar,590 77,Vreta kloster
+Oskar Bergmans väg,133 34,Saltsjöbaden
+Oskar Bæckströms väg,129 35,Hägersten
+Oskar Katts väg,393 63,Kalmar
+Oskar Nestors Väg,567 31,Vaggeryd
+Oskarintie,994 50,Palojoensuu
+Oskars Lycka,423 56,Torslanda
+Osntäs,918 34,Sävar
+Osquars Backe,100 44,Stockholm
+Ostnäs,918 34,Sävar
+Ottars väg,182 74,Stocksund
+Ottenby,386 64,Degerhamn
+Otters väg,663 40,Hammarö
+Ottestens väg,472 32,Svanesund
+Ottesången,254 76,Allerum
+Ottilia Adelborgs gata,371 57,Karlskrona
+Ottilia Myhrmans väg,612 36,Finspång
+Otto E Andersens gata,703 44,Örebro
+Otto Myrbergs väg,752 31,Uppsala
+Ovansjö,862 96,Njurunda
+Ovansjö,891 95,Arnäsvall
+Ovanåker,824 74,Delsbo
+Oxelplanen,213 62,Malmö
+Oxens gata,136 63,Brandbergen
+Oxenstiernas väg,134 52,Gustavsberg
+Oxenstiernas väg,184 32,åkersberga
+Oxhällan,865 92,Alnö
+Oxsta,855 90,Sundsvall
+Oxsätra,743 87,Bälinge
+Oxögedal,422 43,Hisings Backa
+Oxögedal,422 43,Hisings Backa
+P G Vejdes väg,352 52,Växjö
+P G Vejdes väg,352 52,Växjö
+Packarpelles väg,218 53,Klagshamn
+Paharova,956 98,Lansjärv
+Paksuniemi,981 91,Jukkasjärvi
+Palmaers gata,584 37,Linköping
+Palmhult,277 40,Sankt Olof
+Palmqvists väg,134 52,Gustavsberg
+Palonivantie,994 50,Palojoensuu
+Panimonranta,954 00,Tornio
+Pappilantie,959 00,Kolari
+Parapeten,252 67,Helsingborg
+Parken,818 41,Forsbacka
+Parken,818 42,Forsbacka
+Pastor Normans väg,134 31,Gustavsberg
+Pastor Ödmans väg,134 60,Ingarö
+Patrik Rosengrens park,227 30,Lund
+Patron Julius väg,653 46,Karlstad
+Patron Pehrs Väg,141 35,Huddinge
+Patron Pehrs Väg,141 35,Huddinge
+Patron-Uhrs väg,811 74,Österfärnebo
+Patronens väg,254 50,Helsingborg
+Patrons väg,131 50,Saltsjö-Duvnäs
+Paviljonggången,254 51,Helsingborg
+Pedagogens väg,831 40,Östersund
+Pedagogens väg,831 40,Östersund
+Peder mörcks väg,272 32,Simrishamn
+Pehr Thomassons väg,371 63,Lyckeby
+Peistorpvegen,2283,Åsnes Finnskog
+Pelle Bergs Backe,791 50,Falun
+Pelle Bergs backe,791 19,Falun
+Pelle Bergs backe,791 50,Falun
+Pelle Svibels väg,149 92,Nynäshamn
+Pellontie,957 00,Pello
+Penningby Slott,761 93,Norrtälje
+Penningby allé,761 93,Norrtälje
+Pepitas gata,417 67,Göteborg
+Pepparedsleden,431 53,Mölndal
+Per Abrahams väg,373 65,Hasslö
+Per Albin Hanssons väg,214 32,Malmö
+Per Albin Hanssons väg,214 32,Malmö
+Per Albin Hanssons väg,214 34,Malmö
+Per Albin Hanssons väg,215 65,Malmö
+Per Anders väg,241 35,Eslöv
+Per Bagares väg,521 92,Falköping
+Per Ekströms väg,433 34,Partille
+Per Erssons väg,192 74,Sollentuna
+Per Eskils gata,256 56,Helsingborg
+Per Hallströms Väg,131 39,Nacka
+Per Hallströms väg,131 39,Nacka
+Per Hans väg,818 32,Valbo
+Per Hasselbergs väg,371 63,Lyckeby
+Per Håkanssons väg,241 38,Eslöv
+Per Hörbergs Väg,168 50,Bromma
+Per Hörbergs väg,612 37,Finspång
+Per Johanssons väg,386 95,Färjestaden
+Per Kals strädde,277 32,Kivik
+Per Lindeströms Väg,121 46,Johanneshov
+Per Ludvig Lindgrens Terrass,120 71,Stockholm
+Per Mörbos Väg,393 59,Kalmar
+Per Persas väg,656 34,Karlstad
+Per Uddéns väg,861 36,Timrå
+Per-Görans väg,811 91,Sandviken
+Per-Olsvägen,818 92,Valbo
+Per-mårsvägen,840 97,Bruksvallarna
+Percy Tamms väg,139 54,Värmdö
+Perkerudvegen,2232,Tobøl
+Pers lid,445 36,Bohus
+Pers väg,570 13,Myresjö
+Persbo,776 98,Garpenberg
+Persgärde,437 33,Lindome
+Perssons Gränd,661 40,Säffle
+Persåsen,830 24,Persåsen
+Peter Bagges gata,414 71,Göteborg
+Peter Johans väg,253 53,Påarp
+Peter Jonssons väg,395 97,Läckeby
+Peter Lundhs allé,263 75,Nyhamnsläge
+Peter Myndes Backe,118 46,Stockholm
+Peter Möllers gata,312 77,Skottorp
+Peter Silfverskiölds väg,430 84,Styrsö
+Peter Svenssons väg,254 78,Domsten
+Petersens väg,236 42,Höllviken
+Peterséns Väg,127 41,Skärholmen
+Peterséns väg,127 41,Skärholmen
+Petres väg,812 41,Gästrike-Hammarby
+Petrus Laestadius väg,907 28,Umeå
+Petrus Laestadius väg,907 36,Umeå
+Petrus Timmelins väg,254 77,Fleninge
+Petréns allé,256 57,Ramlösa
+Petter Helens gata,541 30,Skövde
+Petter Heléns Gata,541 30,Skövde
+Petter Jönssons väg,254 78,Domsten
+Petter Jönssons väg,571 34,Nässjö
+Petter Ryttnings väg,521 42,Falköping
+Pierinas Gränd,393 59,Kalmar
+Pilekogsliden,431 90,Mölndal
+Pilen,732 31,Arboga
+Pillas gata,456 31,Kungshamn
+Pilos Väg,168 50,Bromma
+Piludden,682 34,Filipstad
+Pimpiö,984 92,Pajala
+Pinnahemmet,565 91,Mullsjö
+Pinnarps fritidsanläggning,590 39,Kisa
+Piperska vägen,531 58,Lidköping
+Pippi Långstrumps Gata,168 71,Bromma
+Pizarros Väg,837 92,Mörsil
+Planks väg,816 30,Ockelbo
+Planthagen,416 76,Göteborg
+Platangången,213 63,Malmö
+Platåslingan,134 65,Ingarö
+Pligg Eriks Väg,784 56,Borlänge
+Plintgången,653 41,Karlstad
+Plutos gränd,352 64,Växjö
+Poliskroken,241 32,Eslöv
+Pommerska gatan,122 37,Enskede
+Pomonas väg,812 41,Gästrike-Hammarby
+Porkenahult,286 74,Skånes Fagerhult
+Porlagången,256 57,Ramlösa
+Porsdalen,471 71,Hakenäset
+Porsögården,977 54,Luleå
+Portfjellet,7882,Nordli
+Portfjellveien,7882,Nordli
+Portgången,433 38,Partille
+Postflyget,423 37,Torslanda
+Postflyget,423 37,Torslanda
+Postgången,171 45,Solna
+Postgången,433 34,Partille
+Postliden,471 51,Klädesholmen
+Posåsvegen,2283,Åsnes Finnskog
+Prestenga,1765,Halden
+Primulagången,416 76,Göteborg
+Prins Augusts väg,793 35,Leksand
+Prins Georgs gata,252 34,Helsingborg
+Prins Hatts gränd,393 52,Kalmar
+Prins Kristians gata,252 23,Helsingborg
+Prinsessan Ingeborgs Väg,115 25,Stockholm
+Prinsfors,571 63,Bodafors
+Pripps väg,141 33,Huddinge
+Professorsslingan,114 17,Stockholm
+Promenaden,247 47,Flyinge
+Promenaden,433 34,Partille
+Promenaden,811 36,Sandviken
+Prosten Linders Väg,151 61,Södertälje
+Prosten Phils gränd,611 34,Nyköping
+Prästbordet,893 95,Sidensjö
+Prästbordet,895 30,Bredbyn
+Prästelyckan,430 84,Styrsö
+Prästgärdan,915 98,Bygdeå
+Prästgården Hol,441 93,Alingsås
+Prästgården,264 51,Ljungbyhed
+Prästgården,441 93,Alingsås
+Prästgården,816 92,Lingbo
+Prästkragens väg,132 45,Saltsjö-Boo
+Prästkragens väg,132 47,Saltsjö-Boo
+Prästmarken,915 98,Bygdeå
+Prästtorp,395 95,Rockneby
+Puhkuri,957 91,Övertorneå
+Pungmakarbo,783 90,Säter
+Pyhjärvi,957 94,Övertorneå
+Pyhäjärvi,957 94,Övertorneå
+Pär-Mårsvägen,846 97,Bruksvallarna
+Pärlröksgången,135 33,Tyresö
+Pärt-Antons gata,426 79,Västra Frölunda
+Påbo,523 61,Gällstad
+Påhlmans väg,139 40,Värmdö
+Pål Jens väg,241 35,Eslöv
+Påverås Skattegården,521 92,Falköping
+Påverås Storegården,521 92,Falköping
+Påverås Sörgården,521 92,Falköping
+Påverås Vidablick,521 92,Falköping
+Påverås Vindåsen,521 92,Falköping
+Påverås Vrågården,521 92,Falköping
+Påverås Västergården,521 92,Falköping
+Påverås Åsalid,521 92,Falköping
+Påverås Östergården,521 92,Falköping
+RV,513 35,Fristad
+Raatukkavaara,982 71,Hakkas
+Radio gränd,973 42,Luleå
+Ragnar Jändels väg,371 63,Lyckeby
+Ragnar Söderbergs Väg 1,697 93,Hjortkvarn
+Ragnar Thorngrens gata,431 45,Mölndal
+Ragnar Thorngrens gata,431 62,Mölndal
+Ragvaldsträsk,931 95,SKELLEFTEÅ
+Raholmen,865 92,Alnö
+Raine Navins gata,393 60,Kalmar
+Rajantie,956 00,Ylitornio
+Rallarringen,352 65,Växjö
+Rambotorp,694 92,Hallsberg
+Ramels väg,298 96,Östra Sönnarslöv
+Ramgärde Smitterstad,594 91,Gamleby
+Rammens väg,475 53,Rörö
+Ramnö,523 96,Grönahög
+Ramsele,922 93,Vindeln
+Ramshyttan,713 91,Nora
+Ramshyttan,731 91,Nora
+Ramsjö Backe,743 62,Björklinge
+Ramsta-Lund Lugnet,755 91,Uppsala
+Ramsta-bärby Bostället,755 91,Uppsala
+Ramsta-bärby,755 91,Uppsala
+Ramsta-lund,755 91,Uppsala
+Ramsta-svista,755 91,Uppsala
+Ramsvik Tångeskog,456 92,Hunnebostrand
+Randviken,653 46,Karlstad
+Rangstaplan,124 54,Bandhagen
+Rangströms väg,756 49,Uppsala
+Rangströmsliden,413 18,Göteborg
+Ransistugan,780 69,Sörsjön
+Rantajärvi,957 94,Övertorneå
+Rantens Torg,521 31,Falköping
+Rantens gårds väg,521 31,Falköping
+Rappens väg,352 55,Växjö
+Rappestad Björklycke,583 91,Vikingstad
+Rasmusgården,417 05,Göteborg
+Rasslebygd,361 33,Emmaboda
+Rasåsen,855 90,Sundsvall
+Rataryd,341 94,Ljungby
+Rattens gränd,295 39,Bromölla
+Raus backgården,253 62,Helsingborg
+Rautas,981 95,Kiruna
+Regattakajen,120 71,Stockholm
+Regins väg,754 40,Uppsala
+Regnbågen,837 97,Åre
+Regnbågsgången,222 70,Lund
+Reinholds väg,134 62,Ingarö
+Rektor Furuskogs gata,682 27,Filipstad
+Rektor Jönssons väg,428 34,Kållered
+Rektor Lindholms väg,691 44,Karlskoga
+Remmarlöv,241 92,Eslöv
+Remmarlövs kyrka,241 92,Eslöv
+Remmet 210,842 90,sveg
+Renfors,922 91,Vindeln
+Rengsveien,7884,Sørli
+Reningsverket,568 91,Skillingaryd
+Renlavsgången,135 35,Tyresö
+Rensjön,981 95,Kiruna
+Renslyckan,821 50,Bollnäs
+Renstiernas Gata,116 31,Stockholm
+Renstiernas Gata,116 31,Stockholm
+Rensättra gränd,132 39,Saltsjö-Boo
+Resele Prästbord,880 31,Resele
+Resele Prästbord,881 96,Resele
+Resliden,427 36,Billdal
+Resta,715 92,Stora Mellösa
+Resta,715 92,Stora Mellösa
+Restad backe,614 94,Söderköping
+Reutersvärds väg,239 42,Falsterbo
+Revelsudden,975 96,Luleå
+Revsudden,395 94,Rockneby
+Ribbingebäck,744 96,Järlåsa
+Ribbings väg,192 52,Sollentuna
+Ribodarna,861 92,Bergeforsen
+Richard Berghs Väg,168 51,Bromma
+Richters väg,146 38,Tullinge
+Rickeby Berghäll,740 10,Knutby
+Riddarstenshöjden,443 33,Lerum
+Ridderstads gata,587 36,Linköping
+Riksdalers gränd,451 73,Uddevalla
+Riksgrensen,8519,Narvik
+Rikstens Säteri Asptorp,146 33,Tullinge
+Rikstens Säteri Björkhult,146 33,Tullinge
+Rikstens Säteri Hasselbacken,146 33,Tullinge
+Rikstens Säteri Hässle,146 33,Grödinge
+Rikstens Säteri Pålan,146 33,Tullinge
+Rikstens Säteri,146 33,Tullinge
+Rikstens Säteri,146 33,Tullinge
+Rikstens säteri Skogssjötorp,146 33,TULLINGE
+Rikstens säteri Sågtorp,146 33,Tullinge
+Ringare-Gustavs äg,311 94,Falkenberg
+Ringdals Lasse,841 44,Alby
+Ringelbo,815 91,Tierp
+Ringen,182 73,Stocksund
+Ringen,182 74,Stocksund
+Ringen,936 31,Boliden
+Ringleken,289 50,Hanaskog
+Rinkaby,705 96,Glanshammar
+Rinkeby Torget,163 73,Spånga
+Rinkebystråket,163 71,Spånga
+Rinnekuja,954 10,Tornio
+Ripans väg,139 71,Stavsnäs
+Ripsandsviken,865 92,Alnö
+Risböle,932 93,Lövånger
+Risebo Gård, Villa,594 92,Gamleby
+Risebo Gård,594 92,Gamleby
+Risinge Farmors,747 95,Gimo
+Risinge Lindbergsgården,747 95,Gimo
+Risinge Norrgården,747 95,Gimo
+Risinge gård,747 95,Gimo
+Risinge Östergården,747 95,Gimo
+Risinge,747 95,Gimo
+Risings väg,612 35,Finspång
+Rismyr Skammers,842 93,Sveg
+Rissgärde Skällared,521 54,Floby
+Risås backe,428 34,Kållered
+Rockelsta,649 94,Sparreholm
+Rockvallen,840 97,Bruksvallarna
+Rolfs väg,247 97,Flyinge
+Rolfstorps by,432 97,Rolfstorp
+Roliga,1788,Halden
+Roma Stora Väller,622 54,Romakloster
+Romares väg,254 51,Helsingborg
+Romares väg,254 54,Helsingborg
+Romares väg,254 51,Helsingborg
+Romarliden,360 73,Lenhovda
+Romarliden,364 41,Lenhovda
+Rombäck,841 76,Torpshammar
+Rommentrop,280 22,Vittsjö
+Romsmaren,819 64,HÅLLNÄS
+Romsmaren,819 64,Hållnäs
+Rondellplan,891 31,Örnsköldsvik
+Rone Ålarve,623 47,Hemse
+Ros väg,812 93,Kungsgården
+Rosbrinken,132 36,Saltsjö-Boo
+Rosendal,573 97,Tranås
+Rosendal,714 94,Kopparberg
+Rosengången,471 51,Klädesholmen
+Rosengången,602 12,Norrköping
+Rosengången,831 61,Östersund
+Rositas gata,417 67,Göteborg
+Rotfallet,775 96,Krylbo
+Rotnavegen,2218,Lundersæter
+Rotnemovegen,2218,Lundersæter
+Rotnemovegen,2256,Grue Finnskog
+Rotsunda Torg,192 78,Sollentuna
+Rotsunda Torg,192 78,Sollentuna
+Rotundan,352 32,Växjö
+Rovantie,994 50,Palojoensuu
+Royens gata,431 34,Mölndal
+Rudbecks väg,192 51,Sollentuna
+Rudsjökroken,132 37,Saltsjö-Boo
+Rudsplan,654 65,Karlstad
+Rudsvegen,2233,Vestmarka
+Rull Lars väg,792 91,Mora
+Rulle Bergmans väg,684 31,Munkfors
+Rumpetorp,395 95,Rockneby
+Runda vägen,167 51,Bromma
+Runda vägen,167 52,Bromma
+Runda vägen,774 97,Fors
+Rundan,302 53,Halmstad
+Rundgången,254 52,Helsingborg
+Rundquists gata,352 20,Växjö
+Rune Lindströms väg,737 30,Fagersta
+Runslingan,423 74,Torslanda
+Runsvik,864 33,Matfors
+Runsvik,864 91,Matfors
+Ruokto,982 99,GÄLLIVARE
+Rurik Holms väg,448 30,Floda
+Ruskola,957 32,Övertorneå
+Rusthållaregården,586 43,Linköping
+Rute Furillen,624 58,Lärbro
+Rute Puttersjaus,624 58,Lärbro
+Rutens väg,134 36,Gustavsberg
+Ruths gränd,644 31,Torshälla
+Ryda Häljesgården,511 99,Sätila
+Rydfors,571 63,Bodafors
+Ryds Västergård,591 97,Motala
+Ryds allé,584 33,Linköping
+Rydsnäs Industriområde,570 61,Rydsnäs
+Ryssjö,749 72,FJÄRDHUNDRA
+Ryttaregången,587 35,Linköping
+Ryttarns väg,568 30,Skillingaryd
+Rytterholmen,471 51,Klädesholmen
+Ryös väg,134 61,Ingarö
+Räktfors,950 42,Morjärv
+Rännarbanan,252 30,Helsingborg
+Rättar Vigs väg,162 72,Vällingby
+Rävalyckan,373 39,Tving
+Rävkullen,139 41,Värmdö
+Råbu Morpakärr,611 94,Nyköping
+Råby Centrum,724 70,Västerås
+Råby centrum,724 70,Västerås
+Råby,147 91,Grödinge
+Råbäcksmåla,385 95,Gullabo
+Rådhusesplanaden,903 28,Umeå
+Rådhusesplanaden,903 28,Umeå
+Råglanda Lindhagen,548 93,Lyrestad
+Rågslingan,241 35,Eslöv
+Rågslingan,860 30,Sörberge
+Rågsveden,786 94,Äppelbo
+Rågången,586 43,Linköping
+Rågången,602 08,Norrköping
+Rågången,602 14,Norrköping
+Rågången,602 11,Norrköping
+Rågången,831 43,Östersund
+Råhagen Bergsgärdet,472 91,Stillingön
+Råhagen,472 91,Stillingön
+Rålambs väg,196 31,Kungsängen
+Rånäs Slott,762 96,Rånäs
+Rånäs,473 95,Henån
+Råset,242 95,Hörby
+Råsnäs,380 52,Timmernabben
+Råsta,743 93,Vattholma
+Råtorps allé,653 48,Karlstad
+Råtorpsporten,653 48,Karlstad
+Röda Stugans Gata,602 28,Norrköping
+Röda gatan,393 58,Kalmar
+Röda radhusen,139 73,Djurhamn
+Röda stigen,611 72,Stigtomta
+Röda stråket,413 46,Göteborg
+Röda vägen,781 81,Borlänge
+Rödbläran,840 85,Lofsdalen
+Röde Orms gränd,393 63,Kalmar
+Röde Orms väg,132 37,Saltsjö-Boo
+Röde,865 91,Alnö
+Rödhakeslingan,147 91,GRÖDINGE
+Rödja Ekelid,571 63,Bodafors
+Rödja Furuskog,571 63,Bodafors
+Rödja Hägnen,571 63,Bodafors
+Rödja Kullen,571 63,Bodafors
+Rödja Rödjaholm,571 63,Bodafors
+Rödja Skola,571 63,Bodafors
+Rödja Södergården,571 63,Bodafors
+Rödja,571 63,Bodafors
+Rödjan,542 94,Mariestad
+Rödjans väg,449 34,Nödinge
+Rödkallens Väg,974 35,Luleå
+Rödkallens väg,974 35,Luleå
+Rödstaringen,881 33,Sollefteå
+Rödån,566 93,Brandstorp
+Rödö brygga,865 92,Alnö
+Rödön,865 92,Alnö
+Röe Gård,454 94,Brastad
+Röe Sandvik,454 94,Brastad
+Rökland,865 33,Alnö
+Rönnerdahls gata,417 67,Göteborg
+Rönnplan,981 42,Kiruna
+Rönnäs,923 98,Storuman
+Rönnåsliden,523 38,Ulricehamn
+Rörbäcksnäs,780 64,Lima
+Rörbäcksnäs,780 66,Rörbäcksnäs
+Rörvik,457 02,Grebbestad
+Rösgången,602 11,Norrköping
+Röskär,185 93,Vaxholm
+Rösåsen,860 25,Kovland
+Rösåsen,861 25,Kovland
+Rötviken,830 60,Föllinge
+Rødhella,1765,Halden
+Røgdestranda,2256,Grue Finnskog
+Rønningvegen,2224,Austmarka
+Rørbekkveien,1789,Berg i Østfold
+Rørvikveien,1870,Ørje
+Røysveien,1794,Sponvika
+S:t Hansplan,621 56,Visby
+S:t Knuts Torg 6A,211 57,Malmö
+S:t Pers gränd,621 57,Visby
+S:ta Gertruds väg,721 32,Västerås
+SIMTUNA FORSBY,749 72,Fjärdhundra
+SKUGGEBO 105,733 96,Sala
+STF Sylarna Fjällstation,837 71,Duved
+SUNDSMÅLA,585 96,Linköping
+Saarenpäänkatu,954 00,Tornio
+Saedéns väg,464 50,Dals Rostock
+Sagaliden,829 51,Bergsjö
+Sagas gränd,215 36,Malmö
+Sagas väg,245 64,Hjärup
+Sagmovegen,2423,Østby
+Sagoliden,216 20,Malmö
+Sagoslingan,141 92,Huddinge
+Sagvegen,2423,Østby
+Sagön,437 31,Lindome
+Sahlins väg,241 31,Eslöv
+Sahléns väg,236 42,Höllviken
+Saleby Kristinedal,531 93,Lidköping
+Saleby Skola 1,531 93,Lidköping
+Salen Fredriksbeg,543 93,Tibro
+Sallerup,242 91,Hörby
+Sallys gata,216 44,Limhamn
+Salmi,981 95,Kiruna
+Saltsjöbadens Kyrkplan,133 34,Saltsjöbaden
+Saltsjöqvarns kaj,131 71,Nacka
+Sammels väg,311 98,Glommen
+Sampantie,957 00,Pello
+Sams gård,343 93,Älmhult
+Samsmarka,475 37,Bohus-Björkö
+Samuel Bagges väg,443 32,Lerum
+Samuel Norbergs gata,431 34,Mölndal
+Samuel Permans gata,831 42,Östersund
+Samuel Permans gata,831 42,Östersund
+Samuel Älfs gata,583 28,Linköping
+Samuels gränd,521 72,Slutarp
+Sanatorieskogen,523 33,Ulricehamn
+Sanda Gervalds,623 79,Klintehamn
+Sanda Nystugu,623 79,Klintehamn
+Sandby,819 62,Karlholmsbruk
+Sandby,819 62,Karlholsbruk
+Sandells strädde,277 32,Kivik
+Sanden,475 42,Hönö
+Sanders väg,752 65,Uppsala
+Sanderødstranda,1765,Halden
+Sandgropen,748 30,Österbybruk
+Sandplantörens väg,302 65,Halmstad
+Sandsjö Hagfällan,571 63,Bodafors
+Sandsjö,924 92,Blattnicksele
+Sandsjöbaden,571 64,Sandsjöfors
+Sandsveden,823 91,Kilafors
+Sandudden,956 31,Överkalix
+Sandviksdalen,430 85,Brännö
+Sankt Botvids väg,145 65,Botkyrka
+Sankt Clemens gata,252 34,Helsingborg
+Sankt Eriks gata,392 46,Kalmar
+Sankt Eriks torg,753 10,Uppsala
+Sankt Eriksplan,113 20,Stockholm
+Sankt Eriksplan,113 32,Stockholm
+Sankt Eriksplan,113 20,Stockholm
+Sankt Görans Gränd,193 30,Sigtuna
+Sankt Görans väg,241 36,Eslöv
+Sankt Jörgens Allé,422 49,Hisings Backa
+Sankt Jörgens plats,252 20,Helsingborg
+Sankt Knuts torg,211 57,Malmö
+Sankt Knuts väg,211 57,Malmö
+Sankt Kristoffers väg,392 38,Kalmar
+Sankt Lars väg,221 85,Lund
+Sankt Lars väg,222 70,Lund
+Sankt Martins väg,241 36,Eslöv
+Sankt Mikaels väg,241 36,Eslöv
+Sankt Olavs väg,830 13,Åre
+Sankt Olavs väg,837 52,Åre
+Sankt Olavs väg,837 52,Åre
+Sankt Olofs väg,241 36,Eslöv
+Sankt Peders gata,254 37,Helsingborg
+Sankt Sigfrids gata,541 30,Skövde
+Sankta Britas gata,392 46,Kalmar
+Sankta Gertruds gata,392 35,Kalmar
+Sankta Marias väg,612 92,Finspång
+Sannaplan,414 72,Göteborg
+Santessons väg,232 61,Arlöv
+Sara Lisas väg,791 55,Falun
+Sara Lisas väg,791 55,Falun
+Sara Moraeas Väg,121 34,Enskededalen
+Sara Moræas Väg,121 34,Enskededalen
+Saras väg,373 66,Hasslö
+Saras väg,386 34,Färjestaden
+Saritslöv,274 93,Skurup
+Sasser Laurens väg,241 35,Eslöv
+Saturnusringen,181 63,Lidingö
+Saxebyn Furubo,673 98,Koppom
+Saxofonstråket,903 53,Umeå
+Schanders väg,352 20,Växjö
+Schloß Hamborn,331 78,Borchen
+Seatons allé,443 32,Lerum
+Seebyhagen,812 93,Kungsgården
+Segelflyget,423 37,Torslanda
+Segersteds plan,652 29,Karlstad
+Selins väg,444 60,Stora Höga
+Sellerigången,611 45,Nyköping
+Selma Lagerlöfs Torg,422 48,Hisings Backa
+Selma Lagerlöfs gata,583 26,Linköping
+Selma Lagerlöfs torg,422 48,Hisings Backa
+Selma Lagerlöfs väg,691 38,Karlskoga
+Selmedalsringen,129 36,Hägersten
+Seminaarinkatu,954 00,Tornio
+Serenadgången,656 36,Karlstad
+Sergels Torg,111 57,Stockholm
+Sernanders väg,752 61,Uppsala
+Seterhaugveien,7882,Nordli
+Setterwalls väg,131 36,Nacka
+Sexans väg,253 42,Vallåkra
+Sibbarp Ekbacken,513 91,Fristad
+Sibborp,590 75,Ljungsbro
+Sibeliusgången,164 72,Kista
+Sibeliusgången,164 73,Kista
+Sickla Allé,131 65,Nacka
+Sickla Strand,131 34,Nacka
+Sicklastråket,131 54,Nacka
+Sidus Bråbjörke,605 91,Norrköping
+Sidus,605 91,Norrköping
+Siers väg,432 48,Varberg
+Sieverts väg,132 46,Saltsjö-Boo
+Sigisslaryd,382 72,Orrefors
+Signe Hebbes väg,129 38,Hägersten
+Signe Tillischgatan,169 74,Solna
+Signebøenfjellet,1765,Halden
+Sigrid Engströms backe,430 84,Styrsö
+Sigrid Undsets gata,168 49,Bromma
+Sigurd Kochs gata,521 42,Falköping
+Sigurd Rings Gata,126 51,Hägersten
+Sigurd Rings gata,253 62,Helsingborg
+Sikerød,1798,Aremark
+Sikeå Hamn,915 93,Robertsfors
+Sikhjälma,819 63,HÅLLNÄS
+Sikhjälma,819 63,Hållnäs
+Siknäs,952 44,Töre
+Siksundsön-Siknäs,952 44,Töre
+Siljeströms väg,392 44,Kalmar
+Silver Fredriks väg,134 65,Ingarö
+Silverdals torg,191 38,Sollentuna
+Silverdalsstråket,191 37,Sollentuna
+Silvergruvan,711 78,Guldsmedshyttan
+Silverhyttan,772 94,Grängesberg
+Silverkällan,414 72,Göteborg
+Silverringen,302 59,Halmstad
+Silvertärnegången,426 69,Västra Frölunda
+Sinnern Djuphulteviken,579 92,Högsby
+Sinnern,579 92,Högsby
+Sireköpinge Säteri,268 75,Sireköpinge
+Siriusplan,393 51,Kalmar
+Sisjöbäckens väg,436 38,Askim
+Siste Riddarens Väg,125 30,Älvsjö
+Sivs gränd,215 35,Malmö
+Sjugare Bygattu,793 90,Leksand
+Sjunnen,570 15,Holsbybrunn
+Själand,870 30,Nordingrå
+Sjöanäs,363 35,Tolg
+Sjöaveka,571 66,Bodafors
+Sjöbo Torg,506 42,Borås
+Sjöbrings väg,392 44,Kalmar
+Sjöbrinken,132 36,Saltsjö-Boo
+Sjögattu,793 70,Tällberg
+Sjögestad Sjögemagasinet,590 48,Vikingstad
+Sjöghunnarsbo,523 93,Marbäck
+Sjögrens väg,139 90,Värmdö
+Sjögrens väg,236 42,Höllviken
+Sjögången,261 39,Landskrona
+Sjögången,302 53,Halmstad
+Sjögången,760 49,Herräng
+Sjöhult,285 91,Markaryd
+Sjöliden,393 51,Kalmar
+Sjömellankälen,922 67,Tävelsjö
+Sjömåla,382 74,Alsterbro
+Sjöporten,417 64,Göteborg
+Sjörundan,134 52,Gustavsberg
+Sjösabrinken,124 55,Bandhagen
+Sjösala,661 94,Säffle
+Sjöstadskajen,178 51,Ekerö
+Sjötrollets väg,393 59,Kalmar
+Sjövik,523 62,Vegby
+Sjövik,574 74,Dragsnäs
+Sjövik,775 95,Folkärna
+Sjövikskajen,117 58,Stockholm
+Sjövikskajen,117 57,Stockholm
+Sjöviksplan,691 41,Karlskoga
+Sjövändan,831 92,Östersund
+Sjöändan,128 68,Sköndal
+Skabo,523 99,Hökerum
+Skabram,962 97,Jokkmpkk
+Skabram,962 99,Jokkmokk
+Skagsören,972 54,Luleå
+Skaldens gata,656 34,Karlstad
+Skaldens gata,656 38,Karlstad
+Skalspassets Torg,840 92,Vemdalen
+Skanderåsen,840 40,Svenstavik
+Skanderåsen,845 61,Svenstavik
+Skanseveien,1794,Sponvika
+Skanseåsen,1794,Sponvika
+Skansholm,912 91,Vilhelmina
+Skardmodalsveien,8696,Hattfjelldal
+Skarphagsleden,603 63,Norrköping
+Skarpnäcks Torg,128 33,Skarpnäck
+Skarpåsdreven,523 32,Ulricehamn
+Skarpåsdreven,523 33,Ulricehamn
+Skarstad Kyrketorp,534 95,Vara
+Skatan,862 96,Njurunda
+Skaten,819 65,Hållnäs
+Skatens väg,865 92,Alnö
+Skauskrokveien,1765,Halden
+Skauskrokveien,1796,Kornsjø
+Skeppar Sjöströms väg,139 34,Värmdö
+Skeppare Toftins väg,261 61,Landskrona
+Skepparegången,413 18,Göteborg
+Skepphusviken,760 49,Herräng
+Skeppsmoragården,149 92,Nynäshamn
+Skepptuna Skoby,195 93,Märsta
+Skettene,826 94,NORRALA
+Skidspåret,831 42,Östersund
+Skidspåret,903 38,Umeå
+Skidspåret,917 04,Borgafjäll
+Skilleby Backe,153 91,Järna
+Skillebyholm,153 91,Järna
+Skillevatnet,7660,Vuku
+Skillinge,860 35,Söråker
+Skillingmarkvegen,2233,Vestmarka
+Skilsåker,860 35,Söråker
+Skinnarbyn,915 98,Bygdeå
+Skivedsleden,667 30,Forshaga
+Skjølåsætervegen,2233,Vestmarka
+Skogar,452 93,Strömstad
+Skogar,452 93,Strömstad
+Skogsbrynet,422 56,Hisings Backa
+Skogsbrynet,711 34,Lindesberg
+Skogsdrottningen,422 53,Hisings Backa
+Skogsdungen,422 56,Hisings Backa
+Skogsgläntan,812 31,Storvik
+Skogsgläntans väg,132 35,Saltsjö-Boo
+Skogsleden,134 38,Gustavsberg
+Skogsliden,182 74,Stocksund
+Skogsliden,393 51,Kalmar
+Skogsliden,393 58,Kalmar
+Skogsmulles väg,146 34,Tullinge
+Skogsrundan,719 40,Örebro
+Skogsslingan,127 41,Skärholmen
+Skogsslingan,182 30,Danderyd
+Skogsstjärnans väg,132 45,Saltsjö-Boo
+Skogsudden,615 96,Gryt
+Skogsviolens väg,132 45,Saltsjö-Boo
+Skogåsplan,142 30,Skogås
+Skogåsplan,142 30,Skogås
+Skolan,513 97,Borgstena
+Skolgången,302 55,Halmstad
+Skolgången,430 84,Styrsö
+Skolgången,800 06,Gävle
+Skolgången,802 57,Gävle
+Skolgången,802 57,Gävle
+Skolgången,831 61,Östersund
+Skolsträddet,277 32,Kivik
+Skoltået,854 60,Sundsvall
+Skonaren Ingos gata,417 60,Göteborg
+Skonaren,444 30,Stenungsund
+Skorpionens gata,136 61,Brandbergen
+Skotte Lindes gata,393 60,Kalmar
+Skottvallen,818 42,Forsbacka
+Skranta torg,691 42,Karlskoga
+Skrapan,722 10,Västerås
+Skrattmåsgången,426 69,Västra Frölunda
+Skrea backe,311 70,Falkenberg
+Skrike,893 92,Bjästa
+Skräddaresträddet,277 32,Kivik
+Skräddarns Backe,196 34,Kungsängen
+Skräddarp ERIKSLUND,573 92,Tranås
+Skräddarp,573 92,Tranås
+Skräddarps skola,573 92,Tranås
+Skråmsta,193 91,Sigtuna
+Skuru backe,131 46,Nacka
+Skutterstad Högsby,593 76,Blackstad
+Skutterstad Sjöhaga,593 76,Blackstad
+Skutterstad Viborg,593 76,Blackstad
+Skutterstad,593 76,Blackstad
+Skvaltans väg,131 39,Nacka
+Skyttens gata,136 61,Brandbergen
+Skyttens väg,196 31,Kungsängen
+Skäggesta,755 92,Uppsala
+Skäggetorps centrum,586 42,Linköping
+Skäggetorps centrum,586 44,Linköping
+Skäggmans väg,139 90,Värmdö
+Skälby Gård,196 93,Kungsängen
+Skälderviksplan,120 60,Årsta
+Skäljom,861 93,Ljustorp
+Skäret,747 43,Gimo
+Skärfältens,755 91,Uppsala
+Skärv Skålltorps Ridanläggning,532 92,Axvall
+Skästa,731 94,Köping
+Skäve,153 31,Järna
+Skävesund,705 97,Glanshammar
+Skålldal,442 96,Kode
+Skålsjön,828 95,Viksjöfors
+Skåneporten,286 38,Örkelljunga
+Skånings åsaka kartegården,532 96,Skara
+Skårby,271 91,Ystad
+Skårs led,412 63,Göteborg
+Skårvegen,2425,Ljørdalen
+Skölv,705 97,Glanshammar
+Skölvene Prästegården,524 93,Herrljunga
+Sköreliden,430 85,Brännö
+Skörstorps skola,521 91,Falköping
+Sköttning Fridhem,521 92,Falköping
+Sköttning Gullängen,521 92,Falköping
+Sköttning Hulegården,521 92,Falköping
+Sköttning Ledsgården,521 92,Falköping
+Sköttning Lillegården,521 93,Falköping
+Sköttning Tomten,521 92,Falköping
+Sköttning Uddebo,521 92,Falköping
+Sleipners Väg,805 91,Gävle
+Sleng,933 91,Arvidsjaur
+Slingan,812 41,Gästrike-Hammarby
+Slipkajen,392 39,Kalmar
+Slogstorp,241 61,Löberöd
+Slorebyveien,1870,Ørje
+Slottsskogspromenaden,413 10,Göteborg
+Slottsskogspromenaden,413 11,Göteborg
+Slupen,444 30,Stenungsund
+Slussplan,111 30,Stockholm
+Slutarp Ledsgården,521 93,Falköping
+Släda,865 91,Alnö
+Slädaviken,865 91,Alnö
+Slädaviken,865 92,Alnö
+Slätmon Väsby Östergård,590 46,Rimforsa
+Slätthult,335 93,Slätthult
+Slättåkra,260 70,Ljungbyhed
+Slånbärsliden,656 35,Karlstad
+Slåttan,912 92,Vilhelmina
+Slöta Valltorp,521 97,Vartofta
+Smala vägen,393 61,Kalmar
+Smaragdgången 3,632 34,Eskilstuna
+Smassens väg,811 50,Sandviken
+Smassens väg,811 51,Sandviken
+Sme-Jerkers väg,741 41,Knivsta
+Smed Olles väg,780 41,Gagnef
+Smedens väg,811 98,Österfärnebo
+Smedsbo,791 94,Falun
+Smedsgården,865 91,Alnö
+Smedsta,646 91,Gnesta
+Smedstorp,523 91,Ulricehamn
+Smedstorp,573 92,Tranås
+Smedstuguplan,602 13,Norrköping
+Smedstuguplan,602 46,Norrköping
+Smedveien,1794,Sponvika
+Smedvreten,811 95,Järbo
+Smista Allé,141 70,Segeltorp
+Smista allé,141 74,Segeltorp
+Smiths väg,428 30,Kållered
+Smithska vägen,421 66,Västra Frölunda
+Smula skola,521 71,Åsarp
+Smultronplan,152 51,Södertälje
+Smundstorp,444 93,Spekeröd
+Småbrukets backe,141 58,Huddinge
+Smålands Lejons väg,393 58,Kalmar
+Smålandsbruken,570 19,Pauliström
+Smålatorp,283 93,Lönnsboda
+Smögenbryggan,456 51,Smögen
+Snierra,933 99,Arvidsjaur
+Snipan,444 30,Stenungsund
+Snogeröd,243 95,Höör
+Snäckevarps Gård,615 96,Gryt
+Snäckklinten,621 41,Visby
+Snällebo EKEDALEN 1,573 92,Tranås
+Snällebo gård,573 92,Tranås
+Snättringeleden,141 41,Huddinge
+Snödroppegången,416 76,Göteborg
+Snökulla Björkhamra,507 90,Brämhult
+Snökulla Gård,507 90,Brämhult
+Snökulla Haga,507 90,Brämhult
+Snökulla,507 90,Brämhult
+Snöskär,819 62,Karlholmsbruk
+Snöån,786 92,Dala-Järna
+Sofia Dahlbergs Gata,573 37,Tranås
+Sofia Lindmarks väg,980 20,Svappavaara
+Solbo,438 36,Landvetter
+Solbrinken,132 36,Saltsjö-Boo
+Soldat Bångs väg,747 41,Gimo
+Solgården,611 97,Stigtomta
+Solhem,711 76,Storå
+Sollidenplan,236 42,Höllviken
+Solna Torg,171 45,Solna
+Solna Torg,171 45,Solna
+Solnedgången,433 34,Partille
+Solum,860 25,Kovland
+Solvik,865 92,Alnö
+Solviks strand,142 66,Skogås
+Solvändan,903 44,Umeå
+Solvändans väg,386 34,Färjestaden
+Sommargyllens backe,132 45,Saltsjö-Boo
+Sones gränd,277 32,Kivik
+Sonja Kovalevskys Gata,113 65,Stockholm
+Sonya Hedenbratts gata,412 49,Göteborg
+Sophie Adlersparres Väg,121 33,Enskededalen
+Sophie Sagers Gata,121 34,Enskededalen
+Sotingeplan,163 61,Spånga
+Spannarp,432 77,Tvååker
+Sparres väg,197 33,Bro
+Sparvens väg,139 71,Stavsnäs
+Speke Framgården,671 92,Arvika
+Spenatgången,414 69,Göteborg
+Spikarna,865 92,Alnö
+Spinettstråket,903 53,Umeå
+Spireagången,416 76,Göteborg
+Sponvikveien,1789,Berg i Østfold
+Sponvikveien,1794,Sponvika
+Spraxkya,781 97,Borlänge
+Spåneryd,565 91,Mullsjö
+Spånga Skaraborg,647 95,Åkers Styckebruk
+Spånga Stationsplan,163 51,Spånga
+Spånga stationsplan,163 51,Spånga
+Spånga torg,163 51,Spånga
+Spångmyra,820 62,Bjuråker
+Stabby backe,752 30,Uppsala
+Stadigs backe,134 62,Ingarö
+Stadshusgången,171 45,Solna
+Staffan Stallares väg,125 35,Älvsjö
+Staffans Väg,192 78,Sollentuna
+Staffans väg,192 78,Sollentuna
+Staffans väg,192 78,Sollentuna
+Stapelmohrs väg,831 42,Östersund
+Starrarp,270 33,Vollsjö
+Starrmossen,190 60,Stockholm-Arlanda
+Stationsplan,681 30,Kristinehamn
+Stationsplan,733 38,Sala
+Stationsplan,733 38,Sala
+Stationsplan,831 33,Östersund
+Stattena Centrum,254 44,Helsingborg
+Stattena centrum,254 44,Helsingborg
+Stavre,861 93,Ljustorp
+Stavsnäs Gärde,139 70,Stavsnäs
+Steen Priwins gata,412 49,Göteborg
+Steinfjellgrenda,7530,Meråker
+Stellan Mörners gata,302 26,Halmstad
+Stellan Mörners väg,176 68,Järfälla
+Sten Bergmans väg,121 46,Johanneshov
+Sten Stures Gränd,125 45,Älvsjö
+Sten Stures Väg,131 47,Nacka
+Sten Stures Väg,131 47,Nacka
+Sten-åke Cederhöks gata,412 49,Göteborg
+Stenbockens gata,136 62,Brandbergen
+Stenbrinken,614 98,Santa Anna
+Stendalen Lundvik,147 92,Grödinge
+Stendalen Rödlöt,147 92,Grödinge
+Stendalen,147 92,Grödinge
+Stenestad,268 76,Kågeröd
+Stenhålt,442 92,Romelanda
+Steningeliden,195 58,Märsta
+Stenkullen,134 41,Gustavsberg
+Stenolles backe,134 62,Ingarö
+Stenolles backe,134 62,Ingarö
+Stens väg,574 40,Vetlanda
+Stensta,153 91,Järna
+Stenstupet,182 34,Danderyd
+Stensättra,141 91,Huddinge
+Stensöden,891 95,Arnäsvall
+Stensötegången,135 35,Tyresö
+Stenung,444 32,Stenungsund
+Stenunge Alle,444 30,Stenungsund
+Stenunge Allé,444 30,Stenungsund
+Sticksjö,705 97,Glanshammar
+Stig Lindbergs gata,134 52,Gustavsberg
+Stig Lindbergs gata,134 53,Gustavsberg
+Stig Lindbergs gata,139 53,Gustavsberg
+Stig Sunnes Väg,295 31,Bromölla
+Stig Sunnes väg,295 31,Bromölla
+Stigen,811 91,Sandviken
+Stighult,340 13,Hamneda
+Stilla gatan,414 73,Göteborg
+Stillmans väg,374 93,Karlshamn
+Stjernes väg,663 34,Skoghall
+Stjernströms väg,129 35,Hägersten
+Stjärna,151 50,Enhörna
+Stjärneholm,286 74,Skånes Fagerhult
+Stjärnfors,714 93,KOPPARBERG
+Stjärnplan,216 18,Limhamn
+Stocka-Pers väg,828 95,Viksjöfors
+Stockhorvan,577 91,Hultsfred
+Stockrosgången,416 76,Göteborg
+Stocksbo Bolagsgården,827 63,Färila
+Stocksunds hamn,182 78,Stocksund
+Stocksunds hamnplan,182 78,Stocksund
+Stojby,395 95,Rockneby
+Stolpås,865 91,Alnö
+Stolpås,865 91,Alnö
+Stommen,514 62,Ölsremma
+Stor Ingemars väg,653 46,Karlstad
+Stor-Fårön,952 44,Töre
+Stor-Skränmåsören,974 55,Luleå
+Stora Bandsjön,861 91,Timrå
+Stora Bandssjön,861 91,Timrå
+Stora Blåsjön,833 99,Stora Blåsjön
+Stora Bystad,523 60,Gällstad
+Stora Djursvik,613 41,Oxelösund
+Stora Enens väg,439 31,Onsala
+Stora Fjäderholmen,111 15,Stockholm
+Stora Främsbacka,791 44,Falun
+Stora Gatan,193 30,Sigtuna
+Stora Gatan,193 35,Sigtuna
+Stora Gatan,193 30,Sigtuna
+Stora Gatan,722 12,Västerås
+Stora Gatan,722 12,Västerås
+Stora Grubbo,775 96,Krylbo
+Stora Gungans väg,122 31,Enskede
+Stora Gungans väg,122 62,Enskede
+Stora Havstoviken,865 92,Alnö
+Stora Hälla gård,791 91,Falun
+Stora Högamotet E6,444 60,Stora Höga
+Stora Lötgården,755 94,Uppsala
+Stora Mans väg,125 59,Älvsjö
+Stora Mossens Backe,167 56,Bromma
+Stora Pölsans väg,423 40,Torslanda
+Stora Skuggans Väg,115 42,Stockholm
+Stora Släntom,583 60,Gammalkil
+Stora Sällskapets Väg,127 31,Skärholmen
+Stora Tolabo,565 96,Bottnaryd
+Stora Torget 3,621 56,Visby
+Stora Torget,521 42,Falköping
+Stora Torget,544 30,Hjo
+Stora Torget,598 37,Vimmerby
+Stora Torget,642 60,Malmköping
+Stora Torget,722 15,Västerås
+Stora Torget,733 30,Sala
+Stora Torget,753 20,Uppsala
+Stora Torget,753 20,Uppsala
+Stora Torget,852 30,Sundsvall
+Stora Torget,871 30,Härnösand
+Stora Tostebo Annexet,590 52,Nykil
+Stora Tostebo Lyckan,590 52,Nykil
+Stora Tostebo,590 52,Nykil
+Stora Vägen,263 73,Arild
+Stora Vägen,360 52,Kosta
+Stora Vägen,785 44,Dala-Floda
+Stora Vägen,786 95,Dala-Floda
+Stora Vägen,795 70,Vikarbyn
+Stora Väller,621 92,Visby
+Stora allén,612 40,Finspång
+Stora björnens gata,136 64,Haninge
+Stora gatan,722 12,Västerås
+Stora gatan,722 12,Västerås
+Stora gatan,819 66,Lövstabruk
+Stora gatan,819 66,Lövstabruk
+Stora gränd,134 67,Ingarö
+Stora hundens gata,136 64,Haninge
+Stora slingan,192 73,Sollentuna
+Stora torg,241 30,Eslöv
+Stora torget,543 30,Tibro
+Stora torget,582 19,Linköping
+Stora torget,582 19,Linköping
+Stora torget,591 58,Motala
+Stora torget,595 30,Mjölby
+Stora torget,596 31,Skänninge
+Stora torget,686 30,Sunne
+Stora torget,732 30,Arboga
+Stora torget,733 30,Sala
+Stora torget,753 20,Uppsala
+Stora torget,776 30,Hedemora
+Stora vägen,138 33,Älta
+Stora vägen,297 72,Everöd
+Stora vägen,297 72,Everöd
+Stora vägen,371 48,Karlskrona
+Stora vägen,444 60,Stora Höga
+Stora vägen,507 71,Gånghester
+Stora vägen,513 34,Fristad
+Stora vägen,523 61,Gällstad
+Stora vägen,541 91,Skövde
+Stora vägen,623 41,Havdhem
+Stora vägen,785 44,Dala-Floda
+Stora vägen,786 95,Dala-Floda
+Stora vägen,795 70,Vikarbyn
+Stora vägen,982 05,Puoltikasvaara
+Stora Ängby Allé,168 55,Bromma
+Stora Ängen,430 84,Styrsö
+Stora Årbotten,670 35,Gunnarskog
+Storbygården,149 92,Nynäshamn
+Stordalen,861 92,Bergeforsen
+Store Backe,684 31,Munkfors
+Store Le-veien,1798,Aremark
+Storegården Paradiset,574 92,Vetlanda
+Storegården Paradisvallen,574 92,Vetlanda
+Storelid,432 96,Åskloster
+Storforsgården,682 40,Filipstad
+Storforsplan,123 47,Farsta
+Storforsplan,123 47,Farsta
+Storfåröholmen,952 44,Töre
+Storhagen,566 31,Habo
+Storholmen,860 35,Söråker
+Storhøklingen,2283,Åsnes Finnskog
+Storkyrkobrinken,111 28,Stockholm
+Storkyrkobrinken,111 28,Stockholm
+Stormon,1690,Herføl
+Stormyran,914 94,NYÅKER
+Stornäset,865 91,Alnö
+Storrådas gata,442 39,Kungälv
+Storseglet,136 55,Vega
+Storseglet,136 56,Vega
+Storsjöstråket,831 34,Östersund
+Storsjöstråket,831 57,Östersund
+Storsjøen,7660,Vuku
+Storsund,784 78,Borlänge
+Storulvåns Fjällstation,830 15,Duved
+Storvattnet,872 92,KRAMFORS
+Storvolltjønnveien,7370,Brekkebygd
+Storån,842 97,Ytterhogdal
+Storåplan,711 76,Storå
+Storön,930 15,Bureå
+Storöplan,123 47,Farsta
+Strand,881 96,Strand
+Strandbodkilen,753 24,Uppsala
+Strandpromenaden,131 50,Saltsjö-Duvnäs
+Strandpromenaden,192 66,Sollentuna
+Strandveien,1794,Sponvika
+Strycksele,922 91,Vindeln
+Strådalen,7660,Vuku
+Strådalsvegen,7660,Vuku
+Stråssaplan,711 77,Stråssa
+Stråsundsviken,893 40,Köpmanholmen
+Strömgärde,747 95,Gimo
+Strömkarlen,196 39,Kungsängen
+Strömsgrundet,952 44,Töre
+Strömsholm Ängen 2,734 94,Strömsholm
+Strömspromenaden,593 30,Västervik
+Strömsrum,384 92,Ålem
+Strömås,860 25,Kovland
+Studenstaden,752 33,Uppsala
+Studentplan,831 40,Östersund
+Studiegången,831 40,Östersund
+Stureplan,106 63,Stockholm
+Stureplan,114 35,Stockholm
+Sturzen-Beckers gata,252 27,Helsingborg
+Stutehavna,1690,Herføl
+Stuvsta Torg,141 40,Huddinge
+Stybbersmark,891 95,Arnäsvall
+Styggemyrveien,1870,Ørje
+Styrbjörn Starkes gata,253 62,Helsingborg
+Stålmyrgattu,785 63,Sifferbo
+Stålringen,176 74,Järfälla
+Stångrid,860 35,Söråker
+Stångrid,861 94,Söråker
+Stömne,824 71,Delsbo
+Stömsta,865 91,Alnö
+Støavegen,2423,Østby
+Suensaarenkatu,954 00,Tornio
+Sukkerveien,1954,Setskog
+Sulvikskorset,671 31,Sulvik
+Sunamans Väg,352 34,Växjö
+Sund,873 96,Docksta
+Sundbo,640 20,Björkvik
+Sundby Bålberget,681 93,Kristinehamn
+Sundet,1796,Kornsjø
+Sundskajen,216 43,Linhamn
+Sundsliden,252 85,Helsingborg
+Sundsliåsen,1796,Kornsjø
+Sundspromenaden,211 16,Malmö
+Sundspromenaden,211 19,Malmö
+Sundstedts väg,139 34,Värmdö
+Sundstugan,640 20,Björkvik
+Sunnantorp,241 92,Eslöv
+Sunnemo gård,683 95,Sunnemo
+Sunneplan,123 44,Farsta
+Sunnerdahlsplan,167 62,Bromma
+Sursta,186 92,Vallentuna
+Suttungs Gränd,753 19,Uppsala
+Suttungs Gränd,753 21,Uppsala
+Svabesholm,277 35,Kivik
+Svabesholm,277 35,Kivik
+Svalas väg,134 62,Ingarö
+Svalgången,191 41,Sollentuna
+Svalgången,724 81,Västerås
+Svamparondellen,273 97,Tomelilla
+Svandammsplan,126 37,Hägersten
+Svansele,936 93,Boliden
+Svanstein,957 94,Övertorneå
+Svansö,560 25,Bottnaryd
+Svante Arrhenius gata,583 27,Linköping
+Svante Arrhenius väg,114 18,Stockholm
+Svante Orells väg,430 84,Styrsö
+Svarbäcken,961 91,Boden
+Svarta backen,139 35,Värmdö
+Svartabäck Tjädersdal,362 97,LINNERYD
+Svartabäck Tjädersdal,362 97,LINNERYD
+Svartbyleden,961 40,Boden
+Svartbäcken,961 91,Boden
+Svartbäckens By,136 59,Vendelsö
+Svartbäcksgränsen,136 59,Vendelsö
+Svartmåla,590 45,Brokind
+Svartnäs,790 23,Svärdsjö
+Svarttorp,643 99,Högsjö
+Svartviksslingan,167 38,Bromma
+Svartviksslingan,167 39,Bromma
+Svartåsvallen,842 91,SVEG
+Svartö,393 59,Kalmar
+Svartöbrinken,974 37,Luleå
+Svarødskog,1798,Aremark
+Sveaplan,392 33,Kalmar
+Sveas väg,153 38,Järna
+Svedelius väg,611 38,Nyköping
+Sveden,134 65,Ingarö
+Sveden,781 92,Borlänge
+Svedje,860 35,Söråker
+Svedje,861 92,Bergeforsen
+Sven Beckmans väg,196 34,Kungsängen
+Sven Edvin Saljes väg,371 63,Lyckeby
+Sven Hultins gata,412 58,Göteborg
+Sven Hultins gata,412 88,Göteborg
+Sven Jonsons gata,302 27,Halmstad
+Sven Källfelts gata,426 71,Västra Frölunda
+Sven Källfelts gata,426 71,Västra Frölunda
+Sven Petters väg,373 65,Hasslö
+Sven Sjöbloms väg,132 39,Saltjö-boo
+Sven Tveskäggs gata,253 62,Helsingborg
+Sven Wingquists gata,415 50,Göteborg
+Sven-Åke Anderssons gata,352 21,Växjö
+Svensbyn Sillerud,672 95,Sillerud
+Svenserud,660 60,Molkom
+Svenskeveien,1870,Ørje
+Svenskveien,8611,Mo i Rana
+Svensrudvegen,2240,Magnor
+Svensta,837 94,Järpen
+Svente Knubbs väg,570 13,Myresjö
+Sverres väg,663 41,Hammarö
+Svinesundsveien,1788,Halden
+Svineviken,473 95,Henån
+Svinåsa gård,507 32,Brämhult
+Svärdlångsplan,120 60,Årsta
+Swahns väg,371 42,Karlskrona
+Sylen,2443,Drevsjø
+Syltenäs,472 92,Stillingsön
+Sylvia Mang-borenbergs väg,352 20,Växjö
+Symoen,7660,Vuku
+Synnaåvegen,2427,Plassen
+Synnervika,7375,Røros
+Synrearmssträddet,277 32,Kivik
+Syster Ebbas väg,471 94,Kållekärr
+Syster Edits väg,653 46,Karlstad
+Syster Emmas gata,413 24,Göteborg
+Syster Estrids gata,413 25,Göteborg
+Syster Syrenas väg,981 07,Abisko
+Syväjärventie,994 70,Karesuvanto
+Säby Torg,144 30,Rönninge
+Säby ängs väg,134 65,Ingarö
+Säby,646 92,Gnesta
+Säby,719 91,Vintrosa
+Sädesbingen,461 61,Trollhättan
+Sägnens väg,907 52,Umeå
+Säleby,455 91,Munkedal
+Sälgen,670 20,Glava
+Säljheden,683 92,Bergsäng
+Säljheden,683 92,Hagfors
+Sällerås,286 74,Skånes Fagerhult
+Sällinge,718 91,FRÖVI
+Sällinge,718 91,Frövi
+Sällstorp,432 68,Veddige
+Sälsten,871 33,Härnösand
+Sälsundet,865 92,Alnö
+Säm Ågården,523 62,Vegby
+Säm,523 60,Gällstad
+Säm,523 62,Vegby
+Säter,865 92,Alnö
+Säterbo,640 20,Björkvik
+Säterigården,435 31,Mölnlycke
+Sätertorp,640 20,Björkvik
+Sätra,814 95,Älvkarleby
+Sätrahöjden,806 33,Gävle
+Sätrahöjden,806 34,Gävle
+Sätralinjen,811 53,Sandviken
+Sätravallen Stengläntan,589 65,Bestorp
+Sätuna Hallingen,521 94,Falköping
+Sätuna Paris,521 94,Falköping
+Sävarheden,918 91,Sävar
+Sävastnäs,961 93,Boden
+Sävesund,705 97,Glanshammar
+Sågareliden,241 96,Stockamöllan
+Sågen,780 50,Vansbro
+Sågsten,149 92,Nynäshamn
+Sågverksslingan,818 92,Valbo
+Sågvreten,818 32,Valbo
+Såstaholms allé,187 70,Täby
+Såå 530,837 97,Såå
+Såå 530,837 97,Åre
+Söder Lindberg Åkerbacken,793 90,Leksand
+Söder Mälarstrandskajen,118 20,Stockholm
+Söder-Edinge,740 10,Almunge
+Söderboda,742 97,Gräsö
+Söderby gårds väg,144 52,Rönninge
+Söderby torgs allé,144 52,Rönninge
+Söderby,747 91,Alunda
+Söderby-Danmark Lilla-Nyby,755 98,Uppsala
+Söderbykroken,762 96,Rånäs
+Söderfors Herrgård,815 76,Söderfors
+Södergårdsslingan,134 66,Ingarö
+Söderhagsudden,136 49,Haninge
+Söderhult,590 39,Kisa
+Söderled,132 36,Saltsjö-Boo
+Söderled,192 73,Sollentuna
+Söderleden,587 23,Linköping
+Söderleden,597 40,Åtivdaberg
+Söderleden,881 35,Sollefteå
+Södersocknen Oset,519 91,Istorp
+Söderströms väg,472 32,Svanesund
+Södersunda,130 38,Runmarö
+Södersunda,130 38,Runmarö
+Söderåsen,855 90,Sundsvall
+Södra Allén,702 24,Örebro
+Södra Backen,791 74,Falun
+Södra Barnvikshöjden,139 72,Djurhamn
+Södra Benickebrinken,111 31,Stockholm
+Södra Bergstigen,711 31,Lindesberg
+Södra Björke Prästgården,524 95,Ljung
+Södra Blasieholmshamnen,103 27,Stockholm
+Södra Borgene Rud,661 92,Säffle
+Södra Borgne Rud,661 92,Säffle
+Södra Bredviken,930 47,Byske
+Södra Dalkarlså,915 97,Bygdeå
+Södra Esplanaden,223 52,Lund
+Södra Esplanaden,574 38,Vetlanda
+Södra Esplanaden,733 33,Sala
+Södra Esplanaden,924 32,Sorsele
+Södra Falltä,818 92,Valbo
+Södra Hamnen,451 42,Uddevalla
+Södra Hamnen,471 32,Skärhamn
+Södra Hamnen,471 32,Skärmhamn
+Södra Hamnplan,386 31,Färjestaden
+Södra Håbergs Hage,791 94,Falun
+Södra Järpetan,654 54,Karlstad
+Södra Kajen,115 74,Stockholm
+Södra Mårtensbacken,853 57,Sundsvall
+Södra Nissastigen,333 32,Smålandsstenar
+Södra Näsby,386 92,Färjestaden
+Södra Ottsjön,835 62,Föllinge
+Södra Piludden,682 34,Filipstad
+Södra Promenaden,211 49,Malmö
+Södra Promenaden,602 31,Norrköping
+Södra Promenaden,602 34,Norrköping
+Södra Promenaden,602 34,Norrköping
+Södra Promenaden,603 52,Norrköping
+Södra Revet,395 94,Rockneby
+Södra Rimshult,362 96,Ryd
+Södra Rännevallen,592 30,Vadstena
+Södra Sjöbacken,705 97,Glanshammar
+Södra Skeppsbron,802 84,Gävle
+Södra Skräddargården,621 53,Visby
+Södra Skäfthammar,747 95,Gimo
+Södra Stadsberget,852 38,Sundsvall
+Södra Stadsberget,862 38,Sundsvall
+Södra Stenungsön,444 48,Stenungsund
+Södra Stenungsön,444 48,Stenungsund
+Södra Stenvik,471 51,Klädesholmen
+Södra Stigamo,555 92,Jönköping
+Södra Stockviken,688 91,Storfors
+Södra Stommen,438 32,Landvetter
+Södra Torget,681 31,Kristinehamn
+Södra Torprundan,373 54,Senoren
+Södra Trängallén,541 46,Skövde
+Södra Tvärgången,254 52,Helsingborg
+Södra Uddens väg,475 36,Kalvsund
+Södra Vägen,362 54,Urshult
+Södra Vägen,402 22,Göteborg
+Södra Vägen,411 35,Göteborg
+Södra Vägen,412 52,Göteborg
+Södra Vägen,412 54,Göteborg
+Södra Vägen,412 54,Göteborg
+Södra Vägen,599 31,Ödeshög
+Södra allén,852 39,Sundsvall
+Södra berget,852 38,Sundsvall
+Södra brobänken,111 49,Stockholm
+Södra falltä,818 92,Valbo
+Södra gränden,442 30,Kungälv
+Södra gränden,442 31,Kungälv
+Södra läget,137 68,Jordbro
+Södra stigen,431 35,Mölndal
+Södra stranden,254 78,Domsten
+Södra vägen,268 75,Tågarp
+Södra vägen,282 63,Bjärnum
+Södra vägen,282 64,Bjärnum
+Södra vägen,302 90,Halmstad
+Södra vägen,314 51,Unnaryd
+Södra vägen,383 22,Mönsterås
+Södra vägen,392 45,Kalmar
+Södra vägen,392 46,Kalmar
+Södra vägen,392 33,Kalmar
+Södra vägen,392 44,Kalmar
+Södra vägen,392 45,Kalmar
+Södra vägen,432 51,Varberg
+Södra vägen,455 61,Dingle
+Södra vägen,463 31,Lilla Edet
+Södra vägen,465 31,Nossebro
+Södra vägen,514 41,Limmared
+Södra vägen,521 96,Falköping
+Södra vägen,523 94,Tvärred
+Södra vägen,541 51,Skövde
+Södra vägen,541 54,Skövde
+Södra vägen,542 44,Mariestad
+Södra vägen,568 30,Skillingaryd
+Södra vägen,592 40,Vadstena
+Södra vägen,711 76,Storå
+Södra vägen,824 42,Hudiksvall
+Södra vägen,829 50,Bergsjö
+Södra vägen,871 40,Härnösand
+Södra vägen,981 46,Kurravaara
+Södra Åreskiftet,430 85,Brännö
+Södra Örsjö,382 90,Örsjö
+Sör Nävde,774 92,Avesta
+Sör Sellnäs,781 98,Borlänge
+Sör Starfors,744 91,Heby
+Sörbo Lunden,572 93,Oskarshamn
+Sörbo,781 91,Borlänge
+Sörbryggorna,430 84,Styrsö
+Sörby Banvaktarstugan,521 56,Floby
+Sörby Sjögården,521 56,Floby
+Sörby Stommen,521 56,Floby
+Sörbyn,893 99,Ulvöhamn
+Sörens väg,373 65,Hasslö
+Sörgården,955 91,Råneå
+Sörhallskajen,417 63,Göteborg
+Sörkroken,471 62,Höviksnäs
+Sörmans väg,371 62,Lyckeby
+Sörmon,653 46,Kartlstad
+Sörsidan,955 91,Råneå
+Sörskog,790 21,Bjursås
+Sörvattnet,842 99,Sveg
+Sörviken,872 96,Bjärtrå
+Sötåsen,545 91,Töreboda
+Sövesgård,373 65,Hasslö
+Sövringsbo Nedangård,776 98,Garpenberg
+Sövringsbo,776 98,Garpenberg
+Søndre Finnvola,7660,Vuku
+Sørdalsveien,9360,Bardu
+Taffelstråket,903 53,Umeå
+Tage Wikströms gata,457 72,Grebbestad
+Taglarp Södergård,567 91,Vaggeryd
+Tallens väg,740 12,Knutby
+Tallgården,435 32,Mölnlycke
+Tallplan,812 31,Storvik
+Tallplan,812 31,Storvik1
+Tallplan,981 42,Kiruna
+Talludden,781 99,Idkerberget
+Talludden,781 99,Idkerberget
+Tallåsplan,134 31,Gustavsberg
+Tallåsplan,134 41,Gustavsberg
+Tallåsplan,684 30,Munkfors
+Tamms väg,815 76,Söderfors
+Tandläkare Liljas väg,139 74,Djurhamn
+Tangoslingan,196 37,Kungsängen
+Tankegången,254 51,Helsingborg
+Tant Gredelins väg,451 73,Uddevalla
+Tant Gröns väg,451 73,Uddevalla
+Tant Karins väg,139 53,Värmdö
+Tavlebord,473 97,Henån
+Teaterplan,803 23,Gävle
+Teda Sjogsta,745 92,Enköping
+Tegelviksslingan,116 45,Stockholm
+Tegnaholm Hammaren,355 98,Ingelstad
+Tegnérliden,371 41,Karlskrona
+Tegsplan,904 20,Umeå
+Teigenveien,1950,Rømskog
+Teknikringen,114 28,Stockholm
+Teknikringen,114 28,Stockholm
+Teknikringen,583 30,Linköping
+Teknikringen,583 31,Linköping
+Telefonplan,126 37,Hägersten
+Tellanders väg,443 32,Lerum
+Tennringen,176 74,Järfälla
+Tensta Allé,163 64,Spånga
+Tersmedens väg,371 42,Karlskrona
+Tessin DÄ Allé,745 93,Enköping
+Tessins väg,217 58,Malmö
+Tessins väg,217 58,Malmö
+The Svedbergs gata,756 44,Uppsala
+Theas väg,777 51,SMEDJEBACKEN
+Thedde Jensens gata,745 38,Enköping
+Theres Svenssons gata,417 55,Göteborg
+Theres Svenssons gata,417 55,Göteborg
+Thomanders väg,224 65,Lund
+Thomsons väg,213 72,Malmö
+Thors backe,139 34,Värmdö
+Thors väg,437 34,Lindome
+Thors väg,556 31,Jönköping
+Thorsten Levenstams väg,128 64,Sköndal
+Thulins gata,568 30,Skillingaryd
+Thulins plats,195 61,Arlandastad
+Thun-Ollevägen,134 31,Gustavsberg
+Thun-Ollevägen,134 34,Gustavsberg
+Thure Röings gata,252 25,Helsingborg
+Tians väg,295 32,Bromölla
+Tiarp Esbjörntorp,521 91,Falköping
+Tiarp Stugan,521 91,Falköping
+Tidaholmsplan,121 48,Johanneshov
+Tilda Murares Väg,393 55,Kalmar
+Tillgången,831 61,Östersund
+Tillinge Linda,745 94,Enköping
+Tillinge Lisselaås,745 94,Enköping
+Tillinge Lisselås,745 94,Enköping
+Tillinge Lisseås,745 94,Enköping
+Tillinge Uddala,745 94,Enköping
+Tillinge-Gryta,745 94,Enköping
+Timmele,523 92,Timmele
+Timotejgången,416 76,Göteborg
+Tingsvävgen,297 21,Degeberga
+Tintomaras väg,618 95,Stavsjö
+Tippgången,302 21,Halmstad
+Tisells väg,472 32,Svanesund
+Tissingeplan,163 61,Spånga
+Tjappsåive,933 91,Arvidsjaur
+Tjustorp 1523,273 98,Smedstorp
+Tjuvholmen,972 54,Luleå
+Tjäders väg,521 30,Falköping
+Tjärhovsplan,116 28,Stockholm
+Tobo Östra Hult,583 94,Nykil
+Tockarp,286 92,Örkelljunga
+Toes väg,438 36,Landvetter
+Toftaholm Herrgård,341 55,Vittaryd
+Tolarp,561 91,Huskvarna
+Tolfens väg,567 33,Vaggeryd
+Tolg Sjöatorp,363 35,Tolg
+Tolja,574 96,Vetlanda
+Tollare kaj,132 49,Saltsjö-boo
+Tollered ströms väg,448 50,Tollered
+Tolvans väg,295 74,Näsum
+Tomnäs,784 78,Borlänge
+Tomta,694 91,Hallsberg
+Tomta,741 90,Knivsta
+Tomtavegen,2224,Austmarka
+Tomtekroken,386 51,Mörbylånga
+Tomten Högvallsled,521 96,Falköping
+Toppbrinken,163 44,Spånga
+Tor Boijes Gata,131 57,Nacka
+Torben Pers väg,241 35,Eslöv
+Torbjörn Klockares Gata,113 30,Stockholm
+Torbjörntorp Berg,521 96,Falköping
+Torbjörntorp Brogården,521 96,Falköping
+Torbjörntorp Solbacken,521 96,Falköping
+Torbjörntorpsskolan,521 96,Falköping
+Torgbrinken,831 37,Östersund
+Torget,137 97,Årsta Havsbad
+Torget,196 30,Kungsängen
+Torget,314 51,Unnaryd
+Torget,450 47,Bovallstrand
+Torget,452 05,Sydkoster
+Torget,456 47,Bovallstrand
+Torget,462 80,Vänersborg
+Torget,524 30,Herrljunga
+Torget,570 03,Vrigstad
+Torget,684 30,Munkfors
+Torget,691 31,Karlskoga
+Torget,712 60,Grythyttan
+Torget,713 72,GYTTORP
+Torget,738 31,Norberg
+Torget,744 31,Heby
+Torget,793 31,Leksand
+Torget,793 31,Leksand
+Torget,912 32,Vilhelmina
+Torget,931 31,Skellefteå
+Torget,953 31,Haparanda
+Torget,953 32,Haparanda
+Torget,984 31,Pajala
+Torgny Segerstedts Allé,756 44,Uppsala
+Torgny Segerstedts allé,752 57,Uppsala
+Torgny Segerstedts allé,752 55,Uppsala
+Torgny Segerstedts allé,752 57,Uppsala
+Torgny Segerstedts allé,756 44,Uppsala
+Torgrt,137 97,Årsta Havsbad
+Torgöts väg,136 65,Söderby
+Torikatu,954 00,Tornio
+Torkels väg,437 34,Lindome
+Torkels väg,444 60,Stora Höga
+Torkils väg,192 73,Sollentuna
+Torkils väg,791 52,Falun
+Tormestorp,523 61,Gällstad
+Torniontie,956 00,Ylitornio
+Torniontie,956 45,Turtola
+Torniontie,993 00,Muonio
+Tornkroken,146 34,Tullinge
+Torp Köpcentrum,451 76,Uddevalla
+Torp,148 70,Sorunda
+Torp,331 92,Värnamo
+Torp,577 98,Mörlunda
+Torp,579 92,Högsby
+Torpa Millomgården,521 56,Floby
+Torpaplan,553 33,Jönköping
+Torpar Ömans väg,760 49,Herräng
+Torpe gränd,442 48,Kungälv
+Torphälla,705 97,Glanshammar
+Torprundan,373 54,Senoren
+Torsboda,860 35,Söråker
+Torsborg,193 91,Sigtuna
+Torsbyvegen,2218,Lundersæter
+Torslanda Torg,423 21,Torslanda
+Torslanda Torg,423 32,Torslanda
+Torsplan,113 64,Stockholm
+Torsten Alms Gata,126 51,Hägersten
+Torsten Mårtenssons gata,254 33,Helsingborg
+Torsvi Eldholmen,745 99,Enköping
+Torsvi Flakängen,745 99,Enköping
+Torsvi Hovgården,745 99,Enköping
+Torsvi Navsta,745 99,Enköping
+Torsviby,745 99,Enköping
+Torsviudd,745 99,Enköping
+Toruns väg,153 38,Järna
+Torvalds gata,533 33,Götene
+Torvalla by,831 92,Östersund
+Toröd Ängsvägen,471 92,Kållekärr
+Toröd,444 92,Jörlanda
+Tostarp,264 53,Ljungbyhed
+Tostebo,590 52,Nykil
+Tosterö Svedäng,645 93,Strängnäs
+Tott Elins väg,837 51,Åre
+Totties väg,392 34,Kalmar
+Tove Stenmästares väg,271 91,Ystad
+Tranbärsliden,656 35,Karlstad
+Tranviken,865 92,Alnlö
+Tranviken,865 92,Alnö
+Trappan,456 31,Kungshamn
+Trappnäs,845 91,Hallen
+Trastens väg,139 71,Stavsnäs
+Tre Bröders väg,261 61,Landskrona
+Tre Kronors Väg,131 31,Nacka
+Tre Kungars väg,125 35,Älvsjö
+Tre Rosors väg,523 36,Ulricehamn
+Tre Vänners väg,393 59,Kalmar
+Tre rosors väg,195 95,Rosersberg
+Tre rosors väg,523 33,Ulricehamn
+Tre rosors väg,523 33,Ulricehamn
+Trestenshällan,865 92,Alnö
+Trevik,149 92,Nynäshamn
+Trevna gränd,128 38,Skarpnäck
+Triangeln,211 43,Malmö
+Trillans väg,131 49,Nacka
+Trolle-Bondes gata,162 72,Vällingby
+Trolle-bondes gata 21,162 72,Vällingby
+Trollebo,781 97,Borlänge
+Trollets väg,653 45,Karlstad
+Trollnäs,790 23,Svärdsjö
+Trollrunan,423 46,Torslanda
+Trollåsen,931 91,Skellefteå
+Trollörtsbackarna,141 92,Huddinge
+Trolmen Norberga,533 94,Hällekis
+Trombonstråket,903 53,Umeå
+Trondheimsleden,837 97,Åre
+Trosterudveien,1950,Rømskog
+Trottatorp,286 74,Skånes Fagerhult
+Trubadurens Väg,393 59,Kalmar
+Trulsabygget,286 74,Skånes Fagerhult
+Trulshärad,242 96,Hörby
+Trumpetstråket,903 53,Umeå
+Tryggs väg,611 72,Stigtomta
+Tryggvasons gata,442 39,Kungälv
+Tryséns gränd,973 41,LULEÅ
+Tryséns gränd,973 41,Luleå
+Trädets Gård,516 92,Äspered
+Trädgårdsmästargången,254 51,Helsingborg
+Trädoktorns väg,395 93,Rockneby
+Träslända,571 93,Nässjö
+Trästad Kullen,593 76,Blackstad
+Trästad Strömstad,593 76,Blackstad
+Trästads Slottsmon,593 76,Blackstad
+Trättsbo,738 91,Norberg
+Trävattna Borrabo,521 56,Floby
+Trävattna Gåsebacken,521 56,Floby
+Trävattna Hagen,521 56,Floby
+Trävattna Händenestorp,521 56,Floby
+Trävattna Höstmärket,521 56,Floby
+Trävattna Kil,521 56,Floby
+Trävattna Lund,521 56,Floby
+Trävattna Långaberget,521 56,Floby
+Trävattna Mjölkared,521 56,Floby
+Trävattna Norra Höga,521 56,Floby
+Trävattna Skumme,521 56,Floby
+Trävattna Storegården,521 56,Floby
+Trävattna Tubbarp,521 56,Floby
+Trävattna Öjefors,521 56,Floby
+Trävändan,818 92,Valbo
+Trångsund,111 29,Stockholm
+Tråvad Kållegården,534 92,Tråvad
+Tråvad Solrosen,534 92,Tråvad
+Tullare Hög,442 90,Kungälv
+Tullstugan,195 92,Märsta
+Tumba torg,147 43,Tumba
+Tummelisas gata,168 72,Bromma
+Tummelisas väg,264 51,Ljungbyhed
+Tuna Kyrkby 9,611 95,Nyköping
+Tuna Torg,186 31,Vallentuna
+Tuna torg,185 31,Vallentuna
+Tuna torg,186 31,Vallentuna
+Tuna-Långsjön,864 91,Matfors
+Tunbyholm,273 98,Smedstorp
+Tunge,442 97,Kode
+Tungels väg,192 74,Sollentuna
+Tunhem Västergården,521 94,Falköping
+Tunholms väg,141 45,Huddinge
+Tunholms väg,141 62,Huddinge
+Tunnelgången,131 41,Nacka
+Tures väg,812 93,Kungsgården
+Turessons väg,663 33,Skoghall
+Tusbystråket,191 60,Sollentuna
+Tuskan,523 93,Marbäck
+Tutta uddsvägen,179 75,Skå
+Tuve Torg,417 45,Göteborg
+Tuve Torg,417 45,Göteborg
+Tuves väg,254 78,Domsten
+Tvillingarnas gata,136 63,Brandbergen
+Tvillingbackarna,193 31,Sigtuna
+Tvärred,523 94,Tvärred
+Tvärreds Hulu,523 94,Tvärred
+Tvärreds Skog,523 94,Tvärred
+Tvärreds hulu,523 94,Tvärred
+Två Bröders väg,393 58,Kalmar
+Två Systrars väg,393 57,Kalmar
+Tvåbackarbrinken,602 28,Norrköping
+Tvååkers Gata,432 76,Tvååker
+Tybble,696 96,Zinkgruvan
+Tycho Brahes Väg,352 64,Växjö
+Tycho Brahes gata,415 56,Göteborg
+Tycho Brahes väg,223 63,Lund
+Tyfors,770 10,Fredriksberg
+Tylla,781 92,Borlänge
+Tymans väg,663 42,Hammarö
+Tyra Lundgrens väg,134 40,Gustavsberg
+Tyra Lundgrens väg,134 52,Gustavsberg
+Tyras väg,373 54,Senoren
+Tyska Bottens Väg,168 41,Bromma
+Tyska Bottens väg,168 41,Bromma
+Tyska Brinken,111 27,Stockholm
+Tyska Bryggaregården,371 70,Karlskrona
+Tyskens väg,785 30,Gagnef
+Tysta Gatan,115 20,Stockholm
+Tysta Vägen,831 31,Östersund
+Tysta vägen,831 50,Östersund
+Tysta vägen,842 32,Sveg
+Tällsbyn,833 92,Strömsund
+Täppan,413 19,Göteborg
+Täppetleden,296 33,Åhus
+Tärenäs Östergård,573 97,Tranås
+Tärnells väg,139 34,Värmdö
+Tågåstorp,655 97,Molkom
+Tårrajaur,962 99,Jokkmokk
+Tåsta,705 97,Glanshammar
+Tåstorp Sikagården,521 91,Falköping
+Tåstorp,447 91,Vårgårda
+Tölöleden,434 39,Kungsbacka
+Törnbrinken,132 36,Saltsjö-Boo
+Törnebladhs väg,392 43,Kalmar
+Törnstens gränd,831 30,Östersund
+Töve,523 99,Hökerum
+Ubbes väg,291 65,Kristianstad
+Uckelsta,731 98,KÖPING
+Udda Lundqvists väg,268 31,Svalöv
+Uddarne Industriväg,455 35,Munkedal
+Uddarp,573 92,Tranås
+Udden,713 72,GYTTORP
+Uddens gränd,567 31,Vaggeryd
+Uddens väg,441 63,Alingsås
+Uddetorp Säteri,513 97,Borgstena
+Ugglebo,388 99,Påryd
+Ugglebo,388 99,Påryd
+Ugglegården,436 58,Hovås
+Ugglum Islanna,521 94,Falköping
+Ugglum Uppsala,521 94,Falköping
+Ulla-Britt Söderlunds väg,352 20,Växjö
+Ullas Lyckas väg,428 33,Kållered
+Ullbolsta,743 86,Bälinge
+Ullene Församlingshemmet,521 56,Floby
+Ullene-Åsaka Västergården,521 56,Floby
+Ullevi Nygården,646 93,Gnesta
+Ulls väg,751 89,Uppsala
+Ulls väg,756 51,Uppsala
+Ulls väg,756 51,Uppsala
+Ullvileden,731 36,Köping
+Ulva,755 93,Uppsala
+Ulvens gata,504 46,Borås
+Ulvkälla,842 35,Sveg
+Ulvsbo ERIKSBERG,573 92,Tranås
+Ulvsbo GRANLIDEN,573 92,Tranås
+Ulvsbo Lövholmen,573 92,Tranås
+Ulvsbo NORREGÅRD,573 92,Tranås
+Ulvsbo Södergård,573 92,Tranås
+Ulvsbo södergård,573 92,Tranås
+Ulvshyttan,781 96,Borlänge
+Ulvsryd Ekebo,355 94,Vederslöv
+Ulvsundaplan,167 33,Bromma
+Ulvåsa park,241 35,Eslöv
+Ulvön,893 99,Ulvöhamn
+Umbukta,8611,Mo i Rana
+Unamans Väg,352 34,Växjö
+Unbyn,961 93,Boden
+Ungärde,780 64,Lima
+Untra,815 93,Tierp
+Uppegårdsliden,426 69,Västra Frölunda
+Uppgränna Gästgivaregård,563 91,Gränna
+Uppgränna,563 91,Gränna
+Upplandsleden,801 03,Gävle
+Upplysningens väg,194 77,Upplands Väsby
+Uppvallen Bergfinken,840 85,Lofsdalen
+Uppvallen Ekorren,840 85,Lofsdalen
+Uppvallen Fjällripan,840 85,Lofsdalen
+Uppvallen Gråsiskan,840 85,Lofsdalen
+Uppvallen Gulärlan,840 85,Lofsdalen
+Uppvallen Lavskrikan,840 85,Lofsdalen
+Uppvallen Ljungpiparen,840 85,Lofsdalen
+Uppvallen Lövsångaren,840 85,Lofsdalen
+Uppvallen Mården,840 85,Lofsdalen
+Uppvallen Talltitan,840 85,Lofsdalen
+Uppvallen Trasten,840 85,Lofsdalen
+Uppvallen Vesslan,840 85,Lofsdalen
+Uppåkra Handelsområde,245 64,Hjärup
+Urban Hjärnes väg,168 58,Bromma
+Urheilukatu,954 00,Tornio
+Ursula Printz gata,134 51,Gustavsberg
+Ursviks Allé,174 66,Sundbyberg
+Ursviks allé,174 64,Sundbyberg
+Urås Strömvik,574 74,Ramkvilla
+Utrustningskajen,392 39,Kalmar
+Utsikten,134 62,Ingarö
+Uttringe Hages Väg,144 63,Rönninge
+Uvanå,683 91,Hagfors
+Uvnäs,791 91,Falun
+Uvsta Östergården 1,611 91,Nyköping
+VUOGGATJÅLME,938 94,Arjeplog
+Vackers väg,386 34,Färjestaden
+Vackeråsen,683 91,Hagfors
+Vackra Kullans väg,131 60,Nacka
+Vadstena,395 94,Rockneby
+Vaglen,455 96,Hedekas
+Vagnhärads torg,610 71,Vagnhärad
+Vakkermyra,7660,Vuku
+Vaksala Fridhem,755 94,Uppsala
+Vaktarbo,776 98,Garpenberg
+Vaktmästaregången,413 18,Göteborg
+Valfiskens gata,136 64,Haninge
+Valfrid Brodds väg,165 71,Hässelby
+Valhallaplan,952 31,Kalix
+Vall Kvie,621 93,Visby
+Valla Gårds Väg,746 93,Bålsta
+Valla torg,120 56,Årsta
+Vallamor,149 92,Nynäshamn
+Vallareleden,415 71,Göteborg
+Vallby Kroby,745 98,Enköping
+Vallentuna torg,186 31,Vallentuna
+Vallhamra Torg,433 65,Sävedalen
+Vallhamra torg,433 65,Sävedalen
+Vallhovskroken,811 37,Sandviken
+Vallkärra,225 91,Lund
+Vallmogången,831 61,Östersund
+Vallslingan,187 52,Täby
+Vallås Torg,302 58,Halmstad
+Valvgången,414 70,Göteborg
+Vammen,1765,Halden
+Vanadisplan,113 31,Stockholm
+Vandringen,134 65,Ingarö
+Vannsätter-tjärnberg,826 67,Söderhamn
+Varvskroken,392 30,Kalmar
+Vasa Kyrkoplan,411 27,Göteborg
+Vasaplan,111 20,Stockholm
+Vasaplan,776 30,Hedemora
+Vassunda,741 91,Knivsta
+Vattencirkeln,812 31,Storvik
+Vattenfronten Blankaholm,593 97,Blankaholm
+Vattenlinjen,417 64,Göteborg
+Vattensta,747 95,Gimo
+Vattentornet,663 31,Skoghall
+Vattlång 114,829 91,Ilsbo
+Vattumannens gata,136 62,Brandbergen
+Vavd,819 65,HÅLLNÄS
+Vavdstorpen,819 65,Hållnäs
+Vedeby gata,371 49,Karlskrona
+Vedeby gård,640 20,Björkvik
+Vedevågslingan,124 74,Bandhagen
+Vedins väg,373 65,Hasslö
+Vedum Rännagården,534 61,Vedum
+Vega Allé,136 47,Haninge
+Vega Allé,136 48,Handen
+Vega Allé,136 47,Haninge
+Vega Allé,136 55,Vega
+Vega Allé,136 56,Vega
+Vega Allé,136 57,Haninge
+Vega Allé,136 57,Vega
+Vega allé,136 58,Haninge
+Vega allé,136 47,Haninge
+Vega allé,136 57,Vega
+Vegby Camping,523 62,Vegby
+Vegby,523 62,Vegby
+Vegby,523 62,Vegby
+Vejdes plats,352 52,Växjö
+Vemdalsskalet Björnstigen,846 94,Vemdalen
+Vemdalsskalet Vargstigen,846 94,Vemdalen
+Vemmentorp,286 92,Örkelljunga
+Venngarn,193 91,Sigtuna
+Vera Sandbergs gata,341 31,Ljungby
+Verkarö,149 92,Nynäshamn
+Verkstadsgartan,441 57,Alingsås
+Vesaisenkatu,954 00,Tornio
+Vesene Stensätra,524 95,Ljung
+Vesljunga,282 69,Vittsjö
+Vetegången,416 76,Göteborg
+Vetegången,442 39,Kungälv
+Veteslingan,860 30,Sörberge
+Vettsta station,747 91,Alunda
+Veåsand,870 33,Docksta
+Via Lappia,980 10,Vittangi
+Viadukten,165 72,Hässelby
+Vibjörns väg,612 40,Finspång
+Viborgska Vägen,122 37,Enskede
+Vibyåsen,192 74,Sollentuna
+Vickes gränd,393 63,Kalmar
+Victor Balcks väg,122 40,Enskede
+Victor Balcks väg,122 44,Enskede
+Victor Folins väg,812 41,Gästrike-Hammarby
+Victor Hasselblads gata,421 31,Västra Frölunda
+Videbacksmåla,385 92,Gullabo
+Videdals torg,212 31,Malmö
+Videplan,981 43,Kiruna
+Vidholmsbackarna,165 72,Hässelby
+Vidingsjö By,587 39,Linköping
+Vikarbodarna,862 96,Njurunda
+Vikboplan,602 29,Norrköping
+Viken,842 97,Ytterhogdal
+Viken,843 96,Gällö
+Viken,843 96,Gällö
+Vikenborgsplan,662 36,Åmål
+Vikings väg,342 93,Hjortsberga
+Viksholmsvagen 16,761 74,Norrtälje
+Viksjöplan,175 45,Järfälla
+Viksjöplan,175 45,Stockholm
+Vikstens backe,139 60,Värmdö
+Viktor Karlssons väg,761 50,Norrtälje
+Viktor Rydbergs väg,182 62,Djursholm
+Viktor Setterbergs väg,423 38,Torslanda
+Viktoriaesplanaden,891 33,Örnsköldsvik
+Viktors gränd,521 72,Slutarp
+Vilans väg,556 31,Jönköping
+Vilhelm Haglunds väg,747 43,Gimo
+Vilhelm Mobergs gata,352 34,Växjö
+Vilhelm Mobergs gata,761 46,Norrtälje
+Vilhelmsro Egendom,521 40,Falköping
+Vilhelmsro Flygeln,521 40,Falköping
+Viljamsbol Skolan,683 95,Sunnemo
+Viljamsbol,683 95,Sunnemo
+Villa Parkudden,417 09,Göteborg
+Villa Strömsvik,461 59,Trollhättan
+Villav.,752 36,Uppsala
+Villavallen,424 32,Angered
+Villenpolku,994 50,Palojoensuu
+Vilske-Kleva Sofielund,521 94,Falköping
+Vimurs-Lisas väg,812 30,Storvik
+Vinamans Väg,352 34,Växjö
+Vinbäcksleden,732 49,Arboga
+Vincents väg,441 92,Alingsås
+Vindarnas väg,501 72,Motala
+Vindö Fiskartorpet,615 92,Valdermarsvik
+Vinkeltået,853 53,Sundsvall
+Vinstena Nykvarn,741 91,Knivsta
+Vinstena,741 91,Knivsta
+Violgången,831 61,Östersund
+Vipans Gränd,541 31,Skövde
+Vipelyckan,302 53,Halmstad
+Virdings allé,754 50,Uppsala
+Virum Tuna,598 96,Vimmerby
+Viska Storviksudden,919 93,Fredrika
+Vist Östergården,521 53,Floby
+Vist,523 90,Ulricehamn
+Vistorp Folkskolan,521 95,Kättilstorp
+Visättra backe,141 58,Huddinge
+Vita Lammets väg,393 59,Kalmar
+Vita Liljans Väg,127 34,Skärholmen
+Vita stigen,611 72,Stigtomta
+Vita stråket,413 46,Göteborg
+Vitormsgången,424 57,Gunnilse
+Vittangiplan,162 65,Vällingby
+Vittene bro,441 93,Alingsås
+Vittragången,424 57,Gunnilse
+Vittrans väg,653 45,Karlstad
+Viveka Seldahls gata,412 49,Göteborg
+Vivestanäset,613 41,Oxelösund
+Viviken,691 93,Karlskoga
+Vollmoveien,7882,Nordli
+Volrath Bergs väg,448 50,Tollered
+Volvo Jakobs väg,418 78,Göteborg
+Von Döbelns väg,521 60,Stenstorp
+Von Kraemers Allé,752 37,Uppsala
+Von Platens allé,256 57,Ramlösa
+Von Troils väg,213 73,Malmö
+Vougts väg,205 80,Malmö
+Vrana Säteri,697 94,Sköllersta
+Vrana,697 94,Sköllersta
+Vreta Gård,155 94,Nykvarn
+Vreta Gårds Väg,147 43,Tumba
+Vreta Gårds väg,147 43,Tumba
+Vretatorp,645 94,Strängnäs
+Vrå säteri,740 20,Vänge
+Vulcans väg,522 30,Tidaholm
+Väddö Skjutfält, Ytterskär,760 40,Väddö
+Väderleden,976 33,Luleå
+Vädurens gata,136 63,Brandbergen
+Vägen i dalen,247 97,Flyinge
+Vällingby Torg,162 65,Vällingby
+Vällingby torg,162 65,Vällingby
+Vällingbygången,162 65,Vällingby
+Vällingbyplan,162 13,Vällingby
+Vällingbyplan,162 65,Vällingby
+Vändkretsen,802 75,Gävle
+Vänmötet,414 70,Göteborg
+Vännäsgången,162 55,Vällingby
+Vänortsstråket,191 46,Sollentuna
+Vänsjö,388 99,Påryd
+Vänskapens väg,393 59,Kalmar
+Vänskapens väg,393 60,Kalmar
+Väpnarstråket,177 30,Järfälla
+Världens Ände,610 25,Vikbolandet
+Värmdöviks Dalgång,139 40,Värmdö
+Värmlands Bro Björkhult,661 93,Säffle
+Värmö,268 73,Billberga
+Värnäs,680 51,Stöllet
+Värsjö,286 74,Skånes Fagerhult
+Värsta allé,163 51,Spånga
+Väsar Fäbodväg,811 96,Årsunda
+Väsby,815 91,TIERP
+Väsmestorp Björkelund,521 56,Floby
+Väsmestorp Ekedal,521 56,Floby
+Väsmestorp Fagerlund,521 56,Floby
+Väsmestorp Lunnagärdet,521 56,Floby
+Väsmestorp Västergården,521 56,Floby
+Västanbäck,861 95,Söråker
+Västansjö,686 94,Rottneros
+Västansjö,781 91,Borlänge
+Västansjö,840 90,Ytterhogdal
+Västanvik Winterommes väg,793 92,Leksand
+Västanås,933 99,Arvidsjaur
+Västerbo kvarn,521 96,Falköping
+Västerflo,882 91,Långsele
+Västerhansjön,872 92,KRAMFORS
+Västerhejde Backskogsvägen,621 99,Visby
+Västerhejde Hallbrosvägen,622 61,Visby
+Västerled,167 55,Bromma
+Västerled,167 73,Bromma
+Västerled,192 73,Sollentuna
+Västerled,245 64,Hjärup
+Västerled,811 37,Sandviken
+Västerled,811 50,Sandviken
+Västerleden,139 36,Värmdö
+Västerleden,574 39,Vetlanda
+Västerleden,574 41,Vetlanda
+Västerleden,633 46,Eskilstuna
+Västerleden,745 62,Enköping
+Västerleds Kyrkväg,167 55,Bromma
+Västerport,136 47,Haninge
+Västerro,855 90,Sundsvall
+Västerrå,880 31,Resele
+Västerrå,881 96,Västerrå
+Västersidan Aludden,542 91,Torsö
+Västerstad,242 97,Hörby
+Västersälja,740 46,Östervåla
+Västertåsjö,833 91,Norråker
+Västervångskolan,261 61,Landskrona
+Västerå,860 35,Söråker
+Västgötaresan,757 54,Uppsala
+Västra Allén,852 37,Sundsvall
+Västra Armasjärvi,957 91,Övertorneå
+Västra Arödsgatan,422 43,Hisings Backa
+Västra Bangatan,703 54,Örebro
+Västra Banvägen,184 50,Åkersberga
+Västra Basvägen,612 36,Finspång
+Västra Bodarnevägen,441 60,Alingsås
+Västra Bondersbyn,952 92,Kalix
+Västra Borgarhögsvägen,253 75,Helsingborg
+Västra Boulevarden,291 32,Kristianstad
+Västra Boulevarden,291 31,Kristianstad
+Västra Bovägen,452 04,Nordkoster
+Västra Bredaviksvägen,373 66,Hasslö
+Västra Brogatan,972 45,Luleå
+Västra Brunnsmästaregatan,256 54,Ramlösa
+Västra Bryggan,452 04,Nordkoster
+Västra Bräckevägen,418 77,Göteborg
+Västra Börjelsbyn,952 92,Kalix
+Västra Dampegatan,395 93,Rockneby
+Västra Drottningvägen,522 30,Tidaholm
+Västra Ekbacksvägen,139 54,Värmdö
+Västra Ekedalsvägen,132 36,Saltsjö-Boo
+Västra Enbacken,705 97,Glanshammar
+Västra Esplanaden,352 31,Växjö
+Västra Esplanaden,352 31,Växjö
+Västra Esplanaden,903 25,Umeå
+Västra Esplanaden,903 25,Umeå
+Västra Esplanaden,953 24,Haparanda
+Västra Gautosjö,938 93,LAISVALL
+Västra Hoting,830 80,Hoting
+Västra Lakullen,430 84,Styrsö
+Västra Massgodskajen,252 25,Helsingborg
+Västra Norrfors,905 93,Umeå
+Västra Norrfros,905 93,Umeå
+Västra Pallakka,957 95,Hedenäset
+Västra Promenaden,567 33,Vaggeryd
+Västra Raden,652 27,Karlstad
+Västra Sannegårdskajen,417 60,Göteborg
+Västra Sannegårdskajen,417 60,Göteborg
+Västra Skräddargården,621 53,Visby
+Västra Spång,286 92,Örkelljunga
+Västra Stationstorget,222 37,Lund
+Västra Strandpromenaden,553 11,Jönköping
+Västra Tallstigen,236 42,Höllviken
+Västra Torp,444 60,Stora Höga
+Västra Vadje,685 93,Torsby
+Västra Varmvattnet,922 67,Umeå
+Västra Varmwattnet,922 67,Tavelsjö
+Västra Vägen,824 40,Hudiksvall
+Västra allén,254 51,Helsingborg
+Västra gatan,442 31,Kungälv
+Västra gatan,442 31,Kungälv
+Västra gatan,819 66,Lövstabruk
+Västra porten,442 51,Ytterby
+Västra tvärgången,254 52,Helsingborg
+Västra täckeråkers väg,136 47,Haninge
+Västra vägen,302 65,Halmstad
+Västra vägen,455 61,Dingle
+Västra vägen,475 42,Hönö
+Västra vägen,475 42,Hönö
+Västra vägen,582 34,Linköping
+Västra vägen,590 37,Kisa
+Västra vägen,803 24,Gävle
+Västra vägen,812 41,Gästrike-Hammarby
+Västra vägen,812 41,Gästrike-Hammarby'
+Västra vägen,852 34,Sundsvall
+Västra vägen,857 40,Sundsvall
+Västra vägen,857 51,Sundsvall
+Västraby allé,254 70,Kattarp
+Västraby,561 63,Tenhult
+Västtorp Aftonsjön,521 53,Floby
+Västtorp Biskopsgården,521 53,Floby
+Västtorp Bryngelsgården,521 53,Floby
+Västvattnet,880 40,Ramsele
+Vättersmålen,563 93,Gränna
+Vättlösa Stora Fårvallsslätten,533 91,Götene
+Vävar Johans Gata,120 68,Stockholm
+Vävar Johans Gata,120 69,Stockholm
+Vävar Johans Gata,120 70,Stockholm
+Väylänrannantie,994 50,Palojoensuu
+Vågens gata,136 61,Brandbergen
+Våldalen,655 91,Karlstad
+Våle,860 35,Söråker
+Vålegård,860 35,Söråker
+Vålådalen,830 12,Vålådalen
+Vångaskolan,617 90,Skärblacka
+Vårby Allé,143 30,Vårby
+Vårby allé,143 30,Vårby
+Vårby gränd,702 28,Örebro
+Vårby,892 92,Domsjö
+Vårdcentralen,747 43,Gimo
+Vårelden,393 59,Kalmar
+Vårfrukyrka,745 95,Enköping
+Vårgårda herrgård,447 91,Vårgårda
+Våruddsringen,127 41,Skärholmen
+Vörderås,780 68,Transtrand
+V�stra R�nneholmsv�gen,217 41,Malmö
+Wachtmeisters väg,252 84,Helsingborg
+Wadströms väg,153 31,Järna
+Wallius väg,134 31,Gustavsberg
+Warfvinges Väg,112 51,Stockholm
+Warholms väg,224 65,Lund
+Warodells väg,521 40,Falköping
+Westerdahls gata,131 54,Nacka
+Wiboms väg,171 60,Solna
+Widéns väg,295 74,Näsum
+Wilhelm Haglunds väg,747 43,Gimo
+Wilhelm Kruses väg,462 61,Vänersborg
+Wilhelm Kåges gata,134 51,Gustavsberg
+Wilhelm Petris väg,574 32,Vetlanda
+Wilhelminas väg,812 30,Storvik
+Winborgs väg,131 60,Nacka
+Winges väg,139 60,Värmdö
+Winklers väg,236 42,Höllviken
+Wirséns väg,426 71,Västra Frölunda
+Wirséns väg,718 91,FRÖVI
+Wittes väg,138 34,Älta
+Wolkes väg,236 42,Höllviken
+Wärjas väg,981 92,Kiruna
+Wåhlstedts väg,685 33,Torsby
+Ylinenjoki,957 92,Övertorneå
+Ymers gata,215 35,Malmö
+Ymers gata,215 36,Malmö
+Yngve Östbergs väg,272 31,Simrishamn
+Yngves väg,523 94,Tvärred
+Ytterby Torg,442 50,Ytterby
+Yttereneby,153 91,Järna
+Ytterspåret,187 54,Täby
+Yttersätra,783 92,Stora Skedvi
+Yttervik,931 91,Skellefteå
+Yttre Svärdsjö,781 91,Borlänge
+Yttre Vång Liaberg,523 92,Timmele
+Yxenhult,286 74,Skånes Fagerhult
+Yxlö,148 91,Ösmo
+Yxnavall,576 91,Sävsjö
+Yxskaftkälen,833 92,Strömsund
+Yxskaftkälen,833 92,Strömsund
+Yxskäret,865 92,Alnö
+Yås,565 97,Bottnaryd
+Zachaus gränd,451 30,Uddevalla
+Zakrisdalsudden,653 38,Karlstad
+Zenithgården,423 55,Torslanda
+Zettergrens väg,791 77,Falun
+Zinkens Väg,117 41,Stockholm
+björkudden 1,982 60,Porjus
+bäck,686 92,Sunne
+c,437 92,Lindome
+de Wijks väg,612 30,Finspång
+dragongate,814 95,Älvkarleby
+fritjof thuns väg,184 31,Åkersberga
+fågeldammen,432 95,Varberg
+gruvan,695 94,Finnerödja
+hamm,352 44,Växjö
+helena öhmans väg,921 36,Lycksele
+kvarnagård,342 53,Lönashult
+mosekrog,393 65,Kalmar
+rudsta,660 52,Edsvalla
+sjöarp,335 91,Gnosjö
+skillinge,860 35,Söråker
+södra nissastigen,333 93,skeppshult
+tofta ansarve,622 55,Gotlands Tofta
+unset,741 43,Knivsta
+von Kraemers allé,752 37,Uppsala
+von Liewens väg,574 39,Vetlanda
+von Posts väg,151 39,Södertälje
+ÄSPESTA,195 93,Märsta
+Äkrom,857 51,Sundsvall
+Älgplatån,132 36,Saltsjö-Boo
+Älgslingan,134 63,Ingarö
+Älgstråket,831 42,Östersund
+Älgstråket,840 95,Funäsdalen
+Älgtrampet,593 74,Gunnebo
+Älgånäs,660 57,Väse
+Älva,865 33,Alnö
+Älva,865 91,Alnö
+Älvaleken,413 19,Göteborg
+Älvans väg,907 50,Umeå
+Älvbrinken,652 25,Karlstad
+Älvgården,776 90,Hedemora
+Älvros Mon,842 93,Sveg
+Älvsborgsplan,414 71,Göteborg
+Älvsjö Stationsplan,125 34,Älvsjö
+Älvsjö Torg,125 31,Älvsjö
+Älvsjö Torg,125 34,Älvsjö
+Älvsjö torg 4,125 31,Älvsjö
+Ändebol Nybygget,641 92,Katrineholm
+Ändlyckan,430 85,Brännö
+Äng,578 94,Aneby
+Ängabo,523 61,Gällstad
+Ängby torg,168 56,Bromma
+Ängbyhöjden,168 50,Bromma
+Ängemarken,413 20,Göteborg
+Ängskär,819 65,Hållnäs
+Ängsliden,254 78,Domsten
+Ängsliden,521 32,Falköping
+Ängsvik allé,134 65,Ingarö
+Ängsö,523 62,Vegby
+Ängås Gård,421 47,Västra Frölunda
+Äntsebo,577 77,Järnforsen
+Ärna BJÖRKBY,755 94,Uppsala
+Ärna Björkby,755 94,Uppsala
+Ärna Ekhammar,633 47,Eskilstuna
+ÅVINGE KVARN,147 91,Grödinge
+Åbovegen,7660,Vuku
+Åbranten,424 55,Angered
+Åbrinken,395 93,Rockneby
+Åbrinken,424 55,Angered
+Åbrinken,713 72,GYTTORP
+Åby allé,431 45,Mölndal
+Åby,697 94,Sköllersta
+Åbyplan,137 34,Västerhaninge
+Åflo,835 97,Offerdal
+Ågesta Gård, Magasinet,123 52,Farsta
+Ågesta Orlångsjötorp,123 52,Farsta
+Ågesta Orlångsjöudde,123 52,Farsta
+Åhströms väg,683 93,Råda
+Åhströms väg,683 93,Råda
+Åhällans väg,264 34,Klippan
+Åkanten,424 55,Angered
+Åkanten,852 37,Sundsvall
+Åkarpelles väg,139 34,Värmdö
+Åker,462 93,Vänersborg
+Åkerby,819 61,SKÄRPLINGE
+Åkermanskulle,802 67,Gävle
+Åkertä,818 92,Valbo
+Åkroken,197 93,Bro
+Ålands-Österby,755 77,Vänge
+Åldermans väg,521 92,Falköping
+Ålfors,815 91,Tierp
+Ålhult,593 76,Blackstad
+Ålhults gård,593 76,Blackstad
+Åliden,424 55,Angered
+Ålshult,360 10,Ryd
+Ålviken,835 62,Föllinge
+Ånaryd,563 93,Gränna
+Ångaren Ediths gata,417 60,Göteborg
+Ångaren Ernas gata,417 60,Göteborg
+Ångaren Figges gata,417 60,Göteborg
+Ångaren Indias gata,417 60,Göteborg
+Ångbåtsbryggan,805 95,Gävle
+Åninge,598 94,Vimmerby
+Ånn,830 15,Duved
+Ånsta,705 93,Örebro
+Åraryd,563 93,Gränna
+Åre Strand,830 13,Åre
+Åre Strand,837 52,Åre
+Åre strand,830 13,Åre
+Årenäs Stranden,439 72,Fjärås
+Årosjokk,981 99,Kiruna
+Årsta Torg,120 54,Årsta
+Årstidernas park,903 26,Umeå
+Årydström,570 12,Landsbro
+Ås,865 91,Alnö
+Åsa Gåsapigas väg,653 46,Karlstad
+Åsan,832 97,Mörsil
+Åsan,837 92,Mörsil
+Åsarna,472 91,Stillingsön
+Åsbo,744 91,Heby
+Åsby,432 68,Veddige
+Åsby,432 68,Veddige
+Åsen Åsgläntan,635 37,Ärla
+Åsen,641 62,Valla
+Åsen,682 40,Filipstad
+Åsen,783 95,Gustafs
+Åsenliden,430 82,Donsö
+Åsens Kvarn,812 93,Kungsgården
+Åsjön,915 92,Robertsfors
+Åskogen 8A,961 91,Boden
+Åskogen 8B,961 91,Boden
+Åskogen 8C,961 91,Boden
+Åsle Bånggården,521 91,Falköping
+Åstorpsringen,121 31,Enskede
+Åstorpsringen,121 31,Enskededalen
+Åsundsholms Herrgård,523 62,Vegby
+Åséns väg,860 25,Kovland
+Återgången,831 61,Östersund
+Åtjennet,2240,Magnor
+Åtorp,693 94,Åtorp
+Åtorps Udde,443 31,Lerum
+Åttersta Hytta,812 93,Kungsgården
+ÖSK-vägen,831 43,Östersund
+ÖSK-vägen,831 58,Östersund
+Öbnebo,610 25,Vikbolandet
+Öde,860 35,Söråker
+Ödenäs Mellomgården,441 95,Alingsås
+Ödenäs skola,441 95,Alingsås
+Ödeviken,860 35,Söråker
+Ödshult brände,574 91,Vetlanda
+Öggestorp,560 30,Tenhult
+Öhmans väg,134 52,Gustavsberg
+Ökna Bro,641 97,Katrineholm
+Ökna-Kulla,574 55,Kvillsfors
+Ölanda Gycklartorp,524 93,Herrljunga
+Ölandskajen,392 31,Kalmar
+Ölme Arnestorp,681 94,Kristinehamn
+Ön,864 91,Matfors
+Önnereds Brygga,421 57,Västra Frölunda
+Önsvala allé,245 43,Staffanstorp
+Öppom,861 93,Ljustorp
+Örkroken,138 40,Älta
+Örkroken,138 40,Älta
+Örle Mellangård,578 93,Aneby
+Örle Västergård,578 93,Aneby
+Örle Östergård,578 93,Aneby
+Örnehuvuds väg,213 62,Malmö
+Örnens väg,136 37,Handen
+Örnens väg,136 39,Handen
+Örtofta,241 93,Eslöv
+Öråker Smedjan,196 93,Kungsängen
+Öråker,857 51,Sundsvall
+Ösby torg,134 42,Gustavsberg
+Ösby,186 97,Brottby
+Ösjönäs,695 97,Tived
+Öslands Gärde,443 60,Stenkullen
+Össby,386 64,Degerhamn
+Östads Säteri,441 91,Alingsås
+Östansjö,905 93,Umeå
+Östanskär,860 40,Indal
+Öster Mälarstrands Allé,721 31,Västerås
+Öster Mälarstrands Allé,723 56,Västerås
+Öster Mälarstrands allé,723 56,Västerås
+Öster-Ekeby,748 94,ÖRBYHUS
+Öster-Spannsjön,881 93,SOLLEFTEÅ
+Österbacka,922 67,Tävelsjö
+Österbo,791 92,Falun
+Österby,153 92,Hölö
+Österdälje,855 90,Sundsvall
+Österdälje,864 91,Matfors
+Östergårdsplan,507 60,Borås
+Österholm,682 40,Filipstad
+Österled,245 64,Hjärup
+Österled,681 43,Kristinehamn
+Österled,732 45,Arboga
+Österleden,134 67,Ingarö
+Österleden,142 42,Skogås
+Österleden,253 62,Helsingborg
+Österleden,254 64,Helsingborg
+Österleden,256 66,Helsingborg
+Österleden,261 51,Landskrona
+Österleden,271 42,Ystad
+Österleden,271 60,Ystad
+Österleden,311 38,Falkenberg
+Österleden,641 49,Katrineholm
+Österleden,691 52,Karlskoga
+Österleden,754 40,Uppsala
+Österleden,981 38,Kiruna
+Österleden,981 38,Kiruna
+Östermans väg,139 73,Djurhamn
+Österplan,570 12,Landsbro
+Österro,857 52,Sundsvall
+Österunda Brunnsta,749 72,Fjärdhundra
+Österunda Ledsberga,749 72,Fjärdhundra
+Österunda Paddebo,749 72,Fjärdhundra
+Österunda Sonkarby,749 72,Fjärdhundra
+Österunda-Broby,749 72,Fjärdhundra
+Österunda-Brunnsta,749 72,Fjärdhundra
+Österunda-Åby skola,749 72,Fjärdhundra
+Österunda-Åby,749 72,Fjärdhundra
+Östervik,691 94,Karlskoga
+Östervångsplan,261 44,Landskrona
+Österå,905 94,Umeå
+Österöd,454 95,Brastad
+Östfora,744 97,Järlåsa
+Östkärna,785 60,Djurås
+Östra Borstatorp,361 93,Broakulla
+Östra Boulevarden,291 31,Kristianstad
+Östra Enbacken,705 97,Glanshammar
+Östra Esplanaden,343 33,Älmhult
+Östra Esplanaden,343 31,Älmhult
+Östra Esplanaden,382 34,Nybro
+Östra Esplanaden,576 32,Sävsjö
+Östra Flor,826 93,Söderhamn
+Östra Gerum Liden,522 92,Tidaholm
+Östra Hamnplan,236 41,Höllviken
+Östra Hovlanda Hova,663 91,Hammarö
+Östra Järnvägsesplanaden,972 42,Luleå
+Östra Kalset Västergård,333 93,Skeppshult
+Östra Kyrkallén,982 32,Gällivare
+Östra Lyckan,302 51,Halmstad
+Östra Odarslöv,225 92,Lund
+Östra Promenaden,211 28,Malmö
+Östra Promenaden,602 29,Norrköping
+Östra Rännevallen,592 32,Vadstena
+Östra Skräddargården,621 53,Visby
+Östra Spöland,911 92,Vännäs
+Östra Stationstorget,244 44,Kävlinge
+Östra Stocksbo,827 63,Färila
+Östra Tunhem Skräddaregården,521 94,Falköping
+Östra Tunhem Stommen,521 94,Falköping
+Östra Vägen,577 72,Virserum
+Östra Vålådalen 120,830 12,Vålådalen
+Östra allén,254 51,Helsingborg
+Östra gärdets gatan,541 66,Skövde
+Östra hamnen,475 42,Hönö
+Östra raden,652 27,Karlstad
+Östra vägen,262 80,Ängelholm
+Östra vägen,455 61,Dingle
+Östra Årena,570 81,Järnforsen
+Öströö,432 77,Tvååker
+Östtjärna,785 60,Djurås
+Östtjärna,785 60,Djurås
+Överbacka,785 61,Djurås
+Överby Köpcentrum,461 70,Trollhättan
+Överby gård,755 92,Uppsala
+Övergård,881 93,Sollefteå
+Överhogdal Mon,842 97,Ytterhogdal
+Överhogdal Villa,842 97,Överhogdal
+Överhogdal,842 97,Ytterhogdal
+Överhärdeåsen,818 91,Valbo
+Överkovland,860 25,Kovland
+Överste von Rosens Gata,694 34,Hallsberg
+Övre Alpen,830 13,Åre
+Övre Fjällstigen,433 76,Partille
+Övre Hoga,472 96,Varekil
+Övre Hövik,430 84,Styrsö
+Övre Kaserngården,415 28,Göteborg
+Övre Skogsbacken,449 51,Alafors
+Övre Ströms väg,424 71,Olofstorp
+Övre Svartlå,961 98,Boden
+Öxnäs Mellangård,423 73,Säve
+årosjokk,981 99,Kiruna
+årosjokk,981 99,kiruna
+östanåkrav,342 62,Moheda
+östervik,681 95,Kristinehamn
