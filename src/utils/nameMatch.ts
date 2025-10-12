@@ -82,7 +82,11 @@ export function nameMatch(input: string): string | null {
   return null;
 }
 
-export function maskNamesInText(text: string, maskedValues: any): string {
+export function maskNamesInText(
+  text: string,
+  maskedValues: any,
+  idCounters: { [key: string]: number }
+): string {
   return text.replace(
     /(?<![("\['’])\b([A-ZÅÄÖÉ][a-zåäöäöéé]+)\b(?:\s+\b([A-ZÅÄÖÉ][a-zåäöäöéé]+)\b)?(?![)"\]'’])/g,
     (match, p1, p2) => {
@@ -96,22 +100,30 @@ export function maskNamesInText(text: string, maskedValues: any): string {
           if (first && last) {
             maskedValues["PER_FIRST"] = maskedValues["PER_FIRST"] || [];
             maskedValues["PER_LAST"] = maskedValues["PER_LAST"] || [];
-            maskedValues["PER_FIRST"].push(first);
-            maskedValues["PER_LAST"].push(last);
-            return "<PER_FIRST> <PER_LAST>";
+            idCounters["PER_FIRST"] = (idCounters["PER_FIRST"] || 1);
+            idCounters["PER_LAST"] = (idCounters["PER_LAST"] || 1);
+            const firstId = `PER_FIRST_${idCounters["PER_FIRST"]++}`;
+            const lastId = `PER_LAST_${idCounters["PER_LAST"]++}`;
+            maskedValues["PER_FIRST"].push({ id: firstId, value: first });
+            maskedValues["PER_LAST"].push({ id: lastId, value: last });
+            return `<${firstId}> <${lastId}>`;
           }
         }
       }
       // Fallback: check single word as first or last name, only if 1:1 match and capitalized
       if (firstNamesSet.has(p1)) {
         maskedValues["PER_FIRST"] = maskedValues["PER_FIRST"] || [];
-        maskedValues["PER_FIRST"].push(p1);
-        return "<PER_FIRST>";
+        idCounters["PER_FIRST"] = (idCounters["PER_FIRST"] || 1);
+        const firstId = `PER_FIRST_${idCounters["PER_FIRST"]++}`;
+        maskedValues["PER_FIRST"].push({ id: firstId, value: p1 });
+        return `<${firstId}>`;
       }
       if (lastNamesSet.has(p1)) {
         maskedValues["PER_LAST"] = maskedValues["PER_LAST"] || [];
-        maskedValues["PER_LAST"].push(p1);
-        return "<PER_LAST>";
+        idCounters["PER_LAST"] = (idCounters["PER_LAST"] || 1);
+        const lastId = `PER_LAST_${idCounters["PER_LAST"]++}`;
+        maskedValues["PER_LAST"].push({ id: lastId, value: p1 });
+        return `<${lastId}>`;
       }
       return match;
     }
