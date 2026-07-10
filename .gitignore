@@ -38,3 +38,5 @@ next-env.d.ts
 data/raw/sweden-latest.osm.pbf
 
 python/
+# library build
+/dist

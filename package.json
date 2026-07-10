@@ -1,24 +1,71 @@
 {
   "name": "swedish-pii",
-  "version": "1.1.0",
-  "private": true,
+  "version": "1.2.0",
+  "description": "Detection & masking of Personal Identifiable Information (PII) in Swedish text",
+  "license": "MIT",
+  "author": "okasi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okasi/swedish-pii.git"
+  },
+  "homepage": "https://github.com/okasi/swedish-pii#readme",
+  "bugs": {
+    "url": "https://github.com/okasi/swedish-pii/issues"
+  },
+  "keywords": [
+    "pii",
+    "swedish",
+    "sweden",
+    "masking",
+    "anonymization",
+    "personnummer",
+    "gdpr",
+    "data-protection",
+    "ner"
+  ],
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.28"
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build:lib": "tsup",
+    "verify": "npm run lint && npm run typecheck && npm test && npm run build:lib",
+    "prepublishOnly": "npm run verify"
   },
   "devDependencies": {
-    "typescript": "5.5.4",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.2.28",
+    "next": "14.2.28",
     "postcss": "^8",
-    "tailwindcss": "3.4.17"
+    "react": "^18",
+    "react-dom": "^18",
+    "tailwindcss": "3.4.17",
+    "tsup": "^8.5.1",
+    "typescript": "5.5.4",
+    "vitest": "^2.1.9"
   }
 }
