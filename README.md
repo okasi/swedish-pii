@@ -1,6 +1,88 @@
 # 🇸🇪 Swedish PII Detection
 
-Detects Personal Identifiable Information (PII) in Swedish text
+Detects and masks Personal Identifiable Information (PII) in Swedish text.
+
+**▶ Try it live: <https://okasi.github.io/swedish-pii/>** — everything runs
+in your browser; text never leaves the page.
+
+Given free text, the engine finds names, identity numbers, addresses, financial
+data, contact details and sensitive attributes, and replaces each occurrence
+with a stable placeholder:
+
+```text
+Anna Andersson bor på Storgatan 12, 114 55 Stockholm. Pnr 811218-9876.
+→
+<PER_FIRST_1> <PER_LAST_1> bor på <SE_STREET_ADDRESS_1>, <SE_POSTAL_CODE_1> Stockholm. Pnr <SE_PERSONAL_IDENTITY_NUMBER_MALE_1>.
+```
+
+---
+
+## 🚀 Quick Start
+
+```zsh
+npm install
+npm run dev          # demo UI at http://localhost:3000
+npm test             # run the test suite
+```
+
+### 📦 Library Usage
+
+The core lives in [`src/lib`](src/lib/index.ts), has no framework
+dependencies, and ships as the `swedish-pii` npm package (ESM + CJS +
+TypeScript types, datasets bundled in — zero runtime dependencies):
+
+```zsh
+npm install swedish-pii
+```
+
+```ts
+import { maskPII, detectPII } from "swedish-pii"; // or "@/lib" inside this repo
+
+const { maskedText, maskedData, entities } = maskPII(text);
+// entities carry exact { start, end } offsets and a confidence `score`
+
+// Presidio-style confidence: checksum-validated matches score ~0.95,
+// gazetteer hits ~0.85–0.9, plain shapes ~0.6, failed checksums ~0.45,
+// context-starved shapes ~0.25. Tune the cutoff per use case:
+maskPII(text, { scoreThreshold: 0.2 }); // recall-first (e.g. raw CSV columns)
+maskPII(text, { scoreThreshold: 0.9 }); // precision-first
+
+// Strict mode drops anything that fails its checksum (Luhn for cards,
+// personnummer and org numbers; mod-97 for IBANs) or calendar check:
+const strict = maskPII(text, { strict: true });
+```
+
+### 🌐 HTTP API
+
+```zsh
+curl -X POST localhost:3000/api/mask \
+  -H 'Content-Type: application/json' \
+  -d '{"text": "Anna bor i Åre kommun", "strict": false, "scoreThreshold": 0.4}'
+```
+
+Returns `{ maskedText, maskedData, entities }` (each entity carries a
+confidence `score`).
+
+### ⚙️ How It Works
+
+Every detector runs against the **original** text and yields entity spans
+with a confidence score (Presidio-style: validators always run and adjust
+the score, context cues boost or dim it, and `scoreThreshold` decides what
+survives). Overlapping spans are resolved by detector priority (most
+specific first — e.g. a personnummer wins over the generic bank-account
+pattern), then the masked text is built in a single pass. Detectors never
+see each other's placeholders, so masked output can't be corrupted by
+later patterns. Patterns — including the large list-based alternations —
+are compiled once and reused, so throughput stays in the MB/s range
+(~0.1 ms per short text, ~15 ms for a 100 kB document).
+
+Names are matched against the SCB name lists: "First Last" pairs are
+fuzzy-matched with Jaro–Winkler (length-bucketed and memoized), single
+capitalized words by exact lookup. Compound given names absent from the
+list ("Ecenur" = Ece + Nur) are recognized by decomposing them into two
+registered same-gender names, using tail-suffixes learned from the name
+data itself — guarded by stopword, morpheme and place-name exclusions so
+prose words ("Engine", "Semester") never decompose.
 
 ---
 
@@ -93,6 +175,9 @@ Detects Personal Identifiable Information (PII) in Swedish text
 
 </details>
 
+For the exact label emitted per category (e.g. `PER_FIRST`, `SE_BANK_NUMBER`,
+`MARITAL_STATUS`), see [Detector Labels](#-detector-labels) below.
+
 ## 🛣️ Roadmap
 
 - Patterns for:
@@ -105,8 +190,8 @@ Detects Personal Identifiable Information (PII) in Swedish text
   - Labor Unions (LABOR_UNION) <https://webperf.se/category/fackforeningar/> 💪
 - Reduce false positives
 - Improve performance & simplify
-- Comprehensive tests
-- Make it to a npm package (library)
+- ~~Comprehensive tests~~ ✅ (`npm test`, 67 tests across detectors, validators, matching, and the engine)
+- ~~Make it to a npm package (library)~~ ✅ (`npm run build:lib`, publish with `npm publish`)
 - Make a documentation page (frontend)
 
 ---
@@ -147,6 +232,24 @@ Detects Personal Identifiable Information (PII) in Swedish text
 ---
 
 ## 🗺️ Extracting Data from OpenStreetMap via Osmium
+
+All of the commands below are also wrapped in
+[`scripts/extract-osm-data.sh`](scripts/extract-osm-data.sh), which downloads
+and caches `sweden-latest.osm.pbf` automatically, validates each output
+before overwriting the previous file, and cleans up all intermediates:
+
+```zsh
+scripts/extract-osm-data.sh              # everything
+scripts/extract-osm-data.sh counties     # or one dataset:
+                                          # counties | cities | municipalities
+                                          # | areas | streets
+```
+
+The `streets` target also derives `data/streets.json` (unique street
+names), which powers the exact-lookup part of the `SE_STREET_ADDRESS`
+detector.
+
+The raw commands it runs are documented here for reference:
 
 ### 🛠️ Install Tools via Homebrew
 
@@ -282,3 +385,81 @@ rm addresses.osm.pbf addresses.geojson
 
 - All allowed characters in names:
 <https://skatteverket.se/privat/folkbokforing/namn.4.18e1b10334ebe8bc80004083.html#Accordionrubrik>
+
+---
+
+## 🏷️ Detector Labels
+
+| Category | Labels |
+| --- | --- |
+| 👤 Names | `PER_FIRST`, `PER_LAST` |
+| 🆔 Identity numbers | `SE_PERSONAL_IDENTITY_NUMBER_MALE/FEMALE`, `SE_COORDINATION_NUMBER_MALE/FEMALE` |
+| 💳 Financial | `AMEX_CREDIT_CARD`, `MASTERCARD_CREDIT_CARD`, `VISA_CREDIT_CARD`, `IBAN_CODE`, `BIC_CODE`, `SE_BANK_NUMBER` |
+| 📞 Contact | `EMAIL_ADDRESS`, `PHONE_NUMBER`, `SOCIAL_MEDIA` |
+| 📍 Location | `SE_STREET_ADDRESS`, `SE_POSTAL_CODE`, `SE_MUNICIPALITY`, `SE_COUNTY` |
+| 🏢 Work / education | `SE_WORK_ORGANIZATION`, `SE_EDUCATION_ORGANIZATION`, `SE_EDUCATION_PROGRAM`, `SE_WORK_PROFESSION`, `SE_ORGANIZATION_NUMBER` |
+| 🔒 Sensitive attributes | `MARITAL_STATUS`, `GENETIC_SEX`, `DISABILITY`, `RELIGION`, `SEXUAL_ORIENTATION`, `DEMOGRAPHIC`, `POLITICAL_IDEOLOGIES` |
+| 🧩 Misc | `SE_LICENSE_PLATE`, `IP_ADDRESS`, `MAC_ADDRESS`, `DATE`, `TIME` |
+
+---
+
+## 🗂️ Project Layout
+
+```
+src/lib/            framework-free detection & masking core
+  engine.ts         span-based masking engine + detector priority order
+  detectors/        one module per category
+  validation/       Luhn checksums, calendar-date validation
+  matching/         Jaro–Winkler similarity
+src/app/            Next.js demo UI + POST /api/mask route
+data/               name/profession/program lists (SCB, Arbetsförmedlingen)
+data/raw/           location datasets extracted from OpenStreetMap
+scripts/            data extraction pipeline
+tests/              vitest suite
+```
+
+## 🧑‍💻 Development
+
+```zsh
+npm run dev          # dev server
+npm test             # tests (vitest)
+npm run test:watch   # tests in watch mode
+npm run typecheck    # tsc --noEmit
+npm run lint         # eslint
+npm run build        # production build
+```
+
+CI runs lint, typecheck, tests and the build on every push and PR
+([.github/workflows/ci.yml](.github/workflows/ci.yml)).
+
+## ⚠️ Known Limitations
+
+- Regex + list lookup, not NLP: single capitalized words that happen to be
+  registered names are masked even out of name context. Several precision
+  mechanisms keep this in check:
+  - a stoplist of ~90 function words ("Vi", "Han", "Men" and "The" are
+    all registered SCB names);
+  - **context gating** — low-structure patterns only fire near a cue:
+    bank numbers need "konto"/"bank"/"account" nearby, BICs need
+    "BIC"/"SWIFT", postal codes need an address cue or a following
+    capitalized place name ("114 55 Stockholm");
+  - BIC/IBAN candidates must carry a real ISO 3166 country code;
+  - English demonyms match case-sensitively ("Polish" yes, "polish the
+    furniture" no) while Swedish ones stay case-insensitive ("svensk");
+  - "gift"/"single" skip English determiner and compound contexts
+    ("a gift", "single sign-on") but keep the marital sense ("är gift").
+
+  Homographs that are genuinely common names ("Stig", "Bo") stay maskable
+  by design. The remaining accepted tradeoffs are pinned in
+  [tests/false-positives.test.ts](tests/false-positives.test.ts).
+- Default mode favors recall (synthetic/example numbers are masked even with
+  invalid checksums); use `strict: true` to favor precision.
+- Street addresses combine an exact lookup against the OSM street list
+  (~22k names in `data/streets.json`, including suffix-less streets like
+  "Aftonsången") with a heuristic fallback (capitalized words ending in
+  a street suffix) for streets missing from OSM. Single-word street
+  names under 5 characters are ignored — they collide with prose.
+
+## 📄 License
+
+[MIT](LICENSE)

@@ -4,12 +4,12 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const desc = "Swedish — Personal Identifiable Information (PII) — Detection & Masking"
-
 export const metadata: Metadata = {
-  title: desc,
-  description: desc + " in text",
-  icons: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕵️</text></svg>",
+  title: "Swedish PII — Detection & Masking",
+  description:
+    "Detect and mask Swedish personal identifiable information — names, personnummer, addresses, financial and sensitive data — with checksum validation and confidence scores.",
+  icons:
+    "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕵️</text></svg>",
 };
 
 export default function RootLayout({
@@ -18,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html>
+    <html lang="en" className="dark">
       <body className={inter.className}>{children}</body>
     </html>
   );

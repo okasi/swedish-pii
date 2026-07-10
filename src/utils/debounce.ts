@@ -1,10 +1,13 @@
-const debounce = (func: (...args: any[]) => void, wait: number) => {
-    let timeout: NodeJS.Timeout;
-    return (...args: any[]) => {
-      clearTimeout(timeout);
-      timeout = setTimeout(() => func(...args), wait);
-    };
+/** Debounce a function: only invoke after `wait` ms without new calls. */
+export function debounce<Args extends unknown[]>(
+  fn: (...args: Args) => void,
+  wait: number
+): (...args: Args) => void {
+  let timeout: ReturnType<typeof setTimeout> | undefined;
+  return (...args: Args) => {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => fn(...args), wait);
   };
+}
 
-
-export default debounce
+export default debounce;
