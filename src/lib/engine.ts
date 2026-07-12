@@ -10,9 +10,13 @@ import { personNames } from "./detectors/names";
 import {
   amexCreditCard,
   bicCode,
+  cryptoWallet,
   ibanCode,
   mastercardCreditCard,
   seBankNumber,
+  seBankgiro,
+  sePlusgiro,
+  seVatNumber,
   visaCreditCard,
 } from "./detectors/financial";
 import { idNumberDetectors } from "./detectors/idNumbers";
@@ -50,9 +54,14 @@ export const detectors: Detector[] = [
   amexCreditCard,
   mastercardCreditCard,
   visaCreditCard,
+  cryptoWallet,
+  // VAT before IBAN: the IBAN pattern also matches SE-prefixed VAT runs.
+  seVatNumber,
   ibanCode,
   bicCode,
   ...contactDetectors,
+  seBankgiro,
+  sePlusgiro,
   seBankNumber,
   ...locationDetectors,
   seWorkOrganization,

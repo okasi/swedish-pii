@@ -1,4 +1,4 @@
-import { regexDetector } from "../internal/regex";
+import { contextAware, regexDetector } from "../internal/regex";
 import { swedishIdChecksum } from "../validation/luhn";
 import { isValidIdentityDate } from "../validation/date";
 import type { Detector, PiiLabel } from "../types";
@@ -67,9 +67,23 @@ export const femaleSamordningsnummer = buildIdentityNumberDetector(
   "samordningsnummer"
 );
 
+/**
+ * Swedish passport / national ID card number: 8 digits. The shape is
+ * generic, so a pass/passport/id-kort cue must appear nearby to clear
+ * the default score threshold.
+ */
+export const sePassportNumber: Detector = contextAware(
+  regexDetector("SE_PASSPORT_NUMBER", /\b\d{8}\b/g),
+  {
+    before: /\bpass(?:nummer|nr|et)?\b|\bpassport\b|id-?kort/i,
+    window: 40,
+  }
+);
+
 export const idNumberDetectors: Detector[] = [
   malePersonnummer,
   femalePersonnummer,
   maleSamordningsnummer,
   femaleSamordningsnummer,
+  sePassportNumber,
 ];

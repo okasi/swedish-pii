@@ -1,5 +1,6 @@
 import counties from "../../../data/raw/counties.json";
 import municipalities from "../../../data/raw/municipalities.json";
+import cities from "../../../data/raw/cities.json";
 import streets from "../../../data/streets.json";
 import {
   SCORE,
@@ -192,6 +193,42 @@ export const seCounty: Detector = regexDetector(
 );
 
 /**
+ * Swedish cities from the OSM gazetteer (place=city, 32 entries).
+ * Case-sensitive: "Lund" is a city, "lund" is a grove. Person names
+ * still outrank cities in the engine, so "Anna Lund" stays a name.
+ */
+export const seCity: Detector = regexDetector(
+  "SE_CITY",
+  () => termListRegex(cities, "gu"),
+  { score: SCORE.CONTEXT }
+);
+
+/**
+ * Property designation (fastighetsbeteckning): "Brynäs 4:12" — one or
+ * two capitalized words followed by block:unit digits. Context-boosted:
+ * without a fastighet/tomt cue the same shape is a bible verse or a
+ * sports result ("Johannes 3:16").
+ */
+export const sePropertyDesignation: Detector = contextAware(
+  regexDetector(
+    "SE_PROPERTY_DESIGNATION",
+    /(?<![\p{L}\p{N}])[A-ZÅÄÖ][a-zåäöé]+(?: [A-ZÅÄÖ][a-zåäöé]+)? \d{1,3}:\d{1,3}(?![\p{L}\p{N}])/gu
+  ),
+  { before: /fastighet|tomt|beteckning/i, window: 50 }
+);
+
+/**
+ * Decimal GPS coordinates: "59.3293, 18.0686" — latitude −90…90 and
+ * longitude −180…180 with at least three decimals each.
+ */
+export const seCoordinate: Detector = regexDetector(
+  "COORDINATE",
+  // The trailing guard blocks digit continuation but allows a sentence
+  // period right after the final decimal.
+  /(?<![\d.])[-+]?(?:90|[0-8]?\d)\.\d{3,8},\s?[-+]?(?:180|1[0-7]\d|\d{1,2})\.\d{3,8}(?!\.?\d)/g
+);
+
+/**
  * Location detectors in local priority order. Note that the engine
  * hoists seKnownStreetAddressMultiWord above person names.
  */
@@ -200,7 +237,11 @@ export const locationDetectors: Detector[] = [
   // and can claim suffix-less street names the heuristic would miss.
   seKnownStreetAddressSingleWord,
   seStreetAddress,
+  // Property designation before postal/city so it claims whole phrases.
+  sePropertyDesignation,
   sePostalCode,
   seMunicipality,
   seCounty,
+  seCity,
+  seCoordinate,
 ];
