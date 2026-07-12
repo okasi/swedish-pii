@@ -1,5 +1,5 @@
 import { contextAware, regexDetector } from "../internal/regex";
-import { luhnCheck } from "../validation/luhn";
+import { luhnCheck, swedishIdChecksum } from "../validation/luhn";
 import { ibanChecksum } from "../validation/iban";
 import type { Detector } from "../types";
 
@@ -108,11 +108,62 @@ export const seBankNumber: Detector = contextAware(
   }
 );
 
+/**
+ * Bankgiro: 7–8 digits written NNN-NNNN or NNNN-NNNN, Luhn checksum
+ * over all digits. Context-boosted — the shape alone matches invoice
+ * references, so a bankgiro/bg cue must appear nearby.
+ */
+export const seBankgiro: Detector = contextAware(
+  regexDetector("SE_BANKGIRO", /\b\d{3,4}-\d{4}\b/g, {
+    validate: (match) => luhnCheck(match[0]),
+  }),
+  { before: /bankgiro|\bbg\b/i, window: 30 }
+);
+
+/**
+ * Plusgiro: 2–8 digits with the final Luhn check digit after a hyphen
+ * (e.g. 902003-3). Context-boosted for the same reason as bankgiro.
+ */
+export const sePlusgiro: Detector = contextAware(
+  regexDetector("SE_PLUSGIRO", /\b\d{1,7}-\d\b/g, {
+    validate: (match) => luhnCheck(match[0]),
+  }),
+  { before: /plusgiro|postgiro|\bpg\b/i, window: 30 }
+);
+
+/**
+ * Swedish VAT number: "SE" + 10-digit organization number + "01"
+ * (e.g. SE556012579001). The embedded org number carries a Luhn
+ * checksum. Must run before the IBAN detector, whose pattern also
+ * matches the SE-prefixed digit run.
+ */
+export const seVatNumber: Detector = regexDetector(
+  "SE_VAT_NUMBER",
+  /\bSE\d{10}01\b/g,
+  { validate: (match) => swedishIdChecksum(match[0].slice(2, 12)) }
+);
+
+/**
+ * Cryptocurrency wallet addresses: Ethereum (0x + 40 hex), Bitcoin
+ * bech32 (bc1…) and legacy base58 (1…/3…).
+ */
+export const cryptoWallet: Detector = regexDetector(
+  "CRYPTO_WALLET",
+  // The legacy-Bitcoin branch requires at least one base58 letter so
+  // that a long digit-only run (invoice/reference numbers) never
+  // reads as a wallet.
+  /\b(?:0x[a-fA-F0-9]{40}|bc1[ac-hj-np-z02-9]{11,71}|[13](?=\d*[A-HJ-NP-Za-km-z])[1-9A-HJ-NP-Za-km-z]{25,34})\b/g
+);
+
 export const financialDetectors: Detector[] = [
   amexCreditCard,
   mastercardCreditCard,
   visaCreditCard,
+  cryptoWallet,
+  seVatNumber,
   ibanCode,
   bicCode,
+  seBankgiro,
+  sePlusgiro,
   seBankNumber,
 ];

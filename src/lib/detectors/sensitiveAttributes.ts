@@ -1,4 +1,9 @@
-import { regexDetector, termListRegex, wordBounded } from "../internal/regex";
+import {
+  contextAware,
+  regexDetector,
+  termListRegex,
+  wordBounded,
+} from "../internal/regex";
 import type { Detector } from "../types";
 
 // "Gift" (Swedish: married / English: a present) and "Single" (marital
@@ -245,6 +250,46 @@ export const politicalIdeologies: Detector = regexDetector(
   () => termListRegex(POLITICAL_IDEOLOGY_TERMS)
 );
 
+/**
+ * Union membership is special-category data under GDPR Art. 9.
+ * Distinctive union names match on their own (case-sensitively);
+ * names that double as common words ("Vision", "Handels", "Transport")
+ * additionally require a nearby union cue.
+ */
+const LABOR_UNIONS_DISTINCT = [
+  "IF Metall", "Unionen", "Byggnads", "Seko", "Vårdförbundet",
+  "Lärarförbundet", "Lärarnas Riksförbund", "Sveriges Lärare",
+  "Sveriges Ingenjörer", "Sveriges Läkarförbund", "Journalistförbundet",
+  "Finansförbundet", "Polisförbundet", "Officersförbundet", "Akavia",
+  "Akademikerförbundet SSR", "GS-facket", "Hotell- och restaurangfacket",
+  "Svenska Transportarbetareförbundet", "Svenska Elektrikerförbundet",
+  "Fastighetsanställdas Förbund", "Handelsanställdas förbund",
+  "Livsmedelsarbetareförbundet", "Musikerförbundet",
+  "Sveriges Arbetsterapeuter", "Sveriges Skolledare", "Tull-Kust",
+  "SULF", "SRAT", "DIK", "Byggnadsarbetareförbundet",
+];
+
+const LABOR_UNIONS_AMBIGUOUS = [
+  "Vision", "Handels", "Livs", "Målarna", "Pappers", "Transport",
+  "Ledarna", "Elektrikerna", "Forena", "Kommunal", "Fysioterapeuterna",
+  "Naturvetarna", "LO", "TCO", "Saco", "SAC",
+];
+
+export const seLaborUnion: Detector = regexDetector("SE_LABOR_UNION", () =>
+  termListRegex(LABOR_UNIONS_DISTINCT, "gu")
+);
+
+export const seLaborUnionAmbiguous: Detector = contextAware(
+  regexDetector("SE_LABOR_UNION", () =>
+    termListRegex(LABOR_UNIONS_AMBIGUOUS, "gu")
+  ),
+  {
+    before: /fack|förbund|medlem|kollektivavtal|strejk|a-kassa|organiser|anslut/i,
+    after: /^[^.!?]{0,40}(?:fack|förbund|medlem|kollektivavtal|strejk)/i,
+    window: 60,
+  }
+);
+
 export const sensitiveAttributeDetectors: Detector[] = [
   maritalStatus,
   maritalStatusAmbiguous,
@@ -255,4 +300,6 @@ export const sensitiveAttributeDetectors: Detector[] = [
   demographic,
   demographicEnglish,
   politicalIdeologies,
+  seLaborUnion,
+  seLaborUnionAmbiguous,
 ];

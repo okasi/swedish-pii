@@ -10,11 +10,16 @@ export type PiiLabel =
   | "IBAN_CODE"
   | "BIC_CODE"
   | "SE_BANK_NUMBER"
+  | "SE_BANKGIRO"
+  | "SE_PLUSGIRO"
+  | "SE_VAT_NUMBER"
+  | "CRYPTO_WALLET"
   // Identification numbers
   | "SE_PERSONAL_IDENTITY_NUMBER_MALE"
   | "SE_PERSONAL_IDENTITY_NUMBER_FEMALE"
   | "SE_COORDINATION_NUMBER_MALE"
   | "SE_COORDINATION_NUMBER_FEMALE"
+  | "SE_PASSPORT_NUMBER"
   // Contact
   | "EMAIL_ADDRESS"
   | "PHONE_NUMBER"
@@ -24,6 +29,9 @@ export type PiiLabel =
   | "SE_POSTAL_CODE"
   | "SE_MUNICIPALITY"
   | "SE_COUNTY"
+  | "SE_CITY"
+  | "SE_PROPERTY_DESIGNATION"
+  | "COORDINATE"
   // Work / education
   | "SE_WORK_ORGANIZATION"
   | "SE_EDUCATION_ORGANIZATION"
@@ -38,12 +46,15 @@ export type PiiLabel =
   | "SEXUAL_ORIENTATION"
   | "DEMOGRAPHIC"
   | "POLITICAL_IDEOLOGIES"
+  | "SE_LABOR_UNION"
   // Misc
   | "SE_LICENSE_PLATE"
   | "IP_ADDRESS"
   | "MAC_ADDRESS"
   | "DATE"
-  | "TIME";
+  | "TIME"
+  | "SE_CASE_NUMBER"
+  | "AGE";
 
 /** A single detected PII entity, anchored to the original text. */
 export interface PiiEntity {

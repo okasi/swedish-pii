@@ -99,6 +99,9 @@ prose words ("Engine", "Semester") never decompose.
 - Swedish IBAN codes  
 - Swedish BIC codes  
 - Swedish bank account numbers  
+- Swedish Bankgiro & Plusgiro numbers (Luhn-validated)  
+- Swedish VAT numbers  
+- Cryptocurrency wallet addresses (BTC, ETH)  
 
 </details>
 
@@ -109,6 +112,7 @@ prose words ("Engine", "Semester") never decompose.
 - Swedish personal identity numbers (female)  
 - Swedish coordination numbers (male)  
 - Swedish coordination numbers (female)  
+- Swedish passport / national ID card numbers  
 
 </details>
 
@@ -128,6 +132,9 @@ prose words ("Engine", "Semester") never decompose.
 - Swedish postal codes  
 - Swedish municipalities  
 - Swedish counties  
+- Swedish cities  
+- Property designations (fastighetsbeteckningar)  
+- GPS coordinates  
 
 </details>
 
@@ -152,6 +159,7 @@ prose words ("Engine", "Semester") never decompose.
 - Sexual orientation information  
 - Demographic information  
 - Political ideologies information  
+- Labor union membership (GDPR Art. 9)  
 
 </details>
 
@@ -159,10 +167,12 @@ prose words ("Engine", "Semester") never decompose.
 <summary>🧩 Misc</summary>
 
 - Swedish license plate information  
-- IP addresses  
+- IP addresses (IPv4 & IPv6)  
 - MAC addresses  
 - Date information  
 - Time information  
+- Court & authority case numbers (dnr, mål nr)  
+- Age information  
 
 </details>
 
@@ -181,16 +191,16 @@ For the exact label emitted per category (e.g. `PER_FIRST`, `SE_BANK_NUMBER`,
 ## 🛣️ Roadmap
 
 - Patterns for:
-  - Passport numbers
+  - ~~Passport numbers~~ ✅
   - Residence Permit Number?
-  - Bank Account Number (Bankgiro/Plusgiro)
+  - ~~Bank Account Number (Bankgiro/Plusgiro)~~ ✅
 - Set lookups for:
   - Localities 🏘️
-  - Cities 🏙️
-  - Labor Unions (LABOR_UNION) <https://webperf.se/category/fackforeningar/> 💪
+  - ~~Cities 🏙️~~ ✅
+  - ~~Labor Unions~~ ✅ (`SE_LABOR_UNION`, context-aware for ambiguous names like "Vision")
 - Reduce false positives
 - Improve performance & simplify
-- ~~Comprehensive tests~~ ✅ (`npm test`, 67 tests across detectors, validators, matching, and the engine)
+- ~~Comprehensive tests~~ ✅ (`npm test`, 300+ tests across detectors, validators, matching, and the engine)
 - ~~Make it to a npm package (library)~~ ✅ (`npm run build:lib`, publish with `npm publish`)
 - Make a documentation page (frontend)
 
@@ -393,13 +403,13 @@ rm addresses.osm.pbf addresses.geojson
 | Category | Labels |
 | --- | --- |
 | 👤 Names | `PER_FIRST`, `PER_LAST` |
-| 🆔 Identity numbers | `SE_PERSONAL_IDENTITY_NUMBER_MALE/FEMALE`, `SE_COORDINATION_NUMBER_MALE/FEMALE` |
-| 💳 Financial | `AMEX_CREDIT_CARD`, `MASTERCARD_CREDIT_CARD`, `VISA_CREDIT_CARD`, `IBAN_CODE`, `BIC_CODE`, `SE_BANK_NUMBER` |
+| 🆔 Identity numbers | `SE_PERSONAL_IDENTITY_NUMBER_MALE/FEMALE`, `SE_COORDINATION_NUMBER_MALE/FEMALE`, `SE_PASSPORT_NUMBER` |
+| 💳 Financial | `AMEX_CREDIT_CARD`, `MASTERCARD_CREDIT_CARD`, `VISA_CREDIT_CARD`, `IBAN_CODE`, `BIC_CODE`, `SE_BANK_NUMBER`, `SE_BANKGIRO`, `SE_PLUSGIRO`, `SE_VAT_NUMBER`, `CRYPTO_WALLET` |
 | 📞 Contact | `EMAIL_ADDRESS`, `PHONE_NUMBER`, `SOCIAL_MEDIA` |
-| 📍 Location | `SE_STREET_ADDRESS`, `SE_POSTAL_CODE`, `SE_MUNICIPALITY`, `SE_COUNTY` |
+| 📍 Location | `SE_STREET_ADDRESS`, `SE_POSTAL_CODE`, `SE_MUNICIPALITY`, `SE_COUNTY`, `SE_CITY`, `SE_PROPERTY_DESIGNATION`, `COORDINATE` |
 | 🏢 Work / education | `SE_WORK_ORGANIZATION`, `SE_EDUCATION_ORGANIZATION`, `SE_EDUCATION_PROGRAM`, `SE_WORK_PROFESSION`, `SE_ORGANIZATION_NUMBER` |
-| 🔒 Sensitive attributes | `MARITAL_STATUS`, `GENETIC_SEX`, `DISABILITY`, `RELIGION`, `SEXUAL_ORIENTATION`, `DEMOGRAPHIC`, `POLITICAL_IDEOLOGIES` |
-| 🧩 Misc | `SE_LICENSE_PLATE`, `IP_ADDRESS`, `MAC_ADDRESS`, `DATE`, `TIME` |
+| 🔒 Sensitive attributes | `MARITAL_STATUS`, `GENETIC_SEX`, `DISABILITY`, `RELIGION`, `SEXUAL_ORIENTATION`, `DEMOGRAPHIC`, `POLITICAL_IDEOLOGIES`, `SE_LABOR_UNION` |
+| 🧩 Misc | `SE_LICENSE_PLATE`, `IP_ADDRESS` (v4+v6), `MAC_ADDRESS`, `DATE`, `TIME`, `SE_CASE_NUMBER`, `AGE` |
 
 ---
 

@@ -176,11 +176,16 @@ export function contextAware(
         const hasContext =
           (context.before?.test(beforeText) ?? false) ||
           (context.after?.test(afterText) ?? false);
+        // Context corroborates the *shape* — it must never outweigh a
+        // failed checksum. Scores already below SCORE.PATTERN (e.g.
+        // FAILED_VALIDATION) are left as-is even with context.
+        const boosted =
+          span.score < SCORE.PATTERN
+            ? span.score
+            : Math.max(span.score, boostedScore);
         return {
           ...span,
-          score: hasContext
-            ? Math.max(span.score, boostedScore)
-            : Math.min(span.score, dimmedScore),
+          score: hasContext ? boosted : Math.min(span.score, dimmedScore),
         };
       });
     },

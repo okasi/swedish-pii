@@ -6,7 +6,7 @@ import type { MaskResult, PiiEntity } from "@/lib/types";
 
 type Lib = typeof import("@/lib");
 
-const TOTAL_LABELS = 36;
+const TOTAL_LABELS = 47;
 
 const CATEGORY_STYLES: { match: (label: string) => boolean; chip: string; bar: string; name: string; icon: string }[] = [
   {
@@ -17,7 +17,10 @@ const CATEGORY_STYLES: { match: (label: string) => boolean; chip: string; bar: s
     icon: "👤",
   },
   {
-    match: (l) => l.includes("IDENTITY") || l.includes("COORDINATION"),
+    match: (l) =>
+      l.includes("IDENTITY") ||
+      l.includes("COORDINATION_NUMBER") ||
+      l.includes("PASSPORT"),
     chip: "bg-red-400/15 text-red-300 ring-red-400/30",
     bar: "bg-red-400",
     name: "Identity numbers",
@@ -25,7 +28,7 @@ const CATEGORY_STYLES: { match: (label: string) => boolean; chip: string; bar: s
   },
   {
     match: (l) =>
-      /CREDIT_CARD|IBAN|BIC|BANK/.test(l),
+      /CREDIT_CARD|IBAN|BIC|BANK|GIRO|VAT|CRYPTO/.test(l),
     chip: "bg-emerald-400/15 text-emerald-300 ring-emerald-400/30",
     bar: "bg-emerald-400",
     name: "Financial",
@@ -39,7 +42,8 @@ const CATEGORY_STYLES: { match: (label: string) => boolean; chip: string; bar: s
     icon: "📞",
   },
   {
-    match: (l) => /STREET|POSTAL|MUNICIPALITY|COUNTY/.test(l),
+    match: (l) =>
+      /STREET|POSTAL|MUNICIPALITY|COUNTY|CITY|PROPERTY|COORDINATE/.test(l),
     chip: "bg-violet-400/15 text-violet-300 ring-violet-400/30",
     bar: "bg-violet-400",
     name: "Location",
@@ -54,7 +58,7 @@ const CATEGORY_STYLES: { match: (label: string) => boolean; chip: string; bar: s
   },
   {
     match: (l) =>
-      /MARITAL|GENETIC|DISABILITY|RELIGION|SEXUAL|DEMOGRAPHIC|POLITICAL/.test(l),
+      /MARITAL|GENETIC|DISABILITY|RELIGION|SEXUAL|DEMOGRAPHIC|POLITICAL|LABOR/.test(l),
     chip: "bg-rose-400/15 text-rose-300 ring-rose-400/30",
     bar: "bg-rose-400",
     name: "Sensitive attributes",
@@ -168,7 +172,7 @@ export default function Home() {
         <header className="pt-20 text-center">
           <p className="mb-4 inline-flex items-center gap-2 rounded-full border border-slate-700/60 bg-slate-900/60 px-4 py-1.5 text-xs text-slate-400">
             <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-400" />
-            264 tests · zero runtime dependencies · MIT
+            307 tests · zero runtime dependencies · MIT
           </p>
           <h1 className="mx-auto max-w-3xl text-5xl font-bold tracking-tight text-white sm:text-6xl">
             Swedish PII{" "}
@@ -205,7 +209,7 @@ export default function Home() {
           {/* stats */}
           <dl className="mx-auto mt-14 grid max-w-3xl grid-cols-2 gap-4 sm:grid-cols-4">
             {[
-              ["36", "PII labels"],
+              ["47", "PII labels"],
               ["151k+", "registered names"],
               ["22,350", "OSM streets"],
               ["~0.1 ms", "per detection"],
@@ -394,13 +398,13 @@ export default function Home() {
           <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {[
               ["👤", "Names", "20,524 male + 23,347 female first names and 107,762 surnames from SCB, fuzzy-matched with Jaro–Winkler."],
-              ["🆔", "Identity numbers", "Personnummer & samordningsnummer with Luhn checksums and real calendar-date validation."],
-              ["💳", "Financial", "Visa, Mastercard, Amex (Luhn), IBAN (mod-97), BIC with ISO country codes, bank accounts."],
+              ["🆔", "Identity numbers", "Personnummer, samordningsnummer and passport numbers — with Luhn checksums and real calendar-date validation."],
+              ["💳", "Financial", "Cards (Luhn), IBAN (mod-97), BIC, bank accounts, Bankgiro & Plusgiro, VAT numbers and crypto wallets."],
               ["📞", "Contact", "Email addresses, Swedish phone formats and social media handles & profile URLs."],
-              ["📍", "Location", "22,350 OSM street names + heuristics, postal codes, all 290 municipalities and 21 counties."],
+              ["📍", "Location", "22,350 OSM streets, postal codes, 290 municipalities, 21 counties, cities, GPS coordinates and property designations."],
               ["🏢", "Work & education", "Organizations, org numbers (Luhn), 414 professions and SUN education programs."],
-              ["🔒", "Sensitive attributes", "Marital status, religion, disability, orientation, demographics and political ideology — in both languages."],
-              ["🧩", "Misc", "License plates, IPv4, MAC addresses, dates and times — all with structural validation."],
+              ["🔒", "Sensitive attributes", "Marital status, religion, disability, orientation, demographics, political ideology and union membership."],
+              ["🧩", "Misc", "License plates, IPv4 & IPv6, MAC addresses, dates, times, case numbers and age."],
             ].map(([icon, title, body]) => (
               <div
                 key={title}
