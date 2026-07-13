@@ -31,7 +31,10 @@ export const mastercardCreditCard: Detector = regexDetector(
  */
 export const visaCreditCard: Detector = regexDetector(
   "VISA_CREDIT_CARD",
-  /\b4\d{3}([-\s]?)\d{4}\1\d{4}\1\d{1,4}\b/g,
+  // Visa supports 13- and 16-digit PANs. Keep the separated and
+  // unseparated forms distinct so the final group cannot accidentally
+  // admit unsupported 14- or 15-digit shapes.
+  /\b(?:4(?:\d{12}|\d{15})|4\d{3}([-\s])\d{4}\1\d{4}\1(?:\d|\d{4}))\b/g,
   luhn
 );
 

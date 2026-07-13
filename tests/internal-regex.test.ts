@@ -181,6 +181,19 @@ describe("contextAware", () => {
     );
   });
 
+  it("does not leak lastIndex from global context expressions", () => {
+    const globalContext = contextAware(base, {
+      before: /konto/gi,
+      window: 20,
+    });
+    const text = "konto 1234567890 och konto 0987654321";
+
+    const scores = () =>
+      globalContext.detect(text, OPTS).map((span) => span.score);
+    expect(scores()).toEqual([SCORE.CONTEXT, SCORE.CONTEXT]);
+    expect(scores()).toEqual([SCORE.CONTEXT, SCORE.CONTEXT]);
+  });
+
   it("never lowers an already-dim score below dimmedScore floor logic", () => {
     const custom = contextAware(base, {
       before: /konto/i,

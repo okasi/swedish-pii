@@ -46,6 +46,7 @@ const { maskedText, maskedData, entities } = maskPII(text);
 // context-starved shapes ~0.25. Tune the cutoff per use case:
 maskPII(text, { scoreThreshold: 0.2 }); // recall-first (e.g. raw CSV columns)
 maskPII(text, { scoreThreshold: 0.9 }); // precision-first
+// scoreThreshold must be a finite number from 0 through 1
 
 // Strict mode drops anything that fails its checksum (Luhn for cards,
 // personnummer and org numbers; mod-97 for IBANs) or calendar check:

@@ -93,6 +93,8 @@ export interface DetectOptions {
    * context-starved shapes (0.25) do not. Lower it to catch e.g. bank
    * account numbers in bare CSV columns with no surrounding words;
    * raise it to keep only high-confidence entities.
+   * Must be a finite number from 0 through 1; other values throw a
+   * RangeError.
    */
   scoreThreshold?: number;
 }

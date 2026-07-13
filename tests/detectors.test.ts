@@ -74,6 +74,14 @@ describe("financial detectors", () => {
     expect(values(visaCreditCard, "4111 1111-1111 1111")).toEqual([]);
   });
 
+  it("accepts only documented Visa card lengths", () => {
+    expect(values(visaCreditCard, "Visa: 4222 2222 2222 2", true)).toEqual([
+      "4222 2222 2222 2",
+    ]);
+    expect(values(visaCreditCard, "4111 1111 1111 12")).toEqual([]);
+    expect(values(visaCreditCard, "4111 1111 1111 123")).toEqual([]);
+  });
+
   it("enforces Luhn in strict mode only", () => {
     const invalid = "4111 1111 1111 1112";
     expect(values(visaCreditCard, invalid)).toEqual([invalid]);

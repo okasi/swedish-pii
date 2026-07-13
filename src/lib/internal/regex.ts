@@ -164,6 +164,18 @@ export function contextAware(
   const window = context.window ?? 40;
   const boostedScore = context.boostedScore ?? SCORE.CONTEXT;
   const dimmedScore = context.dimmedScore ?? SCORE.NO_CONTEXT;
+
+  // `g` and `y` regexes retain `lastIndex` between `test` calls. Context
+  // expressions are often literals without either flag, but normalizing
+  // their state makes this helper deterministic for every valid RegExp.
+  const matchesContext = (regex: RegExp | undefined, value: string) => {
+    if (!regex) return false;
+    regex.lastIndex = 0;
+    const matches = regex.test(value);
+    regex.lastIndex = 0;
+    return matches;
+  };
+
   return {
     labels: detector.labels,
     detect(text, options) {
@@ -174,8 +186,8 @@ export function contextAware(
         );
         const afterText = text.slice(span.end, span.end + window);
         const hasContext =
-          (context.before?.test(beforeText) ?? false) ||
-          (context.after?.test(afterText) ?? false);
+          matchesContext(context.before, beforeText) ||
+          matchesContext(context.after, afterText);
         // Context corroborates the *shape* — it must never outweigh a
         // failed checksum. Scores already below SCORE.PATTERN (e.g.
         // FAILED_VALIDATION) are left as-is even with context.

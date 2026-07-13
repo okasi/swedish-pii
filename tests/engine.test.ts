@@ -2,6 +2,17 @@ import { describe, expect, it } from "vitest";
 import { detectPII, maskPII } from "@/lib";
 
 describe("detectPII", () => {
+  it("validates score thresholds and normalizes strict mode at runtime", () => {
+    for (const scoreThreshold of [-0.1, 1.1, Infinity, Number.NaN]) {
+      expect(() => detectPII("x", { scoreThreshold })).toThrow(RangeError);
+    }
+
+    const invalidCard = "4111 1111 1111 1112";
+    expect(
+      detectPII(invalidCard, { strict: "true" as unknown as boolean })
+    ).toHaveLength(1);
+  });
+
   it("returns entities with exact offsets", () => {
     const text = "Mejla anna.andersson@email.se innan 14:30.";
     const entities = detectPII(text);

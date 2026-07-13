@@ -124,9 +124,22 @@ function blankSpans(text: string, spans: EntitySpan[]): string {
  * `scoreThreshold` are discarded before overlap resolution.
  */
 export function detectPII(text: string, options: DetectOptions = {}): PiiEntity[] {
+  const scoreThreshold = options.scoreThreshold ?? DEFAULT_SCORE_THRESHOLD;
+  if (
+    !Number.isFinite(scoreThreshold) ||
+    scoreThreshold < 0 ||
+    scoreThreshold > 1
+  ) {
+    throw new RangeError(
+      "scoreThreshold must be a finite number between 0 and 1"
+    );
+  }
+
   const resolvedOptions: Required<DetectOptions> = {
-    strict: options.strict ?? false,
-    scoreThreshold: options.scoreThreshold ?? DEFAULT_SCORE_THRESHOLD,
+    // This also keeps JavaScript callers consistent with the HTTP API:
+    // only the boolean value `true` enables strict validation.
+    strict: options.strict === true,
+    scoreThreshold,
   };
 
   const accepted: EntitySpan[] = [];
